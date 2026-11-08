@@ -1,7 +1,7 @@
 {
   "site": {
     "name": "FC27 Cheats",
-    "domain": "cheatsfc27.com",
+    "domain": "cheatsfc27.org",
     "title": "FC27 Cheats",
     "description": "FC27 cheats with gameplay assists, Career and Ultimate Team tools, and mod menu config for EA SPORTS FC 27 on Windows PC. Worldwide. USD pricing.",
     "discord": "https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fea-sports-fc-27"
@@ -134,7 +134,7 @@
     "rows": [
       {
         "title": "Patch-day loader updates",
-        "desc": "Check cheatsfc27.com after an FC 27 or EA Javelin update before you open the loader."
+        "desc": "Check cheatsfc27.org after an FC 27 or EA Javelin update before you open the loader."
       },
       {
         "title": "Separate aim sliders",
@@ -391,7 +391,7 @@
         "num": "01",
         "phase": "Before purchase",
         "title": "Check EA Javelin status",
-        "desc": "Read cheatsfc27.com after a client or EA Javelin update before you buy or launch."
+        "desc": "Read cheatsfc27.org after a client or EA Javelin update before you buy or launch."
       },
       {
         "num": "02",
@@ -472,7 +472,7 @@
     "ticketItems": [
       {
         "title": "Order email",
-        "desc": "The address used at checkout on cheatsfc27.com."
+        "desc": "The address used at checkout on cheatsfc27.org."
       },
       {
         "title": "Platform",
@@ -566,7 +566,7 @@
     }
   },
   "footer": {
-    "tagline": "FC27 Cheats, HWID spoofer, and UGC recovery for Windows PC. cheatsfc27.com",
+    "tagline": "FC27 Cheats, HWID spoofer, and UGC recovery for Windows PC. cheatsfc27.org",
     "explore": "Explore",
     "exploreLinks": [
       {
@@ -619,12 +619,12 @@
   "legalPages": {
     "about": {
       "title": "About this FC 27 store",
-      "description": "cheatsfc27.com sells FC27 Cheats, an HWID spoofer, and UGC account recovery for Windows PC, with setup notes and honest ban risk.",
+      "description": "cheatsfc27.org sells FC27 Cheats, an HWID spoofer, and UGC account recovery for Windows PC, with setup notes and honest ban risk.",
       "sections": [
         {
           "heading": "Who we are",
           "paragraphs": [
-            "cheatsfc27.com is a Windows PC store for FC27 Cheats, an HWID spoofer, and UGC account recovery. The cheat is one loader product with FUT, gameplay, Pro Clubs, utilities, and safety tabs. Cloud DMA is required for full functionality on supported builds. It is not a ladder of Lite, Pro, and Elite tiers.",
+            "cheatsfc27.org is a Windows PC store for FC27 Cheats, an HWID spoofer, and UGC account recovery. The cheat is one loader product with FUT, gameplay, Pro Clubs, utilities, and safety tabs. Cloud DMA is required for full functionality on supported builds. It is not a ladder of Lite, Pro, and Elite tiers.",
             "FC27 Cheats and UGC checkout at $35 for 31 days or $150 lifetime. The HWID spoofer is $50 for 31 days or $150 lifetime. A lifetime key on the cheat does not include the spoofer or the recovery workspace. Starting on a month does not promise a credit toward lifetime.",
             "Product names on this site identify what we sell. They are not a claim that the game publisher endorses the software. Delivery is a portal download for Windows 10 or 11. You keep HVCI, core isolation, TPM, and secure boot on, then open the loader only when the site still matches the current client."
           ]
@@ -648,12 +648,12 @@
     },
     "privacy": {
       "title": "Privacy Policy",
-      "description": "How cheatsfc27.com handles analytics, cookies, and contact data.",
+      "description": "How cheatsfc27.org handles analytics, cookies, and contact data.",
       "sections": [
         {
           "heading": "Information we collect",
           "paragraphs": [
-            "We may collect standard web analytics such as page views, device type, browser, and approximate region through Google Analytics when enabled. Checkout and license delivery happen on external checkout pages. We do not store payment card data on cheatsfc27.com."
+            "We may collect standard web analytics such as page views, device type, browser, and approximate region through Google Analytics when enabled. Checkout and license delivery happen on external checkout pages. We do not store payment card data on cheatsfc27.org."
           ]
         },
         {
@@ -678,12 +678,12 @@
     },
     "terms": {
       "title": "Terms & Conditions",
-      "description": "Purchase, license, refund, and use terms for products sold on cheatsfc27.com.",
+      "description": "Purchase, license, refund, and use terms for products sold on cheatsfc27.org.",
       "sections": [
         {
           "heading": "Agreement",
           "paragraphs": [
-            "Last updated: October 2026. By using cheatsfc27.com or completing checkout for any product listed here, you agree to these Terms & Conditions and our Privacy Policy."
+            "Last updated: October 2026. By using cheatsfc27.org or completing checkout for any product listed here, you agree to these Terms & Conditions and our Privacy Policy."
           ]
         },
         {
@@ -696,7 +696,7 @@
         {
           "heading": "Checkout and delivery",
           "paragraphs": [
-            "Payment and license delivery run on external checkout pages. cheatsfc27.com does not process or store payment card numbers.",
+            "Payment and license delivery run on external checkout pages. cheatsfc27.org does not process or store payment card numbers.",
             "After purchase, use the portal from your order to download the current loader before you launch FC 27. Leave HVCI, core isolation, TPM, and secure boot on."
           ]
         },
@@ -737,7 +737,7 @@
     },
     "support": {
       "title": "FC 27 support",
-      "description": "Loader, HWID spoofer, UGC, and checkout help for cheatsfc27.com."
+      "description": "Loader, HWID spoofer, UGC, and checkout help for cheatsfc27.org."
     }
   },
   "productCatalog": {
@@ -884,7 +884,7 @@
     "code": "404",
     "title": "Page not found",
     "description": "That URL does not exist or may have moved. Head back to the homepage or browse the products.",
-    "metaDescription": "The page you requested could not be found on cheatsfc27.com.",
+    "metaDescription": "The page you requested could not be found on cheatsfc27.org.",
     "metaTitleSuffix": "Page not found",
     "backHome": "Back to home",
     "viewProducts": "View products",
@@ -1024,7 +1024,7 @@
     "title": "FAQ: plans, setup, EA Javelin risk before checkout — cheats & guides",
     "subtitle": "Plans, gameplay assist options, the HWID spoofer, UGC recovery, and what to check after an EA Javelin update.",
     "schemaName": "FAQ — FC27 Cheats & Products",
-    "schemaDescription": "Answers about FC27 Cheats, the HWID spoofer, UGC recovery, EA Javelin risk, and checkout on cheatsfc27.com."
+    "schemaDescription": "Answers about FC27 Cheats, the HWID spoofer, UGC recovery, EA Javelin risk, and checkout on cheatsfc27.org."
   },
   "siteFaqSection": {
     "allTopicsEyebrow": "All topics",

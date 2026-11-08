@@ -2,7 +2,7 @@
   "steps": [
     {
       "title": "Check status",
-      "desc": "Confirm modules are online on cheatsfc27.com before you buy—especially after an EA Javelin or FC 27 client update."
+      "desc": "Confirm modules are online on cheatsfc27.org before you buy—especially after an EA Javelin or FC 27 client update."
     },
     {
       "title": "Pick a plan",
@@ -83,7 +83,7 @@
       "title": "Built for EA SPORTS FC 27 on Windows PC",
       "paragraphs": [
         "Checkout unlocks the Windows loader for supported FC 27 builds. Use the preview columns for group names, then open the feature catalog for every toggle and slider.",
-        "Check cheatsfc27.com after an EA Javelin or client patch before you launch."
+        "Check cheatsfc27.org after an EA Javelin or client patch before you launch."
       ]
     },
     "body": [
@@ -104,7 +104,7 @@
         "text": "Monthly $35 USD (P31D) or lifetime $150 USD (P99Y). Instant digital delivery worldwide after checkout."
       }
     ],
-    "goodToKnow": "EA SPORTS FC 27 and EA Javelin update often. Confirm availability on cheatsfc27.com before you launch. Overlay behavior may differ in menus or spectator views after patches.",
+    "goodToKnow": "EA SPORTS FC 27 and EA Javelin update often. Confirm availability on cheatsfc27.org before you launch. Overlay behavior may differ in menus or spectator views after patches.",
     "limitations": "Third-party software can violate game terms and lead to bans. You use this software at your own risk. Compatibility can change after game, EA Javelin, or Windows updates without notice.",
     "requirements": [
       "HVCI ON · CORE ISOLATION ON · TPM ON · SECURE BOOT ON",

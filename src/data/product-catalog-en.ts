@@ -73,7 +73,7 @@ export const acquisitionSteps: AcquisitionStep[] = [
   {
     num: '01',
     title: 'Check status',
-    desc: 'Confirm modules are online on cheatsfc27.com before you buy—especially after an EA Javelin or FC 27 client update.',
+    desc: 'Confirm modules are online on cheatsfc27.org before you buy—especially after an EA Javelin or FC 27 client update.',
   },
   {
     num: '02',
@@ -126,7 +126,7 @@ export const utilitySlides = {
 export const cheatsContent = {
   images: [...fc27MenuSlides],
   goodToKnow:
-    'EA SPORTS FC 27 and EA Javelin update often. Confirm availability on cheatsfc27.com before you launch. Overlay behavior may differ in menus or spectator views after patches.',
+    'EA SPORTS FC 27 and EA Javelin update often. Confirm availability on cheatsfc27.org before you launch. Overlay behavior may differ in menus or spectator views after patches.',
   limitations:
     'Third-party software can violate game terms and lead to bans. You use this software at your own risk. Compatibility can change after game, EA Javelin, or Windows updates without notice.',
   systemRequirements: [
@@ -148,7 +148,7 @@ export const cheatsContent = {
     title: 'Built for EA SPORTS FC 27 on Windows PC',
     paragraphs: [
       'Checkout unlocks the Windows loader for supported FC 27 builds. Use the preview columns for group names, then open the feature catalog for every toggle and slider.',
-      'Check cheatsfc27.com after an EA Javelin or client patch before you launch.',
+      'Check cheatsfc27.org after an EA Javelin or client patch before you launch.',
     ],
   },
   body: [

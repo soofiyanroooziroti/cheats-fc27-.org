@@ -1,6 +1,6 @@
 # cheats-fc27-.org
 
-Astro static marketing site for **FC27 Cheats** ([cheatsfc27.com](https://cheatsfc27.com)): products, blog, forum, i18n, and checkout via `/go/` hops.
+Astro static marketing site for **FC27 Cheats** ([cheatsfc27.org](https://cheatsfc27.org)): products, blog, forum, i18n, and checkout via `/go/` hops.
 
 ## Commands
 

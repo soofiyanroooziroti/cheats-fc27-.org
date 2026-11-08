@@ -88,7 +88,7 @@ export function buildEnBundle(): Translations {
       title: 'Page not found',
       description:
         'That URL does not exist or may have moved. Head back to the homepage or browse the products.',
-      metaDescription: 'The page you requested could not be found on cheatsfc27.com.',
+      metaDescription: 'The page you requested could not be found on cheatsfc27.org.',
       metaTitleSuffix: 'Page not found',
       backHome: 'Back to home',
       viewProducts: 'View products',
@@ -193,7 +193,7 @@ export function buildEnBundle(): Translations {
         'Plans, gameplay assist options, the HWID spoofer, UGC recovery, and what to check after an EA Javelin update.',
       schemaName: 'FAQ — FC27 Cheats & Products',
       schemaDescription:
-        'Answers about FC27 Cheats, the HWID spoofer, UGC recovery, EA Javelin risk, and checkout on cheatsfc27.com.',
+        'Answers about FC27 Cheats, the HWID spoofer, UGC recovery, EA Javelin risk, and checkout on cheatsfc27.org.',
     },
     siteFaqSection: {
       allTopicsEyebrow: 'All topics',

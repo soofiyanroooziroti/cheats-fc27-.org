@@ -36,7 +36,7 @@ export function buildRssFeed(): string {
   <channel>
     <title>FC27 Cheats guides</title>
     <link>${SITE_ORIGIN}/blog/</link>
-    <description>FC27 Cheats, gameplay assists, pricing, and setup guides from cheatsfc27.com.</description>
+    <description>FC27 Cheats, gameplay assists, pricing, and setup guides from cheatsfc27.org.</description>
     <language>en-us</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     <atom:link href="${feedUrl}" rel="self" type="application/rss+xml" />

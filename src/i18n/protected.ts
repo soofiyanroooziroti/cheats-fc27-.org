@@ -7,7 +7,7 @@ export const PROTECTED_GAME_NAMES = ['FC 27', 'EA Javelin', 'DayZ', 'BattlEye'] 
 
 export const PROTECTED_SITE_NAMES = [
   'FC27 Cheats',
-  'cheatsfc27.com',
+  'cheatsfc27.org',
   'DayZ Cheats',
   'DayZ cheats',
   'dayz-cheats.org',

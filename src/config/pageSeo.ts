@@ -55,19 +55,19 @@ export const PAGE_SEO: Record<string, PageSeoEntry> = {
       'Loader, checkout, and portal help for PC tools, the HWID spoofer, and account appeals. Include your order email and the exact loader.',
   },
     '/about/': {
-      title: 'Store – cheatsfc27.com sells FC 27 on Windows PC',
+      title: 'Store – cheatsfc27.org sells FC 27 on Windows PC',
       description:
-        'Store: What cheatsfc27.com sells for EA SPORTS FC 27 on Windows PC, how portal delivery works, EA Javelin risks, and the loader, spoofer, and UGC.',
+        'Store: What cheatsfc27.org sells for EA SPORTS FC 27 on Windows PC, how portal delivery works, EA Javelin risks, and the loader, spoofer, and UGC.',
     },
   '/privacy/': {
     title: 'Privacy notes for analytics, cookies, and contact data',
     description:
-      'How cheatsfc27.com handles analytics, cookies, and contact data. Payment card numbers stay on the checkout provider, not on this store.',
+      'How cheatsfc27.org handles analytics, cookies, and contact data. Payment card numbers stay on the checkout provider, not on this store.',
   },
   '/terms/': {
     title: 'License terms, refunds, and acceptable use rules',
     description:
-      'License terms, acceptable use, and the no-refund rule for the loader, HWID spoofer, and account recovery sold through cheatsfc27.com.',
+      'License terms, acceptable use, and the no-refund rule for the loader, HWID spoofer, and account recovery sold through cheatsfc27.org.',
   },
   '/status/': {
     title: 'EA Javelin Patch Notes & Client Status',

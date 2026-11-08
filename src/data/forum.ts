@@ -83,7 +83,7 @@ const rawPosts: Array<Omit<ForumPost, 'commentsCount'>> = [
     excerpt:
       'Title Update v1.1.0 (October 27, 2026) is installed. My preset is older and the status page says Updated.',
     description:
-      'Read cheatsfc27.com after each client or EA Javelin update. The current note is Title Update v1.1.0. Updated is not an undetected claim.',
+      'Read cheatsfc27.org after each client or EA Javelin update. The current note is Title Update v1.1.0. Updated is not an undetected claim.',
     author: 'QueueHold',
     age: '6h ago',
     date: 'Oct 27, 2026',

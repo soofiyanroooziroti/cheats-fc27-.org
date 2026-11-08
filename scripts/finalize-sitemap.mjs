@@ -44,7 +44,7 @@ function canonicalizeHosts(xml) {
   let out = xml.replace(/https?:\/\/(?:www\.)?cheatsfordeltaforce\.com/g, CANONICAL_ORIGIN);
   out = out.replace(/https:\/\/getwarzonecheats\.org(?=\/|$)/g, CANONICAL_ORIGIN);
   out = out.replace(/https:\/\/dayz-cheats\.org(?=\/|$)/g, CANONICAL_ORIGIN);
-  out = out.replace(/https:\/\/cheatsfc27\.com(?=\/|$)/g, CANONICAL_ORIGIN);
+  out = out.replace(/https:\/\/cheatsfc27\.(?:com|org)(?=\/|$)/g, CANONICAL_ORIGIN);
   return out;
 }
 

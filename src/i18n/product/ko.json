@@ -2,7 +2,7 @@
   "steps": [
     {
       "title": "상태 확인",
-      "desc": "구매하기 전에 cheatsfc27.com에서 모듈이 온라인 상태인지 확인하세요. 특히 EA Javelin 또는 FC 27 클라이언트 업데이트 이후에는 더욱 그렇습니다."
+      "desc": "구매하기 전에 cheatsfc27.org에서 모듈이 온라인 상태인지 확인하세요. 특히 EA Javelin 또는 FC 27 클라이언트 업데이트 이후에는 더욱 그렇습니다."
     },
     {
       "title": "요금제 선택",
@@ -83,7 +83,7 @@
       "title": "Windows PC의 EA SPORTS FC 27용으로 제작됨",
       "paragraphs": [
         "결제를 완료하면 지원되는 FC 27 빌드용 Windows loader 잠금이 해제됩니다. 미리보기 열에서 그룹 이름을 확인한 다음, 기능 카탈로그를 열어 모든 토글과 슬라이더를 확인하세요.",
-        "게임을 실행하기 전에 EA Javelin 또는 클라이언트 패치 후 cheatsfc27.com을 확인하세요."
+        "게임을 실행하기 전에 EA Javelin 또는 클라이언트 패치 후 cheatsfc27.org을 확인하세요."
       ]
     },
     "body": [
@@ -104,7 +104,7 @@
         "text": "Monthly $35 USD (P31D) 또는 lifetime $150 USD (P99Y). 결제 완료 후 전 세계 즉시 디지털 배송."
       }
     ],
-    "goodToKnow": "EA SPORTS FC 27 및 EA Javelin은 자주 업데이트됩니다. 게임을 실행하기 전에 cheatsfc27.com에서 가용성을 확인하세요. 패치 후 메뉴나 관전 모드에서 오버레이 동작이 달라질 수 있습니다.",
+    "goodToKnow": "EA SPORTS FC 27 및 EA Javelin은 자주 업데이트됩니다. 게임을 실행하기 전에 cheatsfc27.org에서 가용성을 확인하세요. 패치 후 메뉴나 관전 모드에서 오버레이 동작이 달라질 수 있습니다.",
     "limitations": "타사 소프트웨어는 게임 약관을 위반하여 제재로 이어질 수 있습니다. 이 소프트웨어의 사용에 따른 책임은 전적으로 사용자 본인에게 있습니다. 게임, EA Javelin 또는 Windows 업데이트 후 사전 공지 없이 호환성이 변경될 수 있습니다.",
     "requirements": [
       "HVCI 켜기 · 코어 격리 켜기 · TPM 켜기 · SECURE BOOT 켜기",

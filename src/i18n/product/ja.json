@@ -2,7 +2,7 @@
   "steps": [
     {
       "title": "ステータスを確認",
-      "desc": "EA JavelinまたはFC 27クライアントのアップデート後は特に、購入前にcheatsfc27.comでモジュールがオンラインであることを確認してください。"
+      "desc": "EA JavelinまたはFC 27クライアントのアップデート後は特に、購入前にcheatsfc27.orgでモジュールがオンラインであることを確認してください。"
     },
     {
       "title": "プランを選択",
@@ -83,7 +83,7 @@
       "title": "Windows PC上のEA SPORTS FC 27向けに構築",
       "paragraphs": [
         "決済により、対応するFC 27ビルド向けのWindows loaderがアンロックされます。グループ名を確認するにはプレビュー列を使用し、すべての切り替えやスライダーについては機能カタログを開いてください。",
-        "起動する前に、EA Javelinまたはクライアントパッチの適用後に cheatsfc27.com を確認してください。"
+        "起動する前に、EA Javelinまたはクライアントパッチの適用後に cheatsfc27.org を確認してください。"
       ]
     },
     "body": [
@@ -104,7 +104,7 @@
         "text": "Monthly $35 USD (P31D) または lifetime $150 USD (P99Y)。決済完了後、世界中に即時デジタル配信されます。"
       }
     ],
-    "goodToKnow": "EA SPORTS FC 27およびEA Javelinは頻繁にアップデートされます。起動する前に cheatsfc27.com で可用性をご確認ください。パッチ適用後、メニューや観戦視点におけるオーバーレイの動作が異なる場合があります。",
+    "goodToKnow": "EA SPORTS FC 27およびEA Javelinは頻繁にアップデートされます。起動する前に cheatsfc27.org で可用性をご確認ください。パッチ適用後、メニューや観戦視点におけるオーバーレイの動作が異なる場合があります。",
     "limitations": "サードパーティ製ソフトウェアはゲーム規約に違反し、BANにつながる可能性があります。このソフトウェアの使用は自己責任となります。ゲーム、EA Javelin、またはWindowsのアップデート後、予告なく互換性が変更される場合があります。",
     "requirements": [
       "HVCI 有効 · コア分離 有効 · TPM 有効 · SECURE BOOT 有効",

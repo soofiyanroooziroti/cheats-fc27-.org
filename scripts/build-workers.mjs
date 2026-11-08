@@ -1,6 +1,6 @@
 /**
  * Optional Workers *preview* build only — rewrites sitemap/canonical to WORKERS_SITE_URL.
- * Production (cheatsfc27.com): use `npm run build:i18n-test` / default deploy — do not use this script.
+ * Production (cheatsfc27.org): use `npm run build:i18n-test` / default deploy — do not use this script.
  */
 import { spawnSync } from 'node:child_process';
 import { getSiteOrigin } from './site-origin.mjs';

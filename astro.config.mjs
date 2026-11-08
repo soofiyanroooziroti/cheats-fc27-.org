@@ -10,7 +10,7 @@ const SITE_BUILD_ID =
   new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
 
 const SITE_URL =
-  (process.env.PUBLIC_SITE_URL || process.env.SITE_URL || 'https://cheatsfc27.com').trim().replace(
+  (process.env.PUBLIC_SITE_URL || process.env.SITE_URL || 'https://cheatsfc27.org').trim().replace(
     /\/$/,
     '',
   );

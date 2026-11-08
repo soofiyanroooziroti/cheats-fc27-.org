@@ -6,6 +6,6 @@ export function getSiteOrigin() {
   const raw =
     process.env.PUBLIC_SITE_URL?.trim() ||
     process.env.SITE_URL?.trim() ||
-    'https://cheatsfc27.com';
+    'https://cheatsfc27.org';
   return raw.replace(/\/$/, '');
 }

@@ -495,7 +495,7 @@ Rules:
 - Translate all human-readable strings (overview, body, steps, goodToKnow, limitations, requirements, groupNames, descs, slides, features arrays).
 - Keep JSON keys unchanged (cheats, spoofer, ugc, steps, howToGet, etc.).
 - Keep placeholder {name} in howToGet exactly as-is.
-- Keep brand "FC27 Cheats" / "CheatsFC27", domain cheatsfc27.com, USD prices, P31D, P99Y, Zadeyo, Discord, EA Javelin, HWID, UGC, Cloud DMA, and menu toggle names (NoLoss, PlayStyles+, etc.) where gamers expect Latin/English UI labels.
+- Keep brand "FC27 Cheats" / "CheatsFC27", domain cheatsfc27.org, USD prices, P31D, P99Y, Zadeyo, Discord, EA Javelin, HWID, UGC, Cloud DMA, and menu toggle names (NoLoss, PlayStyles+, etc.) where gamers expect Latin/English UI labels.
 - Translate groupNames and description sentences fully; do not invent aimbot/ESP wording.
 - Do not add keyword lists or extra search phrases.
 - Never use the words "undetected" or "safe".
@@ -531,7 +531,7 @@ Rules:
 - Keep post slug keys unchanged.
 - Keep author names unchanged.
 - Keep every [[T#]] placeholder exactly as-is.
-- Keep brand "FC27 Cheats", domain cheatsfc27.com, and product paths in English/Latin where shown.
+- Keep brand "FC27 Cheats", domain cheatsfc27.org, and product paths in English/Latin where shown.
 - Do not add keyword lists or extra search phrases.
 - Never use the words "undetected" or "safe".
 
@@ -587,7 +587,7 @@ function blogPrompt(locale, protectedText) {
   const inner = protectedText.startsWith('---')
     ? protectedText.slice(protectedText.indexOf('\n', 3) + 1, protectedText.indexOf('\n---', 3))
     : protectedText;
-  return `You are a professional translator for an EA SPORTS FC 27 software website (cheatsfc27.com).
+  return `You are a professional translator for an EA SPORTS FC 27 software website (cheatsfc27.org).
 Translate this blog post JSON frontmatter from English to ${LANG_NAME[locale]} (${locale}).
 Rules:
 - Return ONLY valid JSON (no markdown fences, no --- lines).

@@ -1,7 +1,7 @@
 {
   "site": {
     "name": "FC27 Cheats",
-    "domain": "cheatsfc27.com",
+    "domain": "cheatsfc27.org",
     "title": "FC27 Cheats",
     "description": "EA SPORTS FC 27（Windows PC対応）向けのゲームプレイアシスト、キャリアモードおよびUltimate Teamツール、さらにModメニュー設定を備えたFC27チート。ワールドワイドに対応。USD価格設定。",
     "discord": "https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fea-sports-fc-27"
@@ -134,7 +134,7 @@
     "rows": [
       {
         "title": "パッチ当日のloaderアップデート",
-        "desc": "FC 27またはEA Javelinのアップデート後は、loaderを開く前にcheatsfc27.comをご確認ください。"
+        "desc": "FC 27またはEA Javelinのアップデート後は、loaderを開く前にcheatsfc27.orgをご確認ください。"
       },
       {
         "title": "個別のエイムスライダー",
@@ -391,7 +391,7 @@
         "num": "01",
         "phase": "購入前",
         "title": "EA Javelinのステータスを確認",
-        "desc": "購入や起動の前に、クライアントまたはEA Javelinのアップデート後は cheatsfc27.com をご確認ください。"
+        "desc": "購入や起動の前に、クライアントまたはEA Javelinのアップデート後は cheatsfc27.org をご確認ください。"
       },
       {
         "num": "02",
@@ -472,7 +472,7 @@
     "ticketItems": [
       {
         "title": "注文メールアドレス",
-        "desc": "cheatsfc27.com の決済時に使用したアドレス。"
+        "desc": "cheatsfc27.org の決済時に使用したアドレス。"
       },
       {
         "title": "プラットフォーム",
@@ -563,7 +563,7 @@
     }
   },
   "footer": {
-    "tagline": "Windows PC向けFC27チート、HWID spoofer、UGCリカバリー。cheatsfc27.com",
+    "tagline": "Windows PC向けFC27チート、HWID spoofer、UGCリカバリー。cheatsfc27.org",
     "explore": "探索",
     "exploreLinks": [
       {
@@ -616,12 +616,12 @@
   "legalPages": {
     "about": {
       "title": "FC 27 ストアについて",
-      "description": "cheatsfc27.comでは、FC27向けのチートツール（HWID spooferおよびUGC account recovery)をWindows PC向けに販売しており、セットアップの手順や BAN リスクについても正直に記載しています。",
+      "description": "cheatsfc27.orgでは、FC27向けのチートツール（HWID spooferおよびUGC account recovery)をWindows PC向けに販売しており、セットアップの手順や BAN リスクについても正直に記載しています。",
       "sections": [
         {
           "heading": "運営者情報",
           "paragraphs": [
-            "cheatsfc27.comは、FC27チート、HWID spoofer、UGC account recoveryを取り扱うWindows PCストアです。本チートは、FUT、ゲームプレイ、プロクラブ、便利機能、保護タブが一体となったloaderプロダクトです。対応ビルドでフル機能を利用するには、クラウドDMAが必須となります。ライト、プロ、エリートといった段階的なプランはありません。",
+            "cheatsfc27.orgは、FC27チート、HWID spoofer、UGC account recoveryを取り扱うWindows PCストアです。本チートは、FUT、ゲームプレイ、プロクラブ、便利機能、保護タブが一体となったloaderプロダクトです。対応ビルドでフル機能を利用するには、クラウドDMAが必須となります。ライト、プロ、エリートといった段階的なプランはありません。",
             "FC27チートおよびUGCは、$35にて31日間または$150 lifetimeでご購入いただけます。HWID spooferの価格は31日間で50ドル、または$150 lifetimeとなります。チートのlifetimeキーには、スプーファーやリカバリー作業スペースaceは含まれていません。月途中の購入であっても、lifetimeへの日割りクレジット等は適用されません。",
             "当サイト上の製品名は取り扱い内容を示すためのものであり、ゲームのパブリッシャーが本ソフトウェアを推奨していることを意味するものではありません。納品はWindows 10または11向けのポータルダウンロードとなります。HVCI、コア分離、TPM、secure bootを有効にした状態を維持し、サイト上のバージョンが現行クライアントと一致している場合のみloaderを起動してください。"
           ]
@@ -645,12 +645,12 @@
     },
     "privacy": {
       "title": "プライバシーポリシー",
-      "description": "cheatsfc27.comにおけるアクセス解析、クッキー、およびお問い合わせデータの取り扱いについて説明します。",
+      "description": "cheatsfc27.orgにおけるアクセス解析、クッキー、およびお問い合わせデータの取り扱いについて説明します。",
       "sections": [
         {
           "heading": "収集する情報",
           "paragraphs": [
-            "Google Analyticsが有効な場合、ページビュー、デバイスの種類、ブラウザ、おおよその地域などの標準的なウェブ解析データを収集する場合があります。ご購入手続きおよびライセンスの納品は外部のチェックアウトページで行われます。cheatsfc27.comのサーバー上でクレジットカード情報を保管することはありません。"
+            "Google Analyticsが有効な場合、ページビュー、デバイスの種類、ブラウザ、おおよその地域などの標準的なウェブ解析データを収集する場合があります。ご購入手続きおよびライセンスの納品は外部のチェックアウトページで行われます。cheatsfc27.orgのサーバー上でクレジットカード情報を保管することはありません。"
           ]
         },
         {
@@ -675,12 +675,12 @@
     },
     "terms": {
       "title": "利用規約",
-      "description": "cheatsfc27.comで販売されている商品の購入、ライセンス、返金、利用に関する規約です。",
+      "description": "cheatsfc27.orgで販売されている商品の購入、ライセンス、返金、利用に関する規約です。",
       "sections": [
         {
           "heading": "同意事項",
           "paragraphs": [
-            "最終更新日: 2026年10月。cheatsfc27.comのご利用、または掲載商品の購入手続きを完了することにより、本利用規約およびプライバシーポリシーに同意したものとみなされます。"
+            "最終更新日: 2026年10月。cheatsfc27.orgのご利用、または掲載商品の購入手続きを完了することにより、本利用規約およびプライバシーポリシーに同意したものとみなされます。"
           ]
         },
         {
@@ -693,7 +693,7 @@
         {
           "heading": "決済と配信",
           "paragraphs": [
-            "決済およびライセンスの配信は、外部のチェックアウトページで行われます。cheatsfc27.comでは、支払いカード番号の処理や保存は行いません。",
+            "決済およびライセンスの配信は、外部のチェックアウトページで行われます。cheatsfc27.orgでは、支払いカード番号の処理や保存は行いません。",
             "購入後は、注文に関するポータルを利用して、FC 27を起動する前に現在のloaderをダウンロードしてください。HVCI、コア分離、TPM、secure bootを有効にしたままにしてください。"
           ]
         },
@@ -734,7 +734,7 @@
     },
     "support": {
       "title": "FC 27 サポート",
-      "description": "cheatsfc27.comにおけるLoader、HWID spoofer、UGC、およびチェックアウトに関するヘルプです。"
+      "description": "cheatsfc27.orgにおけるLoader、HWID spoofer、UGC、およびチェックアウトに関するヘルプです。"
     }
   },
   "productCatalog": {
@@ -881,7 +881,7 @@
     "code": "404",
     "title": "ページが見つかりません",
     "description": "お探しのURLは存在しないか、移動した可能性があります。ホームページに戻るか、製品をご覧ください。",
-    "metaDescription": "cheatsfc27.comでお探しのページが見つかりませんでした。",
+    "metaDescription": "cheatsfc27.orgでお探しのページが見つかりませんでした。",
     "metaTitleSuffix": "ページが見つかりません",
     "backHome": "ホームに戻る",
     "viewProducts": "製品を見る",
@@ -1021,7 +1021,7 @@
     "title": "よくある質問：プラン、設定、購入前のEA Javelinリスク — チート＆ガイド",
     "subtitle": "プラン、EA Javelin、ランチャー、システム要件、サポートへの連絡方法について。",
     "schemaName": "よくある質問 — FC27 チート＆製品",
-    "schemaDescription": "FC27チート、HWID spoofer、UGCの復旧、EA Javelinのリスク、cheatsfc27.comでの決済に関する回答。"
+    "schemaDescription": "FC27チート、HWID spoofer、UGCの復旧、EA Javelinのリスク、cheatsfc27.orgでの決済に関する回答。"
   },
   "siteFaqSection": {
     "allTopicsEyebrow": "すべてのトピック",

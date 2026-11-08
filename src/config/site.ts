@@ -5,7 +5,7 @@ function normalizeSiteUrl(input: string): { url: string; host: string } {
 }
 
 const fromEnv = import.meta.env?.PUBLIC_SITE_URL?.trim();
-const fallback = 'https://cheatsfc27.com';
+const fallback = 'https://cheatsfc27.org';
 const resolved = normalizeSiteUrl(fromEnv || fallback);
 
 /** Public origin (https://…), no trailing slash — drives canonical, hreflang, sitemap. */
