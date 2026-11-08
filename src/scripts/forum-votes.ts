@@ -1,4 +1,4 @@
-const storagePrefix = 'dayz-forum-vote:';
+const storagePrefix = 'fc27-forum-vote:';
 
 function bindForumVotes(): void {
   document.querySelectorAll<HTMLElement>('[data-forum-card], [data-forum-vote]').forEach((post) => {

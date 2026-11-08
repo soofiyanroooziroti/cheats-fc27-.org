@@ -162,7 +162,7 @@ const rawPosts: Array<Omit<ForumPost, 'commentsCount'>> = [
       },
     ],
     sourceTitle: 'Pricing FAQ',
-    sourcePath: '/blog/dayz-cheats-pricing/',
+    sourcePath: '/blog/best-fc-27-cheats-review-2026/',
   },
   {
     slug: 'hwid-vs-ugc-pattern',
@@ -191,7 +191,7 @@ const rawPosts: Array<Omit<ForumPost, 'commentsCount'>> = [
       },
     ],
     sourceTitle: 'What an HWID spoofer is',
-    sourcePath: '/blog/what-is-an-hwid-spoofer/',
+    sourcePath: '/blog/fc-27-ban-fix-hwid-spoofer/',
   },
   {
     slug: 'feature-list-source',

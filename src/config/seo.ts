@@ -5,7 +5,7 @@ import { SITE_URL, SITE_DOMAIN as INDEXNOW_HOST_NAME } from './site';
 const baseT = getTranslations(defaultLocale);
 export const SITE_ORIGIN = SITE_URL;
 
-export const DEFAULT_OG_IMAGE = '/images/products/wardogs-menu-visuals.webp';
+export const DEFAULT_OG_IMAGE = '/images/products/fc27-menu-gameplay.webp';
 
 export const GA_MEASUREMENT_ID = import.meta.env.PUBLIC_GA_MEASUREMENT_ID as string | undefined;
 

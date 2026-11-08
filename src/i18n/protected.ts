@@ -3,13 +3,11 @@
  * Also exported to scripts/protected-terms.json.
  */
 
-export const PROTECTED_GAME_NAMES = ['FC 27', 'EA Javelin', 'DayZ', 'BattlEye'] as const;
+export const PROTECTED_GAME_NAMES = ['FC 27', 'EA Javelin'] as const;
 
 export const PROTECTED_SITE_NAMES = [
   'FC27 Cheats',
   'cheatsfc27.org',
-  'DayZ Cheats',
-  'DayZ cheats',
   'dayz-cheats.org',
   'HWID Spoofer',
   'UGC Account Recovery',
@@ -19,7 +17,6 @@ export const PROTECTED_SITE_NAMES = [
 
 export const PROTECTED_PRODUCT_NAMES = [
   'FC27 Cheats',
-  'DayZ Cheats',
   'HWID Spoofer',
   'UGC Account recovery',
   'UGC Account Recovery',

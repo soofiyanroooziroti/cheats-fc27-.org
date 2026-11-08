@@ -37,7 +37,7 @@ export const PAGE_SEO: Record<string, PageSeoEntry> = {
     '/blog/': {
       title: 'Guides – patch-day checks before you launch EA SPORTS FC',
       description:
-        'Guides on Ultimate Team, Career Mode, Pro Clubs, HWID flags, and patch-day checks before you launch EA SPORTS FC 27 on Windows PC.',
+        'Guides on Ultimate Team, Career Mode, Pro Clubs, HWID flags, and patch-day checks before you launch EA SPORTS FC 27 on Windows PC worldwide.',
     },
   '/forum/': {
     title: 'Community Forum: Setup, Menu, and Plans',

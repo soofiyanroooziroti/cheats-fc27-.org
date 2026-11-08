@@ -50,7 +50,7 @@ const tocCount = tocFromHeadings.length > 0 ? h2Count : toc.length > 0 ? 1 : 0;
 const UTILITY_SLUG = 'are-spoofer-and-ugc-necessary';
 const onUtilityPost = post.slug === UTILITY_SLUG;
 const utilityPost = getBlogPost(UTILITY_SLUG, locale);
-const otherReads = ['what-an-hwid-spoofer-does', 'dayz-battleye-ban-risk']
+const otherReads = ['fc-27-ban-fix-hwid-spoofer', 'fc-27-ban-fix-guide']
   .map((slug) => getBlogPost(slug, locale))
   .filter((item): item is BlogPostFull => Boolean(item));
 const usedRelated = new Set(relatedShort.map((item) => item.slug));
