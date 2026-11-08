@@ -3,11 +3,12 @@
   "featured": true,
   "tag": "Review",
   "seoTitle": "Best FC 27 Cheats Review: Features, Price, and Risk",
+  "h1Title": "Best FC 27 Cheats Review: Features, Price, and Risk",
   "title": "Best Undetected FC 27 Cheats: Features, Price, and Risk",
   "slug": "best-fc-27-cheats-review-2026",
   "image": "/images/blog/fc27-free-kick.webp",
   "imageAlt": "EA FC 27 Ultimate Team free kick in a packed stadium",
-  "desc": "Shoppers ask which FC 27 cheats on this store are worth $35 for 31 days or $150 lifetime. One loader, five menu groups, and EA Javelin ban risk spelled out.",
+  "desc": "Shoppers ask which FC 27 cheats on this store are worth $35 for 31 days or $150 lifetime. One loader, five menu groups, and EA Javelin ban risk spelled.",
   "date": "Oct 31, 2026",
   "readTime": "5 min read",
   "takeaways": [

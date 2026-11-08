@@ -35,7 +35,7 @@ export const PAGE_SEO: Record<string, PageSeoEntry> = {
       'See which Windows utility fits a hardware flag and which one fits an account appeal. Both are separate checkouts from the loader.',
   },
     '/blog/': {
-      title: 'Guides – FC 27 Menu, Safety, and Patch-Day Notes',
+      title: 'Guides – patch-day checks before you launch EA SPORTS FC',
       description:
         'Guides on Ultimate Team, Career Mode, Pro Clubs, HWID flags, and patch-day checks before you launch EA SPORTS FC 27 on Windows PC.',
     },
@@ -45,9 +45,9 @@ export const PAGE_SEO: Record<string, PageSeoEntry> = {
       'Forum threads on the loader, gameplay assists, $35 for 31 days and $150 lifetime plans, and EA Javelin patch days. Developer replies are marked.',
   },
     '/faq/': {
-      title: 'FAQ – Plans, Setup, and Ban Risk Before Checkout',
+      title: 'Ea Javelin – Plans, Setup, and Ban Risk Before Checkout',
       description:
-        'Answers on checkout, client updates, Windows PC requirements, hardware flags, and how the loader, spoofer, and account tool differ.',
+        'Ea Javelin: Answers on checkout, client updates, Windows PC requirements, hardware flags, and how the loader, spoofer, and account tool differ.',
     },
   '/support/': {
     title: 'Support: Loader, Checkout, and HWID PC',
@@ -55,7 +55,7 @@ export const PAGE_SEO: Record<string, PageSeoEntry> = {
       'Loader, checkout, and portal help for PC tools, the HWID spoofer, and account appeals. Include your order email and the exact loader.',
   },
     '/about/': {
-      title: 'Store – cheatsfc27.org sells FC 27 on Windows PC',
+      title: 'Store – cheatsfc27.org sells EA SPORTS FC 27 on PC',
       description:
         'Store: What cheatsfc27.org sells for EA SPORTS FC 27 on Windows PC, how portal delivery works, EA Javelin risks, and the loader, spoofer, and UGC.',
     },
