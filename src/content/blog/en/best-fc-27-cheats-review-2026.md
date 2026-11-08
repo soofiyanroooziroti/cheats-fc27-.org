@@ -6,7 +6,7 @@
   "slug": "best-fc-27-cheats-review-2026",
   "image": "/images/blog/fc27-free-kick.webp",
   "imageAlt": "EA FC 27 Ultimate Team free kick in a packed stadium",
-  "desc": "Shoppers ask which FC 27 cheats on this store are worth $35 monthly or $150 lifetime. One loader, five menu groups, and EA Javelin ban risk spelled out.",
+  "desc": "Shoppers ask which FC 27 cheats on this store are worth $35 for 31 days or $150 lifetime. One loader, five menu groups, and EA Javelin ban risk spelled out.",
   "date": "Oct 31, 2026",
   "readTime": "5 min read",
   "takeaways": [

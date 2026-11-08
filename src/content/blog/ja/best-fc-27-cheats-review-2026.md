@@ -6,7 +6,7 @@
   "slug": "best-fc-27-cheats-review-2026",
   "image": "/images/blog/fc27-free-kick.webp",
   "imageAlt": "超満員のスタジアムで行われるEA FC 27 Ultimate Teamのフリーキック",
-  "desc": "このストアのどのFC 27チートが$35 monthlyまたは$150 lifetimeの価値があるのか。1つのloader、5つのメニューグループ、そしてEA JavelinのBANリスクについて解説。",
+  "desc": "このストアのどのFC 27チートが31日間$35または$150 lifetimeの価値があるのか。1つのloader、5つのメニューグループ、そしてEA JavelinのBANリスクについて解説。",
   "date": "2026年10月31日",
   "readTime": "5分で読めます",
   "body": [

@@ -55,7 +55,7 @@
     }
   ],
   "takeaways": [
-    "Les signalements matériels utilisent /products/fc27-cheats/hwid-spoofer/ à 50 $ monthly ou $150 lifetime.",
+    "Les signalements matériels utilisent /products/fc27-cheats/hwid-spoofer/ à 50 $ pour 31 jours ou $150 lifetime.",
     "Les appels de compte utilisent /products/fc27-cheats/ugc/ sur sa propre caisse.",
     "La protection anti-bannissement sur le loader ne remplace ace aucun des deux utilitaires."
   ],

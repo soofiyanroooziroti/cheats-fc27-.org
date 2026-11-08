@@ -9,7 +9,7 @@
   "date": "Nov 8, 2026",
   "readTime": "5 min read",
   "takeaways": [
-    "Hardware flags use /products/fc27-cheats/hwid-spoofer/ at $50 monthly or $150 lifetime.",
+    "Hardware flags use /products/fc27-cheats/hwid-spoofer/ at $50 for 31 days or $150 lifetime.",
     "Account appeals use /products/fc27-cheats/ugc/ on its own checkout.",
     "Anti-Ban Protection on the loader does not replace either utility."
   ],

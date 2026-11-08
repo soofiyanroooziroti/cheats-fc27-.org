@@ -55,7 +55,7 @@
     }
   ],
   "takeaways": [
-    "하드웨어 플래그는 monthly 또는 $150 lifetime에 50달러인 /products/fc27-cheats/hwid-spoofer/을 사용합니다.",
+    "하드웨어 플래그는 31일 50달러 또는 $150 lifetime인 /products/fc27-cheats/hwid-spoofer/을 사용합니다.",
     "계정 이의 제기는 자체 결제 시 /products/fc27-cheats/ugc/을 사용합니다.",
     "loader의 차단 방지 보호는 두 유틸리티를 대체ace하지 않습니다."
   ],

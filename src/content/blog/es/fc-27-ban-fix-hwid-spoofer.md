@@ -55,7 +55,7 @@
     }
   ],
   "takeaways": [
-    "Los bloqueos de hardware usan /products/fc27-cheats/hwid-spoofer/ por 50 $ monthly o $150 lifetime.",
+    "Los bloqueos de hardware usan /products/fc27-cheats/hwid-spoofer/ por 50 $ durante 31 días o $150 lifetime.",
     "Las apelaciones de cuenta usan /products/fc27-cheats/ugc/ en su propia pasarela de pago.",
     "La Protección Anti-Baneos en el loader no reemplace ninguna de las dos utilidades."
   ],

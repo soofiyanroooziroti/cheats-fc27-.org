@@ -55,7 +55,7 @@
     }
   ],
   "takeaways": [
-    "I flag hardware utilizzano /products/fc27-cheats/hwid-spoofer/ a 50$ monthly o $150 lifetime.",
+    "I flag hardware utilizzano /products/fc27-cheats/hwid-spoofer/ a 50$ per 31 giorni o $150 lifetime.",
     "I ricorsi per l'account utilizzano /products/fc27-cheats/ugc/ sul proprio checkout.",
     "La protezione anti-ban su loader non sostiace alcuna delle due utilità."
   ],

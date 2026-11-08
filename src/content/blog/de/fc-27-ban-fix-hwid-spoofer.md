@@ -55,7 +55,7 @@
     }
   ],
   "takeaways": [
-    "Hardware-Sperren nutzen /products/fc27-cheats/hwid-spoofer/ für 50 $ monthly oder $150 lifetime.",
+    "Hardware-Sperren nutzen /products/fc27-cheats/hwid-spoofer/ für 50 $ für 31 Tage oder $150 lifetime.",
     "Konto-Einsprüche nutzen /products/fc27-cheats/ugc/ beim eigenen Checkout.",
     "Der Anti-Bann-Schutz auf dem loader ersetzt ace keines der beiden Hilfsprogramme."
   ],

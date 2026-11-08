@@ -55,7 +55,7 @@
     }
   ],
   "takeaways": [
-    "ハードウェアフラグには、50ドル monthly または $150 lifetime の /products/fc27-cheats/hwid-spoofer/ を使用します。",
+    "ハードウェアフラグには、31日間 50ドル または $150 lifetime の /products/fc27-cheats/hwid-spoofer/ を使用します。",
     "アカウントの異議申し立てには、単体チェックアウトの /products/fc27-cheats/ugc/ を使用します。",
     "loader 上のBAN防止保護は、どちらのユーティリティの置き換えにもなりませ ace ん。"
   ],

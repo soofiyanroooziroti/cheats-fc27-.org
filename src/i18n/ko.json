@@ -128,7 +128,7 @@
   "whyUs": {
     "eyebrow": "선택하는 이유",
     "title": "커리어 및 얼티밋 팀 시즌 — 말뿐이 아닌 패치",
-    "subtitle": "하나의 치트 제품, 하나의 HWID spoofer, 그리고 하나의 UGC 복구 workspace. 치트와 UGC은 $35 monthly 또는 $150 lifetime; 스푸퍼는 $50 monthly 또는 $150 lifetime. EA Javelin 정책에 따라 차단 위험은 여전히 존재합니다.",
+    "subtitle": "하나의 치트 제품, 하나의 HWID spoofer, 그리고 하나의 UGC 복구 workspace. 치트와 UGC은 31일 $35 또는 $150 lifetime; 스푸퍼는 31일 $50 또는 $150 lifetime. EA Javelin 정책에 따라 차단 위험은 여전히 존재합니다.",
     "usLabel": "FC27 치트",
     "otherLabel": "일반적인 제공업체",
     "rows": [
@@ -397,7 +397,7 @@
         "num": "02",
         "phase": "결제",
         "title": "제품 선택",
-        "desc": "FC27 Cheats 또는 UGC: $35 monthly / $150 lifetime. HWID Spoofer: $50 monthly 또는 $150 lifetime. 키는 별도 제공됩니다."
+        "desc": "FC27 Cheats 또는 UGC: 31일 $35 / $150 lifetime. HWID Spoofer: 31일 $50 또는 $150 lifetime. 키는 별도 제공됩니다."
       },
       {
         "num": "03",

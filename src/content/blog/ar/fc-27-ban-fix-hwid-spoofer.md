@@ -55,7 +55,7 @@
     }
   ],
   "takeaways": [
-    "تستخدم علامات الأجهزة /products/fc27-cheats/hwid-spoofer/ بسعر 50 دولاراً monthly أو $150 lifetime.",
+    "تستخدم علامات الأجهزة /products/fc27-cheats/hwid-spoofer/ بسعر 50 دولاراً لمدة 31 يوماً أو $150 lifetime.",
     "تستخدم استئنافات الحساب /products/fc27-cheats/ugc/ في صفحة دفع خاصة بها.",
     "حماية مكافحة الحظر على loader لا تحل محل ace أي من الأداةين."
   ],

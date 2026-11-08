@@ -44,7 +44,7 @@ const BASE_TERMS = [
   '1 Week',
   '1 Month',
   'USD · 7 days (P7D)',
-  'USD · 30 days (P30D)',
+  'USD · 31 days (P31D)',
   'USD · lifetime (P99Y)',
 ];
 

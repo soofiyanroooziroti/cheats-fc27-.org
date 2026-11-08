@@ -495,7 +495,7 @@ Rules:
 - Translate all human-readable strings (overview, body, steps, goodToKnow, limitations, requirements, groupNames, descs, slides, features arrays).
 - Keep JSON keys unchanged (cheats, spoofer, ugc, steps, howToGet, etc.).
 - Keep placeholder {name} in howToGet exactly as-is.
-- Keep brand "FC27 Cheats" / "CheatsFC27", domain cheatsfc27.com, USD prices, P30D, P99Y, Zadeyo, Discord, EA Javelin, HWID, UGC, Cloud DMA, and menu toggle names (NoLoss, PlayStyles+, etc.) where gamers expect Latin/English UI labels.
+- Keep brand "FC27 Cheats" / "CheatsFC27", domain cheatsfc27.com, USD prices, P31D, P99Y, Zadeyo, Discord, EA Javelin, HWID, UGC, Cloud DMA, and menu toggle names (NoLoss, PlayStyles+, etc.) where gamers expect Latin/English UI labels.
 - Translate groupNames and description sentences fully; do not invent aimbot/ESP wording.
 - Do not add keyword lists or extra search phrases.
 - Never use the words "undetected" or "safe".

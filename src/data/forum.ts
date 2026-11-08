@@ -141,7 +141,7 @@ const rawPosts: Array<Omit<ForumPost, 'commentsCount'>> = [
     title: 'Does the $150 lifetime cheat key include the HWID spoofer?',
     excerpt: 'Three cards at checkout. I want to be sure lifetime on one is not all three.',
     description:
-      'Cheat and UGC are $35 monthly or $150 lifetime; HWID spoofer is $50 monthly or $150 lifetime. Separate keys.',
+      'Cheat and UGC are $35 for 31 days or $150 lifetime; HWID spoofer is $50 for 31 days or $150 lifetime. Separate keys.',
     author: 'PlanMath',
     age: '3d ago',
     date: 'Nov 4, 2026',

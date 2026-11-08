@@ -55,7 +55,7 @@
     }
   ],
   "takeaways": [
-    "Sinalizadores de hardware usam /products/fc27-cheats/hwid-spoofer/ por $50 monthly ou $150 lifetime.",
+    "Sinalizadores de hardware usam /products/fc27-cheats/hwid-spoofer/ por $50 por 31 dias ou $150 lifetime.",
     "Apelações de conta usam /products/fc27-cheats/ugc/ em seu próprio checkout.",
     "A Proteção Antiban em loader não substituiace nenhuma das utilidades."
   ],

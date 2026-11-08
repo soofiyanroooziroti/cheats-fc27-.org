@@ -97,7 +97,7 @@ export const PROTECTED_MONEY_AND_VERSIONS = [
   'Monthly',
   '1 Month $35',
   'Lifetime $150',
-  'USD · 30 days (P30D)',
+  'USD · 31 days (P31D)',
   'USD · 31 days (P31D)',
   'USD · lifetime (P99Y)',
   'P31D',

@@ -12,7 +12,7 @@ export const PAGE_SEO: Record<string, PageSeoEntry> = {
   '/products/fc27-cheats/': {
     title: 'Products & Pricing | Monthly and Lifetime Plans',
     description:
-      'EA SPORTS FC 27 on Windows PC: cheat and UGC at $35 monthly or $150 lifetime; HWID spoofer at $50 monthly or $150 lifetime. Separate checkouts.',
+      'EA SPORTS FC 27 on Windows PC: cheat and UGC at $35 for 31 days or $150 lifetime; HWID spoofer at $50 for 31 days or $150 lifetime. Separate checkouts.',
   },
   '/products/fc27-cheats/loader/': {
     title: 'FC27 Mod Menu | Match & Career Assists',
@@ -22,7 +22,7 @@ export const PAGE_SEO: Record<string, PageSeoEntry> = {
   '/products/fc27-cheats/hwid-spoofer/': {
     title: 'FC27 HWID Spoofer for Windows Hardware Flags',
     description:
-      'FC27 hwid spoofer for players facing a hardware flag on PC. $50 monthly or $150 lifetime. Profile rotation on a PC—not for account-only bans.',
+      'FC27 hwid spoofer for players facing a hardware flag on PC. $50 for 31 days or $150 lifetime. Profile rotation on a PC—not for account-only bans.',
   },
   '/products/fc27-cheats/ugc/': {
     title: 'FC27 Account Recovery Tool for PC Appeals',
@@ -42,7 +42,7 @@ export const PAGE_SEO: Record<string, PageSeoEntry> = {
   '/forum/': {
     title: 'Community Forum: Setup, Menu, and Plans',
     description:
-      'Forum threads on the loader, gameplay assists, $35 monthly and $150 lifetime plans, and EA Javelin patch days. Developer replies are marked.',
+      'Forum threads on the loader, gameplay assists, $35 for 31 days and $150 lifetime plans, and EA Javelin patch days. Developer replies are marked.',
   },
   '/faq/': {
     title: 'FAQ – Plans, Setup, and EA Javelin Risk Before Checkout',

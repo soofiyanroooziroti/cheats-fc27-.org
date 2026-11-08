@@ -6,7 +6,7 @@
   "slug": "best-fc-27-cheats-review-2026",
   "image": "/images/blog/fc27-free-kick.webp",
   "imageAlt": "관중이 가득 찬 경기장에서 펼쳐지는 EA FC 27 얼티밋 팀 프리킥",
-  "desc": "구매자들은 이 스토어의 어떤 FC 27 치트가 $35 monthly 또는 $150 lifetime의 가치가 있는지 묻습니다. 하나의 loader, 5개의 메뉴 그룹, 그리고 EA 자벨린 차단 위험성에 대해 설명합니다.",
+  "desc": "구매자들은 이 스토어의 어떤 FC 27 치트가 31일 $35 또는 $150 lifetime의 가치가 있는지 묻습니다. 하나의 loader, 5개의 메뉴 그룹, 그리고 EA 자벨린 차단 위험성에 대해 설명합니다.",
   "date": "2026년 10월 31일",
   "readTime": "5분 읽기",
   "body": [

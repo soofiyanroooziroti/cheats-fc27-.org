@@ -95,7 +95,7 @@ export function buildSearchIndex(locale: Locale = defaultLocale): SearchIndexEnt
     description: productsHubSeo.description,
     url: localePath(ROUTES.products, locale),
     type: 'Product',
-    text: [productsHubSeo.title, productsHubSeo.description, t.products.subtitle, '$35 monthly', '$150 lifetime']
+    text: [productsHubSeo.title, productsHubSeo.description, t.products.subtitle, '$35 for 31 days', '$150 lifetime']
       .filter(Boolean)
       .join(' '),
   });
@@ -147,14 +147,14 @@ export function buildSearchIndex(locale: Locale = defaultLocale): SearchIndexEnt
   const plansUrl = localePath('/products/fc27-cheats/', locale);
   const plansSeo = resolvePageSeo('/products/fc27-cheats/', locale);
   entries.push({
-    title: 'Plans — $35 monthly & $150 lifetime',
+    title: 'Plans — $35 for 31 days & $150 lifetime',
     description: 'Compare one-month and lifetime checkout for FC27 Cheats, HWID spoofer, and UGC recovery.',
     url: plansUrl,
     type: 'Plans',
     text: [
       plansSeo.title,
       plansSeo.description,
-      '$35 monthly',
+      '$35 for 31 days',
       '$150 lifetime',
       '$35',
       '$150',
