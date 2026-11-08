@@ -1,0 +1,21 @@
+---
+interface Props {
+  title: string;
+  items: string[];
+}
+
+const { title, items } = Astro.props;
+---
+
+{
+  items.length > 0 && (
+    <aside class="blog-article__takeaways not-prose" aria-label={title}>
+      <p class="blog-article__takeaways-title">{title}</p>
+      <ul class="blog-article__takeaways-list">
+        {items.map((line) => (
+          <li>{line}</li>
+        ))}
+      </ul>
+    </aside>
+  )
+}

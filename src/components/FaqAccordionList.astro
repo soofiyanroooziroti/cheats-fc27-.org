@@ -1,0 +1,61 @@
+---
+import Icon from './icons/Icon.astro';
+import type { IconName } from './icons/types';
+import { getLocaleFromAstro } from '../i18n';
+import { localizeInternalLinksInHtml } from '../utils/path';
+
+export interface FaqAccordionEntry {
+  q: string;
+  a?: string;
+  aHtml?: string;
+  icon?: IconName;
+  topic?: string;
+}
+
+interface Props {
+  items: FaqAccordionEntry[];
+  idPrefix: string;
+  class?: string;
+  listClass?: string;
+}
+
+const locale = getLocaleFromAstro(Astro);
+const { items, idPrefix, class: className, listClass } = Astro.props;
+---
+
+<div class:list={['faq-accordion', className]} data-faq-accordion>
+  <div class:list={['faq-accordion__list', listClass]}>
+    {
+      items.map((item, index) => {
+        const btnId = `${idPrefix}-trigger-${index}`;
+        const panelId = `${idPrefix}-panel-${index}`;
+        return (
+          <div
+            class="faq-accordion__item rounded-lg border border-border/80 bg-muted/15"
+            data-faq-topic={item.topic}
+          >
+            <h3 class="m-0">
+              <button
+                type="button"
+                id={btnId}
+                class="faq-accordion__trigger"
+                aria-expanded="false"
+                aria-controls={panelId}
+              >
+                {item.icon && <Icon name={item.icon} size={16} class="faq-accordion__icon shrink-0 text-muted-foreground" />}
+                <span class="faq-accordion__question text-sm font-medium leading-snug text-foreground">{item.q}</span>
+                <Icon name="chevronDown" size={16} class="faq-accordion__chevron shrink-0 text-muted-foreground" aria-hidden="true" />
+              </button>
+            </h3>
+            <div id={panelId} class="faq-accordion__panel" role="region" aria-labelledby={btnId} aria-hidden="true">
+              <div
+                class="faq-accordion__answer text-xs leading-relaxed text-muted-foreground prose prose-sm dark:prose-invert max-w-none"
+                set:html={localizeInternalLinksInHtml(item.aHtml ?? item.a ?? '', locale)}
+              />
+            </div>
+          </div>
+        );
+      })
+    }
+  </div>
+</div>

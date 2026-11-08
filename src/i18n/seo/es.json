@@ -1,0 +1,64 @@
+{
+  "site": {
+    "title": "Trucos FC 27",
+    "description": "Trucos para FC 27 con herramientas para Carrera, Ultimate Team y Pro Clubs, más un menú de mods para EA SPORTS FC 27 en Windows PC. Precios globales USD."
+  },
+  "pages": {
+    "/": {
+      "title": "Trucos de FC 27 para Windows PC | Mod Menu y Precios",
+      "description": "Trucos de FC 27 con un mod menu Windows PC para EA SPORTS FC 27. Carrera, Ultimate Team y Pro Clubs en un loader. Pago separado por producto."
+    },
+    "/products/fc27-cheats/": {
+      "title": "Productos y Precios | Planes Monthly y Lifetime",
+      "description": "EA SPORTS FC 27 en Windows PC: truco y UGC en $35 monthly o $150 lifetime; HWID spoofer a $50 monthly o $150 lifetime. Pagos separados."
+    },
+    "/products/fc27-cheats/loader/": {
+      "title": "Mod Menu de FC27 | Asistencias de Partido y Carrera",
+      "description": "Mod menu de FC27 con grupos loader para partidos, Carrera y Ultimate Team. Monthly $35. Lifetime $150. Lea la nota de estado tras actualizaciones de EA Javelin o del cliente."
+    },
+    "/products/fc27-cheats/hwid-spoofer/": {
+      "title": "FC27 HWID Spoofer para Windows Marcadores de Hardware",
+      "description": "FC27 hwid spoofer para jugadores con un marcador de hardware en PC. $50 monthly o $150 lifetime. Rotación de perfil en un PC, no para suspensiones solo de cuenta."
+    },
+    "/products/fc27-cheats/ugc/": {
+      "title": "Herramienta de Recuperación de Cuenta FC27 para PC",
+      "description": "Herramienta de recuperación de cuenta FC27 organiza apelaciones y casos. Licencia separada de loader y HWID spoofer en un PC."
+    },
+    "/products/fc27-cheats/utilities/": {
+      "title": "Compare la Herramienta HWID y Apelación de Cuenta",
+      "description": "Vea qué utilidad Windows se adapta a un marcador de hardware y cuál a una apelación. Son compras separadas de loader."
+    },
+    "/blog/": {
+      "title": "Guías publicadas de FC 27 para menú, seguridad y parches",
+      "description": "Las guías publicadas cubren Ultimate Team, Modo Carrera, Clubes Pro, el indicador de hardware HWID y los días de parches de EA Javelin antes de iniciar en Windows PC."
+    },
+    "/forum/": {
+      "title": "Foro de la comunidad: Configuración, menú y planes",
+      "description": "Hilos del foro sobre loader, asistencias de juego, planes de $35 monthly y $150 lifetime, y días de parches de EA Javelin. Se marcan las respuestas de los desarrolladores."
+    },
+    "/faq/": {
+      "title": "FAQ – Planes, configuración y riesgo de EA Javelin antes del pago",
+      "description": "Respuestas sobre pago, actualizaciones de EA Javelin, requisitos de Windows, indicadores de hardware y diferencias entre loader, spoofer y herramienta de cuenta."
+    },
+    "/support/": {
+      "title": "Soporte: Loader, pago y HWID PC",
+      "description": "Ayuda con Loader, pago y portal para herramientas de PC, el HWID spoofer y apelaciones de cuenta. Incluye tu correo y el loader exacto."
+    },
+    "/about/": {
+      "title": "Sobre esta tienda: entrega por portal, precios y riesgo",
+      "description": "Qué vende cheatsfc27.com para EA SPORTS FC 27 en Windows PC, cómo funciona la entrega por portal, riesgos de EA Javelin y qué incluyen el loader, spoofer y herramientas de UGC."
+    },
+    "/privacy/": {
+      "title": "Notas de privacidad sobre análisis, cookies y contacto",
+      "description": "Cómo cheatsfc27.com gestiona análisis, cookies y datos de contacto. Los números de tarjeta quedan en el proveedor de pago, no en esta tienda."
+    },
+    "/terms/": {
+      "title": "Términos de licencia, reembolsos y uso aceptable",
+      "description": "Términos de licencia, uso aceptable y la política de no reembolso para loader, HWID spoofer y recuperación de cuentas en cheatsfc27.com."
+    },
+    "/status/": {
+      "title": "Notas del parche EA Javelin y estado del cliente",
+      "description": "Actualización v1.1.0 (27 oct 2026) para EA SPORTS FC 27: QoL, IU de Carrera, correcciones de Clubes y seguridad EA Javelin. Compruébalo antes de iniciar."
+    }
+  }
+}

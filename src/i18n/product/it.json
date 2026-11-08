@@ -1,0 +1,225 @@
+{
+  "steps": [
+    {
+      "title": "Verifica lo stato",
+      "desc": "Conferma che i moduli siano online su cheatsfc27.com prima dell'acquisto, specialmente dopo un aggiornamento di EA Javelin o del client di FC 27."
+    },
+    {
+      "title": "Scegli un piano",
+      "desc": "Scegli monthly (P31D) o lifetime (P99Y), con la stessa tariffa USD su ogni prodotto della gamma."
+    },
+    {
+      "title": "Pagamento sicuro",
+      "desc": "Completa il pagamento dalla scheda del prodotto. La tua licenza si sblocca nel portale con consegna immediata."
+    },
+    {
+      "title": "Installa e verifica",
+      "desc": "Segui la guida all'installazione, carica un preset conservativo e fai un test in un'amichevole prima di usare il tuo profilo principale."
+    }
+  ],
+  "howToGet": "Come ottenere {name}",
+  "cheats": {
+    "groupNames": [
+      "Opzioni Ultimate Team",
+      "Utilità",
+      "Opzioni di Gioco",
+      "Opzioni Pro Clubs",
+      "Sicurezza"
+    ],
+    "descs": [
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu.",
+      "Interruttore o cursore in questo gruppo di menu."
+    ],
+    "slides": [
+      {
+        "alt": "Screenshot del menu Ultimate Team di EA SPORTS FC 27 loader",
+        "caption": "Ultimate Team (FUT)",
+        "captionDesc": "NoLoss, spoofer per divisioni e Champions, controlli dei turni draft, salto dei pacchetti e momenti istantanei."
+      },
+      {
+        "alt": "Screenshot del menu assistenti di gioco di EA SPORTS FC 27 loader",
+        "caption": "Gameplay",
+        "captionDesc": "Auto play IA, cursori per giocatore e avversario, skill moves, piede debole, controllo della stamina e tattiche personalizzate."
+      },
+      {
+        "alt": "Screenshot del menu Pro Clubs di EA SPORTS FC 27 loader",
+        "caption": "Pro Clubs",
+        "captionDesc": "Editor virtual pro, cursori VPRO, PlayStyles, statistiche nascoste e boost di XP per le partite dei club."
+      },
+      {
+        "alt": "Screenshot delle utilità di EA SPORTS FC 27 loader",
+        "caption": "Utilità",
+        "captionDesc": "Interruttori per bypassare il desync e l'ALT-TAB per sessioni più fluide su Windows PC."
+      },
+      {
+        "alt": "Screenshot varie e sicurezza di EA SPORTS FC 27 loader",
+        "caption": "Varie & sicurezza",
+        "captionDesc": "Anti-ban, tasti menu e panic key, modalità stream-proof, tasti rapidi, salvataggio e caricamento configurazioni e stato cloud."
+      }
+    ],
+    "overview": {
+      "title": "Realizzato per EA SPORTS FC 27 su Windows PC",
+      "paragraphs": [
+        "Il checkout sblocca Windows loader per le build di FC 27 supportate. Usa le colonne di anteprima per i nomi dei gruppi, quindi apri il catalogo delle funzioni per ogni interruttore e cursore.",
+        "Controlla cheatsfc27.com dopo un aggiornamento di EA Javelin o del client prima di avviare."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Moduli inclusi"
+      },
+      {
+        "type": "p",
+        "text": "Windows PC loader con cinque gruppi di menu in questa pagina: Opzioni Ultimate Team, Utilità, Opzioni di Gioco, Opzioni Pro Clubs e Sicurezza."
+      },
+      {
+        "type": "h2",
+        "text": "Piani"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $35 USD (P31D) o lifetime $150 USD (P99Y). Consegna digitale istantanea in tutto il mondo dopo il checkout."
+      }
+    ],
+    "goodToKnow": "EA SPORTS FC 27 e EA Javelin si aggiornano spesso. Conferma la disponibilità su cheatsfc27.com prima di avviare. Il comportamento dell'overlay potrebbe differire nei menu o nelle visualizzazioni spettatore dopo le patch.",
+    "limitations": "I software di terze parti possono violare i termini del gioco e portare a sanzioni. L'utente utilizza questo software a proprio rischio. La compatibilità può variare dopo gli aggiornamenti del gioco, di EA Javelin o di Windows senza preavviso.",
+    "requirements": [
+      "HVCI ATTIVO · ISOLAMENTO CORE ATTIVO · TPM ATTIVO · SECURE BOOT ATTIVO",
+      "WINDOWS 10 e 11 entrambe supportate",
+      "Cloud DMA — Richiesto per la piena funzionalità. Tutte le funzioni sulle build supportate vengono eseguite tramite Cloud DMA."
+    ]
+  },
+  "spoofer": {
+    "slides": [
+      {
+        "alt": "Menu misc e sicurezza loader di EA SPORTS FC 27 su Windows PC",
+        "caption": "HWID spoofer",
+        "captionDesc": "Strumenti per l'impronta hardware prima del riavvio."
+      },
+      {
+        "alt": "Menu utilità loader di EA SPORTS FC 27 su Windows PC",
+        "caption": "Scheda Phoenix",
+        "captionDesc": "Rotazione ID disco, MAC e GPU."
+      },
+      {
+        "alt": "Menu gameplay loader di EA SPORTS FC 27 su Windows PC",
+        "caption": "Phoenix WH",
+        "captionDesc": "Workspace dello spoofer utilizzato in ogni negozio."
+      }
+    ],
+    "overview": {
+      "title": "Flusso di recupero HWID",
+      "paragraphs": [
+        "HWID Spoofer si concentra sulla rotazione del profilo hardware quando serve un contesto di macchina pulito prima di rilanciare FC 27 in seguito a un flag hardware.",
+        "I piani Monthly e lifetime USD utilizzano lo stesso processo di pagamento del resto del catalogo."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Quando utilizzarlo"
+      },
+      {
+        "type": "p",
+        "text": "Da usare quando i nuovi account falliscono su un PC ma funzionano altrove; non serve per i ban relativi al solo account. Da abbinare a preset conservativi dopo la verifica."
+      },
+      {
+        "type": "h2",
+        "text": "Piani"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $50 USD (P31D) o lifetime $150 USD (P99Y)."
+      }
+    ],
+    "goodToKnow": "Gli strumenti HWID modificano l'aspetto dell'impronta PC del tuo sistema, ma non rimuovono autonomamente i ban dell'account. Segui le guide del portale prima di avviare nuovamente FC 27.",
+    "limitations": "Lo spoofing comporta rischi tecnici e potrebbe violare i termini di gioco. I risultati variano in base al tipo di ban e alla configurazione dei driver. Da usare esclusivamente su sistemi di proprietà.",
+    "requirements": [
+      "Windows 10 o 11 a 64-bit con privilegi di amministratore.",
+      "Crea un punto di ripristino prima di eseguire gli strumenti hardware.",
+      "Connessione internet stabile per l'attivazione e la verifica."
+    ],
+    "features": [
+      "Hardware spoofer con cleaner",
+      "Rotazione seriale disco e MAC",
+      "Strumenti profilo ID GPU",
+      "Scansione di compatibilità",
+      "Checklist di verifica",
+      "Flusso di lavoro dettagliato del portale",
+      "Supporto configurazione Discord"
+    ]
+  },
+  "ugc": {
+    "slides": [
+      {
+        "alt": "Menu di sicurezza di EA SPORTS FC 27 loader su Windows PC",
+        "caption": "Recupero account",
+        "captionDesc": "Area di lavoro per i ricorsi ace condivisa tra gli store."
+      }
+    ],
+    "overview": {
+      "title": "Area di lavoro UGC Account recovery",
+      "paragraphs": [
+        "UGC Account recovery aiuta a organizzare i ricorsi per i ban e le pratiche di recupero con modelli, elenchi di prove e promemoria per il follow-up.",
+        "Consegna digitale immediata dopo il pagamento sicuro, con supporto Discord per domande sulla configurazione."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Flussi di lavoro per i ricorsi"
+      },
+      {
+        "type": "p",
+        "text": "Crea percorsi di ricorso personalizzati, automatizza le fasi di contestazione e monitora lo stato delle pratiche quando gli account di gioco vengono bloccati o limitati."
+      },
+      {
+        "type": "h2",
+        "text": "Piani"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $35 USD (P31D) o lifetime $150 USD (P99Y)."
+      }
+    ],
+    "goodToKnow": "Raccogli l'email dell'ordine, i dettagli dell'account e gli screenshot delle restrizioni prima di aprire un ticket. UGC struttura i ricorsi, ma non bypassa la revisione della piattaforma.",
+    "limitations": "UGC non garantisce il ripristino dell'account. I risultati variano in base al tipo di caso e alle politiche della piattaforma.",
+    "requirements": [
+      "Windows 10 o 11 (64-bit).",
+      "Accesso a internet per la sincronizzazione dei flussi di lavoro e gli aggiornamenti.",
+      "Accesso come amministratore per l'installazione."
+    ],
+    "features": [
+      "Flussi di ricorso personalizzati",
+      "Area di lavoro per il recupero multi-piattaforma ace",
+      "Libreria di modelli",
+      "Automazione per i passaggi ripetitivi",
+      "Dashboard di monitoraggio delle restrizioni",
+      "Flusso di lavoro dettagliato del portale",
+      "Supporto alla configurazione Discord"
+    ]
+  }
+}

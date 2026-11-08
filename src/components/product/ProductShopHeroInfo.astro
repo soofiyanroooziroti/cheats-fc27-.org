@@ -1,0 +1,55 @@
+---
+import { getLocaleFromAstro } from '../../i18n';
+import { getShopHeroInfoCopy } from '../../utils/product-shop-copy';
+
+interface Props {
+  /** Desktop: full-width band below hero. Mobile: after checkout. */
+  placement?: 'section' | 'checkout';
+}
+
+const { placement = 'section' } = Astro.props;
+const isSection = placement === 'section';
+const locale = getLocaleFromAstro(Astro);
+const titleId = isSection ? 'product-shop-hero-info-section-ugc' : 'product-shop-hero-info-checkout-ugc';
+const rootId = isSection ? 'product-shop-hero-info-section-root-ugc' : 'product-shop-hero-info-checkout-root-ugc';
+
+const infoCopy = getShopHeroInfoCopy(locale);
+const blocks = infoCopy?.blocks ?? [];
+const eyebrow = infoCopy?.eyebrow ?? 'Overview';
+const sectionTitle = infoCopy?.title ?? eyebrow;
+---
+
+{
+  blocks.length > 0 && (
+    <aside
+      id={rootId}
+      class:list={[
+        'product-shop-hero__info',
+        isSection ? 'product-shop-hero__info--section' : 'product-shop-hero__info--checkout lg:hidden',
+      ]}
+      aria-labelledby={titleId}
+    >
+      {
+        isSection ? (
+          <h2 id={titleId} class="product-shop-hero__faq-heading">
+            {sectionTitle}
+          </h2>
+        ) : (
+          <p id={titleId} class="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+            {eyebrow}
+          </p>
+        )
+      }
+      <div class:list={['product-shop-hero__info-list', isSection ? 'mt-4' : 'mt-2.5']}>
+        {
+          blocks.map((block) => (
+            <div class="product-shop-hero__info-item rounded-lg border border-border/80 bg-muted/15 px-3 py-2.5">
+              <h3 class="m-0 text-sm font-medium leading-snug text-foreground">{block.title}</h3>
+              <p class="m-0 mt-1.5 text-xs leading-relaxed text-muted-foreground">{block.body}</p>
+            </div>
+          ))
+        }
+      </div>
+    </aside>
+  )
+}

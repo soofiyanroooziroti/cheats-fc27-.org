@@ -1,0 +1,67 @@
+---
+import { getLocaleFromAstro, getTranslations } from '../i18n';
+import { productPath } from '../utils/path';
+const locale = getLocaleFromAstro(Astro);
+const t = getTranslations(locale);
+import { featureIcons } from '../data/sectionIcons';
+import SectionHeader from './SectionHeader.astro';
+import Icon from './icons/Icon.astro';
+import SlideRevealButton from './SlideRevealButton.astro';
+
+const s = t.features;
+const featuresHref = `${productPath('loader', locale)}#features`;
+const seeAllLabel = (s as { seeAllLabel?: string }).seeAllLabel ?? 'See all features';
+const subtitleLead = (s as { subtitleLead?: string }).subtitleLead ?? '';
+const subtitleLinkLabel = (s as { subtitleLinkLabel?: string }).subtitleLinkLabel ?? 'full feature list';
+const subtitleTail = (s as { subtitleTail?: string }).subtitleTail ?? '';
+const clients =
+  s.clients ??
+  s.items.find((item) => item.title === 'Supported clients')?.bullets ??
+  ['EA app', 'Steam', 'Epic Games Store'];
+const cards = s.items.filter((item) => item.title !== 'Supported clients');
+---
+
+<section id="home-features" class="border-y border-border bg-muted/20 py-12 md:py-16" aria-labelledby="home-features-title">
+  <div class="mx-auto max-w-6xl px-5">
+    <SectionHeader eyebrow={s.eyebrow} title={s.title} titleId="home-features-title" />
+    <ul class="mt-4 flex flex-wrap gap-2" aria-label="Supported clients">
+      {
+        clients.map((name) => (
+          <li class="inline-flex items-center rounded-full border border-border bg-card px-3 py-1 text-xs font-semibold text-foreground">
+            {name}
+          </li>
+        ))
+      }
+    </ul>
+
+    <p class="section-header__subtitle mt-3 max-w-3xl">
+      {subtitleLead}
+      <a href={featuresHref} class="font-medium text-primary underline-offset-2 hover:underline">
+        {subtitleLinkLabel}
+      </a>
+      {subtitleTail}
+    </p>
+
+    <ul class="home-features__grid mt-10" role="list">
+      {
+        cards.map((item) => (
+          <li class="h-full">
+            <article class="feature-category-card flex h-full gap-3 rounded-xl border border-border bg-card p-4 shadow-sm transition-colors hover:border-primary/35">
+              <span class="flex size-9 shrink-0 items-center justify-center rounded-lg bg-primary/10">
+                <Icon name={featureIcons[item.title] ?? 'crosshair'} size={17} />
+              </span>
+              <div class="min-w-0 space-y-1">
+                <h3 class="text-sm font-bold leading-snug text-foreground md:text-[0.9375rem]">{item.title}</h3>
+                <p class="text-xs leading-relaxed text-muted-foreground md:text-sm">{item.subtitle}</p>
+              </div>
+            </article>
+          </li>
+        ))
+      }
+    </ul>
+
+    <div class="mt-8 flex justify-center sm:justify-start">
+      <SlideRevealButton href={featuresHref}>{seeAllLabel}</SlideRevealButton>
+    </div>
+  </div>
+</section>

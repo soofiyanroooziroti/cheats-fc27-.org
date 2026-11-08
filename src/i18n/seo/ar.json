@@ -1,0 +1,64 @@
+{
+  "site": {
+    "title": "شفرات FC 27",
+    "description": "شفرات FC 27 مع أدوات المهنة و Ultimate Team و Pro Clubs، بالإضافة إلى قائمة تعديل لـ EA SPORTS FC 27 على Windows PC. تسعير عالمي لـ USD."
+  },
+  "pages": {
+    "/": {
+      "title": "شفرات FC 27 لـ Windows PC | قائمة التعديل والأسعار",
+      "description": "شفرات FC 27 مع قائمة تعديل Windows PC لـ EA SPORTS FC 27. وضع المهنة، Ultimate Team، وPro Clubs في loader واحد. عملية دفع منفصلة لكل منتج."
+    },
+    "/products/fc27-cheats/": {
+      "title": "المنتجات والأسعار | خطط Monthly وLifetime",
+      "description": "EA SPORTS FC 27 على Windows PC: شفرة وUGC بـ $35 monthly أو $150 lifetime؛ HWID spoofer بـ 50 دولاراً monthly أو $150 lifetime. عمليات دفع منفصلة."
+    },
+    "/products/fc27-cheats/loader/": {
+      "title": "قائمة تعديل FC27 | مساعدات المباريات والمهنة",
+      "description": "قائمة تعديل FC27 مع مجموعات loader للعب المباريات، ووضع المهنة، وUltimate Team. Monthly $35. Lifetime $150. اقرأ ملاحظة الحالة بعد تحديثات EA Javelin أو العميل."
+    },
+    "/products/fc27-cheats/hwid-spoofer/": {
+      "title": "FC27 HWID Spoofer لعلامات الأجهزة Windows",
+      "description": "FC27 hwid spoofer للاعبين الذين يواجهون علامة عتاد على PC. بـ 50 دولاراً monthly أو $150 lifetime. تبديل الملفات الشخصية على PC - وليس للحظار المرتبطة بالحسابات فقط."
+    },
+    "/products/fc27-cheats/ugc/": {
+      "title": "أداة استرداد حساب FC27 لطلبات الاستئناف PC",
+      "description": "أداة استرداد حساب FC27 تنظم طلبات الاستئناف ضد الحظر وحالات الاسترداد. ترخيص منفصل عن loader وHWID spoofer على PC."
+    },
+    "/products/fc27-cheats/utilities/": {
+      "title": "قارن بين أداة HWID وأداة استئناف الحساب",
+      "description": "تعرف على أداة Windows المناسبة لعلامة العتاد وتلك المناسبة لاستئناف الحساب. كلاهما بعمليتي دفع منفصلتين عن loader."
+    },
+    "/blog/": {
+      "title": "أدلة FC 27 المنشورة للقوائم والأمان والتحديثات",
+      "description": "تغطي الأدلة المنشورة Ultimate Team، ونمط المهنة، وPro Clubs، وعلامة الأجهزة HWID، وأيام تحديثات EA Javelin قبل الإطلاق على Windows PC."
+    },
+    "/forum/": {
+      "title": "منتدى المجتمع: الإعداد، والقوائم، والخطط",
+      "description": "مناقشات المنتدى حول loader، ومساعدات اللعب، وخطط $35 monthly و$150 lifetime، وأيام تحديثات EA Javelin. يتم تمييز ردود المطورين."
+    },
+    "/faq/": {
+      "title": "الأسئلة الشائعة - الخطط، والإعداد، ومخاطر EA Javelin",
+      "description": "إجابات حول الدفع، وتحديثات EA Javelin، ومتطلبات Windows، وعلامات الأجهزة، وكيف تختلف loader والأداة الوهمية وأداة الحساب."
+    },
+    "/support/": {
+      "title": "الدعم: Loader، الدفع، وHWID PC",
+      "description": "مساعدة بشأن Loader، الدفع، والبوابة لأدوات PC، وHWID spoofer، واعتراضات الحساب. أدرج بريد طلبك وloader الدقيق."
+    },
+    "/about/": {
+      "title": "حول هذا المتجر: تسليم البوابة، التسعير، والمخاطر",
+      "description": "ما يبيعه موقع cheatsfc27.com للعبة EA SPORTS FC 27 على Windows PC، وكيف يعمل تسليم البوابة، ومخاطر EA Javelin، وما تتضمنه أدوات loader، وspoofer، وUGC."
+    },
+    "/privacy/": {
+      "title": "ملاحظات الخصوصية للتحليلات، ملفات تعريف الارتباط، وبيانات الاتصال",
+      "description": "كيف يتعامل موقع cheatsfc27.com مع التحليلات، ملفات تعريف الارتباط، وبيانات الاتصال. تظل أرقام بطاقات الدفع لدى مزود الدفع وليس على هذا المتجر."
+    },
+    "/terms/": {
+      "title": "شروط الترخيص، الاسترداد وقواعد الاستخدام المقبول",
+      "description": "شروط الترخيص، الاستخدام المقبول، وقاعدة عدم الاسترداد الخاصة بـ loader، HWID spoofer، واستعادة الحساب المباعة عبر cheatsfc27.com."
+    },
+    "/status/": {
+      "title": "ملاحظات تحديث EA Javelin وحالة العميل",
+      "description": "تحديث العنوان الإصدار v1.1.0 (27 أكتوبر 2026) لـ EA SPORTS FC 27: تحسينات جودة الحياة، واجهة المهنة، إصلاحات الأندية، وأمان EA Javelin. تحقق قبل الإطلاق."
+    }
+  }
+}

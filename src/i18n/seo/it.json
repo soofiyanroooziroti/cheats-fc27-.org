@@ -1,0 +1,64 @@
+{
+  "site": {
+    "title": "Cheat per FC 27",
+    "description": "Cheat per FC 27 con strumenti per Carriera, Ultimate Team e Pro Clubs, oltre a un menu mod per EA SPORTS FC 27 su Windows PC. Prezzi USD mondiali."
+  },
+  "pages": {
+    "/": {
+      "title": "Cheat per FC 27 per Windows PC | Mod Menu e Prezzi",
+      "description": "Cheat per FC 27 con un mod menu Windows PC per EA SPORTS FC 27. Carriera, Ultimate Team e Pro Clubs in un unico loader. Pagamento separato per prodotto."
+    },
+    "/products/fc27-cheats/": {
+      "title": "Prodotti e Prezzi | Piani Monthly e Lifetime",
+      "description": "EA SPORTS FC 27 su Windows PC: cheat e UGC a $35 monthly o $150 lifetime; HWID spoofer a $50 monthly o $150 lifetime. Pagamenti separati."
+    },
+    "/products/fc27-cheats/loader/": {
+      "title": "Mod Menu FC27 | Assist per Partita e Carriera",
+      "description": "Mod menu FC27 con gruppi loader per le partite, la Carriera e l'Ultimate Team. Monthly $35. Lifetime $150. Leggi la nota sullo stato dopo gli aggiornamenti di EA Javelin o del client."
+    },
+    "/products/fc27-cheats/hwid-spoofer/": {
+      "title": "FC27 HWID Spoofer per Windows Hardware Flags",
+      "description": "FC27 hwid spoofer per giocatori con un blocco hardware su PC. $50 monthly o $150 lifetime. Rotazione profilo su PC—non per ban di solo account."
+    },
+    "/products/fc27-cheats/ugc/": {
+      "title": "Strumento Recupero Account FC27 per Appelli PC",
+      "description": "Lo strumento di recupero account FC27 organizza appelli contro i ban e casi di recupero. Licenza separata da loader e HWID spoofer su PC."
+    },
+    "/products/fc27-cheats/utilities/": {
+      "title": "Confronta lo Strumento HWID e l'Utilità Appelli Account",
+      "description": "Scopri quale utilità Windows gestisce un blocco hardware e quale un appello per l'account. Entrambi richiedono acquisti separati da loader."
+    },
+    "/blog/": {
+      "title": "Guide pubblicate per FC 27 su menu, protezione e patch",
+      "description": "Le guide coprono Ultimate Team, Carriera, Pro Clubs, il flag hardware HWID e i giorni di patch di EA Javelin prima di avviare su Windows PC."
+    },
+    "/forum/": {
+      "title": "Forum della community: configurazione, menu e piani",
+      "description": "Thread del forum su loader, assistenti di gioco, piani per $35 monthly e $150 lifetime e giorni di patch di EA Javelin. Le risposte degli sviluppatori sono contrassegnate."
+    },
+    "/faq/": {
+      "title": "FAQ – Piani, configurazione e rischi EA Javelin prima dell'acquisto",
+      "description": "Risposte su checkout, aggiornamenti di EA Javelin, requisiti di Windows, flag hardware e differenze tra loader, spoofer e strumento account."
+    },
+    "/support/": {
+      "title": "Supporto: Loader, Pagamento e HWID PC",
+      "description": "Loader, pagamento e aiuto sul portale per gli strumenti PC, il HWID spoofer e i ricorsi per gli account. Includi l'email del tuo ordine e l'esatto loader."
+    },
+    "/about/": {
+      "title": "Informazioni sul negozio: consegna, prezzi e rischi",
+      "description": "Cosa vende cheatsfc27.com per EA SPORTS FC 27 su Windows PC, come funziona la consegna, i rischi di EA Javelin e cosa includono loader, spoofer e UGC."
+    },
+    "/privacy/": {
+      "title": "Note sulla privacy per analisi, cookie e contatti",
+      "description": "Come cheatsfc27.com gestisce analisi, cookie e dati di contatto. I numeri delle carte rimangono sul provider di pagamento, non su questo negozio."
+    },
+    "/terms/": {
+      "title": "Termini di licenza, rimborsi e regole d'uso",
+      "description": "Termini di licenza, uso accettato e regola di non rimborso per loader, HWID spoofer e recupero account venduti tramite cheatsfc27.com."
+    },
+    "/status/": {
+      "title": "Note sulla patch EA Javelin e stato del client",
+      "description": "Aggiornamento v1.1.0 (27 ott 2026) per EA SPORTS FC 27: QoL, interfaccia Carriera, correzioni Club e sicurezza EA Javelin. Verifica prima dell'avvio."
+    }
+  }
+}

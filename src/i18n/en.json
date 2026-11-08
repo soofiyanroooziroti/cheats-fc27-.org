@@ -1,0 +1,1157 @@
+{
+  "site": {
+    "name": "FC27 Cheats",
+    "domain": "cheatsfc27.com",
+    "title": "FC27 Cheats",
+    "description": "FC27 cheats with gameplay assists, Career and Ultimate Team tools, and mod menu config for EA SPORTS FC 27 on Windows PC. Worldwide. USD pricing.",
+    "discord": "https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fea-sports-fc-27"
+  },
+  "nav": [
+    {
+      "href": "/",
+      "label": "Home"
+    },
+    {
+      "href": "/products/fc27-cheats/",
+      "label": "Products"
+    },
+    {
+      "href": "/products/fc27-cheats/loader/#features",
+      "label": "Features"
+    },
+    {
+      "href": "/blog/",
+      "label": "Blog"
+    },
+    {
+      "href": "/forum/",
+      "label": "Forum"
+    },
+    {
+      "href": "/faq/",
+      "label": "FAQ"
+    },
+    {
+      "href": "/support/",
+      "label": "Support"
+    }
+  ],
+  "headerNavLabels": {
+    "home": "Home",
+    "products": "Store",
+    "features": "Features",
+    "blog": "Blog",
+    "forum": "Forum",
+    "faq": "FAQ",
+    "support": "Help"
+  },
+  "navMore": "More",
+  "navShort": {
+    "home": "Home",
+    "products": "Products",
+    "features": "Features",
+    "blog": "Blog",
+    "forum": "Forum",
+    "faq": "FAQ",
+    "support": "Support"
+  },
+  "hero": {
+    "status": "FC 27 — Career & Ultimate Team",
+    "eyebrow": "Windows PC · Worldwide",
+    "titleLine1": "FC 27 Cheats for Windows PC — mod menu and pricing",
+    "titleLine2": "CheatsFC27",
+    "subtitle": "FC 27 cheats on Windows PC: match, Career, and Ultimate Team assists in one mod menu, with instant delivery and Discord support. USD pricing worldwide.",
+    "ctaPrimary": "View products",
+    "ctaDiscord": "Buy now",
+    "modesLabel": "Modes",
+    "modes": [
+      "Career",
+      "Ultimate Team",
+      "Clubs",
+      "Seasons"
+    ],
+    "marqueeAria": "Features and platform support",
+    "metrics": [
+      {
+        "label": "Anti-cheat",
+        "strong": "EA Javelin"
+      },
+      {
+        "label": "Platform",
+        "strong": "Windows PC"
+      },
+      {
+        "label": "Plans",
+        "strong": "$35 / $150"
+      },
+      {
+        "label": "Support",
+        "strong": "24/7"
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Menu groups",
+    "title": "Five tabs in the loader",
+    "subtitleLead": "Five menu groups match the product UI. Open the ",
+    "subtitleLinkLabel": "full feature list",
+    "subtitleTail": " for every toggle and slider.",
+    "seeAllLabel": "See all features",
+    "clients": [
+      "EA app",
+      "Steam",
+      "Epic Games Store"
+    ],
+    "items": [
+      {
+        "title": "Ultimate Team",
+        "subtitle": "NoLoss, division spoofers, draft rounds, pack skip, and instant moments."
+      },
+      {
+        "title": "Gameplay",
+        "subtitle": "AI auto play, sliders, five-star skills, stamina, and custom tactics."
+      },
+      {
+        "title": "Pro Clubs",
+        "subtitle": "Virtual pro editor, PlayStyles+, hidden stats, and XP boost."
+      },
+      {
+        "title": "Utilities",
+        "subtitle": "Desync bypass and ALT-TAB bypass for stable Windows sessions."
+      },
+      {
+        "title": "Safety",
+        "subtitle": "Anti-ban protection in the loader safety panel."
+      }
+    ]
+  },
+  "whyUs": {
+    "eyebrow": "Why us",
+    "title": "Career and Ultimate Team season — patches, not promises",
+    "subtitle": "One cheat product, one HWID spoofer, and one UGC recovery workspace. Cheat and UGC are $35 monthly or $150 lifetime; the spoofer is $50 monthly or $150 lifetime. A ban is still possible under EA Javelin.",
+    "usLabel": "FC27 Cheats",
+    "otherLabel": "Typical provider",
+    "rows": [
+      {
+        "title": "Patch-day loader updates",
+        "desc": "Check cheatsfc27.com after an FC 27 or EA Javelin update before you open the loader."
+      },
+      {
+        "title": "Separate aim sliders",
+        "desc": "Player and opponent sliders, skill moves, and stamina are separate Gameplay Options toggles. Change one at a time, then save from the Misc tab."
+      },
+      {
+        "title": "Loader and config help",
+        "desc": "Setup questions cover the Windows loader, saved configs, and which product matches a hardware flag versus an account case."
+      },
+      {
+        "title": "Separate product checkouts",
+        "desc": "The cheat, the HWID spoofer, and UGC recovery stay separate checkouts. Lifetime on the cheat does not add the spoofer."
+      },
+      {
+        "title": "Saved configs",
+        "desc": "Save / Load Config on the Misc tab keeps your Gameplay, FUT, Clubs, and Utilities presets for the next launch."
+      },
+      {
+        "title": "HWID is its own product",
+        "desc": "A machine that fails new accounts is the spoofer case. An account-only restriction is the UGC case. Neither is included with the cheat key."
+      }
+    ],
+    "metrics": [
+      {
+        "value": "EA Javelin",
+        "title": "Check after a patch",
+        "desc": "Recheck the site after an FC 27 or EA Javelin update before you launch."
+      },
+      {
+        "value": "2",
+        "title": "Plans on every card",
+        "desc": "Cheat and UGC monthly is $35 for 31 days. Spoofer monthly is $50. Lifetime is $150 per product. There is no weekly plan."
+      },
+      {
+        "value": "3",
+        "title": "Separate products",
+        "desc": "FC27 Cheats, the HWID spoofer, and UGC recovery. Each one is its own key."
+      }
+    ]
+  },
+  "setup": {
+    "eyebrow": "Setup guide",
+    "titleLead": "From checkout to your first server in just",
+    "titleHighlight": "three simple steps",
+    "intro": "Getting started is checkout, the portal loader, then a saved config. Check the site after a EA Javelin or game update before you launch FC 27.",
+    "ctaPrimary": "View products",
+    "ctaSecondary": "Setup FAQ",
+    "ctaPrimaryHref": "/products/fc27-cheats/",
+    "ctaSecondaryHref": "/faq/",
+    "statusStrip": {
+      "aceStatusCta": "Check EA Javelin status",
+      "aceStatusHref": "/status/",
+      "perks": [
+        {
+          "icon": "instantDelivery",
+          "label": "Instant delivery"
+        },
+        {
+          "icon": "support247",
+          "label": "24/7 support"
+        },
+        {
+          "icon": "refresh",
+          "label": "Lifetime updates"
+        }
+      ]
+    },
+    "steps": [
+      {
+        "step": "Step 1",
+        "title": "Unlock portal & download loader",
+        "desc": "Complete checkout, open your operator dashboard, and pull the latest patch loader build for Windows."
+      },
+      {
+        "step": "Step 2",
+        "title": "Launch & configure modules",
+        "desc": "Run the loader, then set FUT, gameplay, Pro Clubs, utilities, and safety toggles one tab at a time before you save a config."
+      },
+      {
+        "step": "Step 3",
+        "title": "Check status, then launch",
+        "desc": "Confirm the site is current for this client, then open FC 27 with the config you saved."
+      }
+    ]
+  },
+  "compatibility": {
+    "eyebrow": "Platform support",
+    "title": "Runs on your rig.",
+    "subtitle": "Check the site after an FC 27 or EA Javelin update before you launch.",
+    "items": [
+      "HVCI ON",
+      "CORE ISOLATION ON",
+      "TPM ON",
+      "SECURE BOOT ON",
+      "WINDOWS 10 and 11",
+      "Cloud DMA required",
+      "Check status after patches",
+      "Discord support",
+      "Config save"
+    ]
+  },
+  "cheats": {
+    "eyebrow": "Game cheat",
+    "title": "FC27 Cheats",
+    "subtitle": "FUT, gameplay, Pro Clubs, utilities, and safety options in one Windows loader.",
+    "viewAll": "View details",
+    "explore": "Explore",
+    "items": [
+      {
+        "badge": "Active",
+        "tier": "Full suite",
+        "name": "FC 27",
+        "title": "FC27 Cheats",
+        "desc": "Loader with Ultimate Team, gameplay, Pro Clubs, utilities, and safety tabs. Same menu on every plan.",
+        "features": [
+          "Ultimate Team Options",
+          "Utilities",
+          "Gameplay Options",
+          "Pro Clubs Options",
+          "Safety"
+        ],
+        "more": 0,
+        "href": "/products/fc27-cheats/loader/",
+        "variant": "popular"
+      }
+    ]
+  },
+  "products": {
+    "eyebrow": "Products",
+    "title": "Products & pricing",
+    "subtitle": "FC27 Cheats and UGC: $35/mo or $150 lifetime. HWID spoofer: $50/mo or $150 lifetime.",
+    "viewAll": "View details",
+    "get": "Buy now",
+    "explore": "Explore",
+    "items": [
+      {
+        "badge": "Active",
+        "category": "HWID spoofer",
+        "title": "HWID Spoofer",
+        "subtitle": "Hardware ID recovery",
+        "desc": "HWID spoofer with cleaner—rotate disk, MAC, and GPU IDs before relaunching after hardware flags.",
+        "features": [
+          "Hardware spoofer + cleaner",
+          "Compatibility scan",
+          "Verification steps",
+          "Portal workflow"
+        ],
+        "more": 4,
+        "href": "/products/fc27-cheats/hwid-spoofer/"
+      },
+      {
+        "badge": "Active",
+        "category": "UGC Account recovery",
+        "title": "UGC Account recovery",
+        "subtitle": "Appeals & recovery",
+        "desc": "UGC Account recovery workspace—custom appeal workflows, templates, and restriction tracking.",
+        "features": [
+          "Custom appeal workflows",
+          "Multi-platform profiles",
+          "Template library",
+          "Status dashboard"
+        ],
+        "more": 4,
+        "href": "/products/fc27-cheats/ugc/"
+      }
+    ]
+  },
+  "blog": {
+    "eyebrow": "Blog",
+    "title": "Published FC 27 guides",
+    "subtitle": "Published notes on Ultimate Team, Career Mode, Pro Clubs, the HWID flag, and what a menu toggle does not stop under EA Javelin.",
+    "latestTitle": "Published guides for the FC 27 menu and modes",
+    "latestSubtitle": "Filter by topic or sort the published notes on features, hardware flags, and Title Update v1.1.0.",
+    "filterAll": "All articles",
+    "sortLabel": "Sort by",
+    "sortNewest": "Newest first",
+    "sortOldest": "Oldest first",
+    "sortShortRead": "Shortest read",
+    "sortLongRead": "Longest read",
+    "emptyFilter": "No articles match this filter.",
+    "emptyCatalog": "No guides are listed in this view. Open a topic filter or the product page.",
+    "viewAll": "View all articles",
+    "read": "Read",
+    "items": [],
+    "minRead": "min read",
+    "filterByTopicAria": "Filter articles by topic",
+    "continueReadingAria": "Continue reading",
+    "articleUpdated": "Updated",
+    "keyTakeawaysTitle": "Key takeaways",
+    "relatedFaqsTitle": "Related FAQs",
+    "relatedFaqsSubtitle": "Short answers for this article. The FAQ page covers plans, setup, and EA Javelin.",
+    "tagLabels": {
+      "Review": "Review",
+      "Install": "Install",
+      "Safety": "Safety",
+      "Plans": "Plans",
+      "Aim": "Match play",
+      "ESP": "Overlays",
+      "Loot": "Loot",
+      "Visuals": "Visuals",
+      "Camera": "Camera",
+      "Guide": "Guide"
+    }
+  },
+  "toolkit": {
+    "eyebrow": "Software",
+    "title": "Organized, easy to configure",
+    "subtitle": "Five sidebar tabs match the loader: FUT, gameplay, clubs, utilities, and safety.",
+    "items": [
+      {
+        "num": "01",
+        "label": "FUT",
+        "title": "Ultimate Team Options",
+        "desc": "NoLoss, division and Champions spoofers, opponent info, draft rounds, pack skip, and instant moment."
+      },
+      {
+        "num": "02",
+        "label": "Utils",
+        "title": "Utilities",
+        "desc": "Desync bypass and ALT-TAB bypass when you alt-tab or hit desync on Windows PC."
+      },
+      {
+        "num": "03",
+        "label": "Match",
+        "title": "Gameplay Options",
+        "desc": "AI auto play, player and opponent sliders, five-star skills and weak foot, stamina, and custom tactics."
+      },
+      {
+        "num": "04",
+        "label": "Clubs",
+        "title": "Pro Clubs Options",
+        "desc": "Virtual pro editor, VPRO sliders, PlayStyles+, hidden stats, and XP boost."
+      },
+      {
+        "num": "05",
+        "label": "Safety",
+        "title": "Safety",
+        "desc": "Anti-ban protection before you enable gameplay or FUT modules."
+      }
+    ]
+  },
+  "workflow": {
+    "eyebrow": "How it works",
+    "badge": "4 easy steps",
+    "titleBefore": "From status check to",
+    "titleHighlight": "saved profile.",
+    "subtitle": "A straight path from a status check to a saved FC 27 config.",
+    "ctaLabel": "View products",
+    "ctaHref": "/products/fc27-cheats/",
+    "ctaSecondary": "Setup FAQ",
+    "ctaSecondaryHref": "/faq/",
+    "items": [
+      {
+        "num": "01",
+        "phase": "Before purchase",
+        "title": "Check EA Javelin status",
+        "desc": "Read cheatsfc27.com after a client or EA Javelin update before you buy or launch."
+      },
+      {
+        "num": "02",
+        "phase": "Checkout",
+        "title": "Choose the product",
+        "desc": "FC27 Cheats or UGC: $35 monthly or $150 lifetime. HWID Spoofer: $50 monthly or $150 lifetime. Separate keys."
+      },
+      {
+        "num": "03",
+        "phase": "Loader",
+        "title": "Launch & configure",
+        "desc": "Download from the portal. Leave HVCI, core isolation, TPM, and secure boot on."
+      },
+      {
+        "num": "04",
+        "phase": "In-game",
+        "title": "Save your profile",
+        "desc": "When the menu toggles feel right, save the config."
+      }
+    ]
+  },
+  "fieldNotes": {
+    "eyebrow": "Field notes",
+    "title": "Built for FC 27 on Windows PC.",
+    "items": [
+      {
+        "num": "01",
+        "title": "Patch-day check",
+        "desc": "Read the site after a EA Javelin or client update. A banner from yesterday is not a current build."
+      },
+      {
+        "num": "02",
+        "title": "One slider at a time",
+        "desc": "Change one slider at a time so you know which setting caused the result."
+      },
+      {
+        "num": "03",
+        "title": "Separate products",
+        "desc": "The cheat, the HWID spoofer, and UGC recovery are three checkouts. Lifetime on one does not unlock the others."
+      }
+    ]
+  },
+  "support": {
+    "eyebrow": "Support",
+    "title": "FC 27 support",
+    "subtitle": "Let us know how we can help.",
+    "channels": [
+      {
+        "icon": "users",
+        "title": "Chat before checkout",
+        "desc": "Ask about the cheat, the spoofer, or UGC before you pay.",
+        "linkLabel": "Start checkout",
+        "href": "https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fea-sports-fc-27"
+      },
+      {
+        "icon": "messageCircle",
+        "title": "Community forum",
+        "desc": "Setup, aim, overlays, and plan questions with marked developer replies.",
+        "linkLabel": "Open the forum",
+        "href": "/forum/"
+      },
+      {
+        "icon": "navFaq",
+        "title": "Read the FAQ",
+        "desc": "Compatibility, bans and setup—before you buy.",
+        "linkLabel": "View all FAQ",
+        "href": "/faq/"
+      },
+      {
+        "icon": "clock",
+        "title": "Live operators",
+        "desc": "Discord engineers on shift 24/7.",
+        "linkLabel": "Open contact page",
+        "href": "/support/"
+      }
+    ],
+    "ticketTitle": "Include in your ticket",
+    "ticketItems": [
+      {
+        "title": "Order email",
+        "desc": "The address used at checkout on cheatsfc27.com."
+      },
+      {
+        "title": "Platform",
+        "desc": "WINDOWS 10 and 11 both supported, with HVCI, core isolation, TPM, secure boot, and Cloud DMA."
+      },
+      {
+        "title": "Error detail",
+        "desc": "The exact loader message, not a paraphrase."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Straight answers before checkout.",
+    "subtitle": "Compatibility, bans and access—no vague promises.",
+    "items": [
+      {
+        "id": "javelin",
+        "topic": "safety",
+        "icon": "faqBanRisk",
+        "q": "Does the FC27 cheat work with EA Javelin?",
+        "a": "The loader is for EA SPORTS FC 27 on Windows PC while EA Javelin is running. It does not stop enforcement, and it is not an undetected claim. Read the status page after each client or EA Javelin update before you launch.",
+        "aHtml": "The loader is for EA SPORTS FC 27 on Windows PC while EA Javelin is running. It does not stop enforcement, and it is not an undetected claim. Read the <a href=\"/status/\">status page</a> after each client or EA Javelin update before you launch."
+      },
+      {
+        "id": "ultimate-team",
+        "topic": "products",
+        "icon": "faqProductsPage",
+        "q": "What is included in Ultimate Team options?",
+        "a": "NoLoss, Division Spoofer, Champions Win/Loss Spoofer, Champions Round Spoofer, Opponent Name / Platform, Draft Round Modifier, Skip Pack Animation, and Instant Moment."
+      },
+      {
+        "id": "pro-clubs",
+        "topic": "products",
+        "icon": "faqProductsPage",
+        "q": "Can I use it in Pro Clubs?",
+        "a": "Yes. Pro Clubs Options includes Virtual Pro Attribute Editor, VPRO Sliders, PlayStyles, PlayStyles+, Hidden Stats 99, and XP Boost. Gameplay and Ultimate Team are separate tabs."
+      },
+      {
+        "id": "lifetime-spoofer",
+        "topic": "plans",
+        "icon": "faqComparePlans",
+        "q": "Does the $150 lifetime plan include the spoofer?",
+        "a": "No. Lifetime on FC27 Cheats is that product only. The HWID spoofer is $50 for 31 days or $150 lifetime on its own card. UGC recovery is a third checkout.",
+        "scopes": [
+          "loader",
+          "hwid-spoofer",
+          "ugc"
+        ]
+      },
+      {
+        "id": "patch-speed",
+        "topic": "setup",
+        "icon": "faqStatus",
+        "q": "How fast are updates after a patch?",
+        "a": "There is no fixed hour count. Check the status page after an FC 27 or EA Javelin update. Leave the loader closed until that note matches the build you installed.",
+        "aHtml": "There is no fixed hour count. Check the <a href=\"/status/\">status page</a> after an FC 27 or EA Javelin update. Leave the loader closed until that note matches the build you installed."
+      },
+      {
+        "id": "launchers",
+        "topic": "setup",
+        "icon": "faqPlatforms",
+        "q": "Which PC launchers are supported?",
+        "a": "EA app, Steam, and Epic Games Store for EA SPORTS FC 27 on Windows PC."
+      },
+      {
+        "id": "requirements",
+        "topic": "setup",
+        "icon": "faqPlatforms",
+        "q": "What are the system requirements?",
+        "a": "Windows 10 and Windows 11. Keep HVCI, core isolation, TPM, and Secure Boot on. macOS and Linux are not supported."
+      },
+      {
+        "id": "support",
+        "topic": "setup",
+        "icon": "faqAfterBuy",
+        "q": "How do I get support?",
+        "a": "Open the support page with your order email, Windows version, and the exact loader text.",
+        "aHtml": "Open the <a href=\"/support/\">support page</a> with your order email, Windows version, and the exact loader text."
+      }
+    ],
+    "filterTopics": {
+      "all": "All",
+      "plans": "Plans",
+      "esp": "Menu / overlays",
+      "scripts": "Scripts",
+      "safety": "Safety",
+      "products": "Products",
+      "blog": "Blog",
+      "setup": "Setup"
+    }
+  },
+  "footer": {
+    "tagline": "FC27 Cheats, HWID spoofer, and UGC recovery for Windows PC. cheatsfc27.com",
+    "explore": "Explore",
+    "exploreLinks": [
+      {
+        "href": "/products/fc27-cheats/loader/#features",
+        "label": "Feature overview",
+        "ariaLabel": "Features"
+      },
+      {
+        "href": "/products/fc27-cheats/loader/",
+        "label": "FC27 Cheats",
+        "ariaLabel": "FC27 Cheats"
+      },
+      {
+        "href": "/products/fc27-cheats/",
+        "label": "All products",
+        "ariaLabel": "Products"
+      },
+      {
+        "href": "/blog/",
+        "label": "Read patch guides",
+        "ariaLabel": "Blog"
+      },
+      {
+        "href": "/faq/",
+        "label": "Pre-purchase FAQ",
+        "ariaLabel": "FAQ"
+      }
+    ],
+    "support": "Support",
+    "legal": "Legal",
+    "moreSites": "More sites",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "about": "About",
+    "resourceLinks": [
+      {
+        "label": "Blog archive",
+        "ariaLabel": "Blog"
+      },
+      {
+        "label": "FC27 Cheats",
+        "ariaLabel": "FC27 Cheats"
+      },
+      {
+        "label": "Products & utilities",
+        "ariaLabel": "Products"
+      }
+    ]
+  },
+  "legalPages": {
+    "about": {
+      "title": "About this FC 27 store",
+      "description": "cheatsfc27.com sells FC27 Cheats, an HWID spoofer, and UGC account recovery for Windows PC, with setup notes and honest ban risk.",
+      "sections": [
+        {
+          "heading": "Who we are",
+          "paragraphs": [
+            "cheatsfc27.com is a Windows PC store for FC27 Cheats, an HWID spoofer, and UGC account recovery. The cheat is one loader product with FUT, gameplay, Pro Clubs, utilities, and safety tabs. Cloud DMA is required for full functionality on supported builds. It is not a ladder of Lite, Pro, and Elite tiers.",
+            "FC27 Cheats and UGC checkout at $35 for 31 days or $150 lifetime. The HWID spoofer is $50 for 31 days or $150 lifetime. A lifetime key on the cheat does not include the spoofer or the recovery workspace. Starting on a month does not promise a credit toward lifetime.",
+            "Product names on this site identify what we sell. They are not a claim that the game publisher endorses the software. Delivery is a portal download for Windows 10 or 11. You keep HVCI, core isolation, TPM, and secure boot on, then open the loader only when the site still matches the current client."
+          ]
+        },
+        {
+          "heading": "What we publish",
+          "paragraphs": [
+            "The [FC27 Cheats](/products/fc27-cheats/loader/) page lists the menu names and system requirements: HVCI, core isolation, TPM, and secure boot on; WINDOWS 10 and 11 both supported; Cloud DMA required for full functionality. The [products page](/products/fc27-cheats/) is where you compare the cheat, the [HWID Spoofer](/products/fc27-cheats/hwid-spoofer/), and [UGC Account recovery](/products/fc27-cheats/ugc/).",
+            "Guides on the [blog](/blog/) explain the loader tabs, why a hardware flag is a different buy from an account appeal, and what to check after a patch. The [forum](/forum/) is for those same questions, with developer replies marked on the thread. Read the [terms](/terms/) before checkout. Sales are final, including bans.",
+            "EA Javelin can still act on an account. Nothing here is a guarantee that a session stays clean after the next patch. Check this site after a client update before you open the loader. If the page is not current for that build, leave the software closed.",
+            "Status notes on the homepage describe whether the published build still matches the client. They are not a promise that EA Javelin will ignore the software. If you are unsure, leave the loader closed and read the matching guide on the blog before you queue again."
+          ]
+        },
+        {
+          "heading": "Support",
+          "paragraphs": [
+            "Loader errors, a key that will not move, and checkout questions go through the [support page](/support/). Include the order email, Windows version, and the exact loader text. Do not turn HVCI, core isolation, TPM, or secure boot off because a chat message from another game said to."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "description": "How cheatsfc27.com handles analytics, cookies, and contact data.",
+      "sections": [
+        {
+          "heading": "Information we collect",
+          "paragraphs": [
+            "We may collect standard web analytics such as page views, device type, browser, and approximate region through Google Analytics when enabled. Checkout and license delivery happen on external checkout pages. We do not store payment card data on cheatsfc27.com."
+          ]
+        },
+        {
+          "heading": "How we use data",
+          "paragraphs": [
+            "Analytics help us understand which guides and product pages are useful so we can improve content and fix broken links. Support tickets may retain the email address and message content you provide until the issue is resolved."
+          ]
+        },
+        {
+          "heading": "Cookies",
+          "paragraphs": [
+            "We use minimal cookies required for analytics. You can block cookies in your browser settings; core site content remains accessible without them."
+          ]
+        },
+        {
+          "heading": "Support",
+          "paragraphs": [
+            "For privacy questions, use the options on the Support page. Purchase and refund rules are in our Terms & Conditions."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms & Conditions",
+      "description": "Purchase, license, refund, and use terms for products sold on cheatsfc27.com.",
+      "sections": [
+        {
+          "heading": "Agreement",
+          "paragraphs": [
+            "Last updated: October 2026. By using cheatsfc27.com or completing checkout for any product listed here, you agree to these Terms & Conditions and our Privacy Policy."
+          ]
+        },
+        {
+          "heading": "What you purchase",
+          "paragraphs": [
+            "We sell FC27 Cheats, an HWID spoofer, and UGC account recovery. Cheat and UGC are $35 for 31 days or $150 lifetime; the spoofer is $50 for 31 days or $150 lifetime. Each product is its own license through the portal on Windows PC.",
+            "Feature lists on each product page describe what is included at the time of purchase. Modules can change when FC 27 or EA Javelin updates. A lifetime cheat key does not include the spoofer or UGC."
+          ]
+        },
+        {
+          "heading": "Checkout and delivery",
+          "paragraphs": [
+            "Payment and license delivery run on external checkout pages. cheatsfc27.com does not process or store payment card numbers.",
+            "After purchase, use the portal from your order to download the current loader before you launch FC 27. Leave HVCI, core isolation, TPM, and secure boot on."
+          ]
+        },
+        {
+          "heading": "License use",
+          "paragraphs": [
+            "Licenses are for your personal use only. Do not share loader files, portal logins, or license keys. A hardware-ID problem is a separate HWID Spoofer purchase."
+          ]
+        },
+        {
+          "heading": "Refunds and purchases",
+          "paragraphs": [
+            "All sales are final once checkout completes. We do not refund change-of-mind purchases, account bans, EA Javelin penalties, or issues caused by ignoring the setup notes or launching while the site is not current for that patch.",
+            "If the product does not work as described on a supported setup—Windows 10 or 11 with HVCI, core isolation, TPM, and secure boot on, and the current loader from the portal—contact us through the Support page. Include your order email, Windows version, and the exact loader text.",
+            "We may, at our discretion, offer a fix, replacement access, or partial/full refund when we confirm a fault on our side. We are not obligated to approve every request."
+          ]
+        },
+        {
+          "heading": "Availability and risk",
+          "paragraphs": [
+            "Third-party tools for FC 27 can conflict with game updates and EA Javelin. You use this software at your own risk, including possible account action.",
+            "Check the homepage status banner before every session. Do not join your main server while modules are offline or misaligned after a patch."
+          ]
+        },
+        {
+          "heading": "Changes",
+          "paragraphs": [
+            "We may update these terms. The “Last updated” date at the top will change when we do. Continued use of the site after changes means you accept the revised terms."
+          ]
+        },
+        {
+          "heading": "Support",
+          "paragraphs": [
+            "For terms, billing, or loader questions, use the buttons on the Support page. See also our Privacy Policy for how we handle site data."
+          ]
+        }
+      ]
+    },
+    "support": {
+      "title": "FC 27 support",
+      "description": "Loader, HWID spoofer, UGC, and checkout help for cheatsfc27.com."
+    }
+  },
+  "productCatalog": {
+    "searchHeading": "Browse products and plans",
+    "utilityCategory": "Utility",
+    "buyLoader": "Buy the loader",
+    "buyHwidSpoofer": "Buy the HWID spoofer",
+    "buyUgcRecovery": "Buy UGC recovery"
+  },
+  "utilitiesPage": {
+    "title": "Compare utilities",
+    "subtitle": "HWID Spoofer and UGC Account recovery solve different problems. Match the tool to the PC or the account before checkout.",
+    "breadcrumb": "Compare utilities",
+    "tableAria": "Utility comparison",
+    "columnUtility": "Utility",
+    "columnBestFor": "Best for",
+    "columnProductPage": "Product page",
+    "includesLabel": "Includes:",
+    "backToProducts": "Back to products",
+    "viewCategory": "View {category}",
+    "viewDetailsFallback": "details",
+    "schemaName": "Compare FC 27 utilities",
+    "useCases": {
+      "hwid-spoofer": "New PC or hardware flag after a ban—reset how your machine appears before a new account.",
+      "ugc": "Structured appeal and account recovery workflows when access is restricted."
+    }
+  },
+  "sectionSearch": {
+    "blogHeading": "Filter guides by topic",
+    "supportHeading": "Browse help topics"
+  },
+  "ui": {
+    "skipLink": "Skip to main content",
+    "browseCheats": "Try Now",
+    "browseCheatsMobile": "Start checkout",
+    "homeAria": "FC27 Cheats home",
+    "checkoutAria": "Start checkout",
+    "discordAria": "Buy FC27 Cheats",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "themeLight": "Switch to light mode",
+    "themeDark": "Switch to dark mode",
+    "searchPlaceholder": "Search products, guides, FAQ…",
+    "searchEmpty": "Type to search the site.",
+    "searchNoResults": "No results. Try another term.",
+    "searchCloseAria": "Close search",
+    "searchTitle": "Search",
+    "searchOpenAria": "Search site",
+    "contactSupport": "Contact support",
+    "searchResultsAria": "Search results",
+    "searchHintNavigate": "navigate",
+    "searchHintOpen": "open",
+    "searchHintClose": "close",
+    "searchKeyboardEnter": "Enter",
+    "searchKeyboardEsc": "Esc",
+    "primaryNavAria": "Primary",
+    "mobileNavAria": "Mobile",
+    "shareNavAria": "Share this page",
+    "shareOnX": "Share on X",
+    "shareOnFacebook": "Share on Facebook",
+    "shareOnReddit": "Share on Reddit",
+    "prevImage": "Previous image",
+    "nextImage": "Next image",
+    "heroSlidesAria": "Hero slides",
+    "slideLabel": "Slide {n}",
+    "prevScreenshot": "Previous screenshot",
+    "nextScreenshot": "Next screenshot",
+    "loading": "Loading"
+  },
+  "language": {
+    "label": "Language",
+    "selectAria": "Select site language"
+  },
+  "exploreSection": {
+    "eyebrow": "Explore",
+    "title": "Everything on the site, one click",
+    "titleAccent": "away",
+    "subtitle": "Jump to products, patch notes, guides, and help without hunting the menu.",
+    "badgeProduct": "PRODUCT",
+    "badgeActive": "Active",
+    "cards": {
+      "cheats": {
+        "title": "FC27 Cheats",
+        "desc": "Match, Career, and Ultimate Team assists, colors, key binds, and config."
+      },
+      "spoofer": {
+        "title": "HWID Spoofer",
+        "desc": "Hardware profile rotation after a machine flag."
+      },
+      "ugc": {
+        "title": "UGC Account Recovery",
+        "desc": "Appeal workspace for locked gaming accounts."
+      },
+      "plans": {
+        "title": "Plans",
+        "desc": "Compare monthly and lifetime on each product card."
+      },
+      "features": {
+        "title": "Features",
+        "desc": "The loader menu on the FC27 Cheats page."
+      },
+      "status": {
+        "title": "Status",
+        "desc": "Patch notes and EA Javelin update reminders."
+      },
+      "faq": {
+        "title": "FAQ",
+        "desc": "Plans, setup, EA Javelin risk, and products."
+      },
+      "support": {
+        "title": "Support",
+        "desc": "Loader, checkout, and portal help."
+      },
+      "blog": {
+        "title": "Blog",
+        "desc": "Mod menu, safety, and patch-day guides."
+      },
+      "forum": {
+        "title": "Forum",
+        "desc": "Threads with marked developer replies."
+      }
+    }
+  },
+  "pricing": {
+    "checkout": "Checkout",
+    "purchaseOption": "Purchase option",
+    "selectSubscription": "Select subscription",
+    "bestValue": "Best value",
+    "savePrefix": "Save",
+    "total": "Total",
+    "buyNow": "Buy now",
+    "oneMonth": "1 Month",
+    "lifetime": "Lifetime",
+    "mostPopular": "Most Popular",
+    "plusMore": "+N more",
+    "monthlySuffix": " monthly",
+    "lifetimeSuffix": " lifetime",
+    "monthlyPlanNote": "31 days of access · renew at checkout",
+    "lifetimePlanNote": "Pay once · no renewal",
+    "plansSameFeaturesNote": "Same features on both plans—only the access period changes.",
+    "selectPlanAria": "Select plan length"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Page not found",
+    "description": "That URL does not exist or may have moved. Head back to the homepage or browse the products.",
+    "metaDescription": "The page you requested could not be found on cheatsfc27.com.",
+    "metaTitleSuffix": "Page not found",
+    "backHome": "Back to home",
+    "viewProducts": "View products",
+    "openForum": "Open the forum"
+  },
+  "status": {
+    "eyebrow": "Patch notes",
+    "title": "FC 27 module status",
+    "subtitle": "Title Update v1.1.0 (October 27, 2026): Ultimate Team, Career, Clubs, and EA Javelin notes. Check after every client update before you launch.",
+    "pageDesc": "Title Update v1.1.0 shipped October 27, 2026. Read this page and the portal after an FC 27 or EA Javelin update before you launch. Updated means the note matches that build. It is not an undetected claim.",
+    "breadcrumb": "Status",
+    "aceReminderLabel": "EA Javelin reminder",
+    "aceReminder": "Check this page after each EA Javelin or client update before launching.",
+    "recentTitle": "Recent updates",
+    "activeLinePrefix": "Last checked",
+    "activeLineActive": "Active",
+    "activeLineUpdated": "Updated {date}",
+    "storeLineup": "Store lineup",
+    "latestLabel": "Latest",
+    "updates": [
+      {
+        "title": "Title Update v1.1.0",
+        "icon": "tag",
+        "when": "Oct 27, 2026",
+        "summary": "Title Update v1.1.0 is quality-of-life, small mode fixes, and tighter competitive security. It does not retune gameplay balance or physics. PC builds push stricter platform checks so online matches stay on an even field. Read this note before you launch. It is not an undetected claim."
+      },
+      {
+        "title": "Ultimate Team",
+        "icon": "zap",
+        "when": "Oct 27, 2026",
+        "summary": "High-OVR pack opening reveals are shorter. Squad Building Challenge filter choices now stay saved across sessions."
+      },
+      {
+        "title": "Career Mode",
+        "icon": "settings",
+        "when": "Oct 27, 2026",
+        "summary": "Team Management UI is rebuilt. New toggles cover press conferences and unexpected events. Transfer and contract rejections show clearer feedback."
+      },
+      {
+        "title": "The Grounds / Clubs",
+        "icon": "mapHack",
+        "when": "Oct 27, 2026",
+        "summary": "Fixes overlapping UI at full time. Fixes a bug that let a side field two active goalkeepers at once."
+      },
+      {
+        "title": "EA Javelin and third-party tools",
+        "icon": "shield",
+        "when": "Oct 27, 2026",
+        "summary": "PC builds keep kernel-level EA Javelin on and scan for unauthorized background apps. The patch targets forbidden external tools: auto-SBC clients, Ped modding frameworks, match-manipulation injectors, and win-sharing clients. Blacklisted software at launch can force a security-violation kick or a crash to desktop. Confirm this page still matches your installed build before you open the loader."
+      },
+      {
+        "title": "“Updated” is not an undetected claim",
+        "icon": "alert",
+        "when": "Oct 27, 2026",
+        "summary": "The Updated label means this note matches Title Update v1.1.0 (October 27, 2026). It does not mean the loader is undetected, and it does not cover the next EA Javelin or client build."
+      }
+    ]
+  },
+  "forum": {
+    "eyebrow": "Community",
+    "title": "Forum: FC 27 community setup and plans",
+    "subtitle": "This forum covers setup, the mod menu, and plan questions. Developer replies are marked on each thread.",
+    "breadcrumb": "Forum",
+    "postsAria": "Community posts",
+    "sortAria": "Post sorting",
+    "searchPlaceholder": "Search discussions",
+    "searchAria": "Search discussions",
+    "voteAria": "Discussion voting",
+    "fromGuide": "From the guide:",
+    "comments": "comments",
+    "readDiscussion": "Read discussion",
+    "readGuide": "Read the guide",
+    "basedOn": "Based on:",
+    "paginationAria": "Discussion pages",
+    "previousPage": "Previous",
+    "nextPage": "Next",
+    "exploreGuides": "Explore the guides",
+    "sortPopular": "Popular",
+    "sortLatest": "Latest",
+    "sortTop": "Most discussed",
+    "filterAria": "Filter discussions by topic",
+    "allTopics": "All topics",
+    "discussionOne": "discussion",
+    "discussionMany": "discussions",
+    "emptyFilter": "No discussions match. Try another search or topic.",
+    "previous": "Previous",
+    "next": "Next",
+    "sidebarAboutTitle": "Forum: FC 27 community",
+    "sidebarAboutCopy": "Questions about the cheat, the HWID spoofer, and UGC recovery. Developer replies stay on the thread.",
+    "sidebarTopics": "topics",
+    "sidebarExploreGuides": "Explore all guides",
+    "sidebarCommunities": "Communities",
+    "sidebarBrowseQa": "Browse related threads",
+    "sidebarBrowseAll": "Browse all communities",
+    "sidebarGuidelines": "Community guidelines",
+    "guideline1": "Keep it friendly and constructive",
+    "guideline2": "Stay on topic and add context",
+    "guideline3": "Mark spoilers and sensitive content",
+    "sidebarReadGuidelines": "Read the full guidelines",
+    "sidebarFootAbout": "About · Guidelines · Privacy · Terms",
+    "upvoteAria": "Upvote this discussion",
+    "downvoteUnavailable": "Downvoting is unavailable",
+    "showingRange": "Showing {from}–{to} of {total}",
+    "zeroDiscussions": "0 discussions",
+    "developerFlair": "Developer",
+    "points": "points",
+    "previewDiscussion": "Preview discussion",
+    "postingUnavailable": "Posting and voting are unavailable here",
+    "commentsTitle": "Comments",
+    "commentsSubtitle": "Developer replies are marked",
+    "detailInTopic": "in this topic",
+    "detailBrowse": "Browse discussions",
+    "detailMoreTitle": "More discussions",
+    "detailViewAll": "View all discussions"
+  },
+  "readingTools": {
+    "copyLink": "Copy link",
+    "backToTop": "Back to top",
+    "copied": "Copied"
+  },
+  "blogArticle": {
+    "viewProducts": "View products",
+    "moreArticles": "More articles",
+    "imagePlaceholder": "Image placeholder",
+    "breadcrumbBlog": "Blog"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "products": "Products",
+    "blog": "Blog",
+    "forum": "Forum",
+    "faq": "FAQ",
+    "status": "Status"
+  },
+  "faqPage": {
+    "eyebrow": "Help center",
+    "title": "FAQ: plans, setup, EA Javelin risk before checkout — cheats & guides",
+    "subtitle": "Plans, gameplay assist options, the HWID spoofer, UGC recovery, and what to check after an EA Javelin update.",
+    "schemaName": "FAQ — FC27 Cheats & Products",
+    "schemaDescription": "Answers about FC27 Cheats, the HWID spoofer, UGC recovery, EA Javelin risk, and checkout on cheatsfc27.com."
+  },
+  "siteFaqSection": {
+    "allTopicsEyebrow": "All topics",
+    "allTopicsTitle": "Browse by category",
+    "allTopicsSubtitle": "Plans, visuals, the loader, the spoofer, UGC, and setup.",
+    "contextualEyebrow": "FAQ",
+    "contextualTitle": "Questions about this page",
+    "contextualSubtitle": "Answers tied to what you are reading—visit the FAQ page for every topic."
+  },
+  "catalog": {
+    "viewDetails": "View details",
+    "buyNow": "Buy now",
+    "mostPopular": "Most Popular",
+    "popular": "Popular",
+    "plusMore": "+{count} more",
+    "monthlySuffix": " monthly",
+    "lifetimeSuffix": " lifetime",
+    "monthlyPlanNote": "31 days of access · renew at checkout",
+    "lifetimePlanNote": "Pay once · no renewal",
+    "plansSameFeaturesNote": "Same features on both plans—only the access period changes.",
+    "selectPlanAria": "Select plan length",
+    "utilityLabel": "Utility",
+    "experienceEyebrow": "Experience",
+    "inTheClient": "In the client · After you buy",
+    "experienceSubtitle": "Use the screenshots above for {name}—below is what each layer means and how access works after checkout.",
+    "utilityExperienceSubtitle": "Use the screenshots above for {name}—each preview explains part of the hardware workflow and how access works after checkout.",
+    "inGameLayers": "In-game layers",
+    "utilityPreviewLayers": "Product previews",
+    "layerLabel": "Layer {label}",
+    "previewLabel": "Preview",
+    "accessLabel": "Access"
+  },
+  "productUi": {
+    "detailsAria": "Product details",
+    "overview": "Overview",
+    "systemRequirements": "System requirements",
+    "goodToKnow": "Good to know",
+    "limitations": "Important limitations",
+    "completeFeatureList": "Complete feature list",
+    "includedCapabilities": "Included capabilities",
+    "totalFeatures": "{count} total",
+    "popularBadge": "Popular",
+    "limitedBadge": "Limited",
+    "gameBadge": "FC 27",
+    "platformBadge": "Windows PC",
+    "systemReqPanel": {
+      "title": "System Requirements",
+      "security": [
+        "HVCI ON",
+        "CORE ISOLATION ON",
+        "TPM ON",
+        "SECURE BOOT ON"
+      ],
+      "operatingSystemLabel": "Operating System",
+      "operatingSystemValue": "WINDOWS 10 and 11 both supported",
+      "specs": [],
+      "cloudDmaTitle": "Cloud DMA",
+      "cloudDmaDesc": "Required for full functionality. All features on supported builds run through Cloud DMA.",
+      "cloudDmaNote": "",
+      "shopInstantDelivery": "Instant delivery",
+      "shopPortalDelivery": "Portal delivery",
+      "shopInStock": "In stock",
+      "shopSelectPlan": "Select a plan",
+      "shopFeaturedRibbon": "Featured build",
+      "shopSupportedClients": "Supported clients",
+      "shopSupportedClientLines": [
+        "EA app",
+        "Steam",
+        "Epic Games Store"
+      ],
+      "shopViewAllFeatures": "See all features",
+      "shopDeckEyebrow": "On the product card",
+      "shopDeckTitle": "Requirements and menu preview",
+      "shopDeckDesc": "Requirements and a preview of the menu. Open the feature list for every toggle and slider."
+    }
+  },
+  "comparePlans": {
+    "eyebrow": "Compare",
+    "title": "Compare all plans",
+    "subtitle": "Side-by-side look at what each tier includes.",
+    "tableAria": "Compare all plans",
+    "featureColumn": "Feature",
+    "included": "Included",
+    "notIncluded": "Not included"
+  },
+  "whyCompare": {
+    "tableAria": "FC27 Cheats compared with a typical provider",
+    "featureColumn": "Feature",
+    "metricsAria": "Platform metrics",
+    "statusDeliveryAria": "Live status and delivery"
+  },
+  "searchResultTypes": {
+    "product": "Product",
+    "blog": "Blog",
+    "forum": "Forum",
+    "faq": "FAQ",
+    "status": "Status",
+    "support": "Support",
+    "page": "Page"
+  },
+  "blogSidebar": {
+    "ariaLabel": "Article sidebar",
+    "inThisArticle": "In this article",
+    "relatedGuides": "Related guides",
+    "ourProducts": "Our products",
+    "productCheats": "FC27 Cheats",
+    "allProducts": "All products",
+    "hwidSpoofer": "HWID Spoofer",
+    "ugcRecovery": "UGC Account recovery",
+    "tocAria": "Table of contents",
+    "tocFallbackLabel": "Start of article",
+    "quickFactsTitle": "Quick facts",
+    "quickFactsAntiCheat": "EA Javelin anti-cheat",
+    "quickFactsPlatform": "Windows PC",
+    "quickFactsPlans": "Plans $35 / $150",
+    "quickFactsSupport": "24/7 Discord support",
+    "quickFactsCheckStatus": "Check status",
+    "quickFactsViewProduct": "View FC27 Cheats",
+    "priceEstimatorTitle": "Price estimate",
+    "priceEstimatorHint": "Tap a term. Totals add up.",
+    "priceEstimator30d": "31d",
+    "priceEstimatorLifetime": "Life",
+    "priceEstimatorOff": "Off",
+    "priceEstimatorTotal": "Est. total",
+    "priceEstimatorProducts": "Products",
+    "priceEstimatorNote": "Estimate only. Buy each product on its own card.",
+    "utilityGuides": "Spoofer and UGC",
+    "moreGuides": "More guides"
+  }
+}

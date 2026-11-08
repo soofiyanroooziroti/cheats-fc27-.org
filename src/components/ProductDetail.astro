@@ -1,0 +1,148 @@
+---
+import '../styles/product-cheat-page.css';
+import type { ProductPage } from '../data/products';
+import type { BreadcrumbItem } from '../utils/schema';
+import { getRelatedBlogPostsForProduct } from '../data/blog';
+import ProductScreenshotGallery from './ProductScreenshotGallery.astro';
+import { getLocaleFromAstro } from '../i18n';
+import Breadcrumbs from './Breadcrumbs.astro';
+import ProductDetailHeader from './product/ProductDetailHeader.astro';
+import ProductCheckoutPanel from './product/ProductCheckoutPanel.astro';
+import ProductHighlightsSection from './product/ProductHighlightsSection.astro';
+import ProductFeaturesSection from './product/ProductFeaturesSection.astro';
+import ProductSystemRequirementsPanel from './product/ProductSystemRequirementsPanel.astro';
+import ProductDescriptionSection from './product/ProductDescriptionSection.astro';
+import ProductExperienceSection from './product/ProductExperienceSection.astro';
+import ProductRelatedGuidesSection from './product/ProductRelatedGuidesSection.astro';
+import ProductShopSpecDeck from './product/ProductShopSpecDeck.astro';
+import ProductShopHeroFaq from './product/ProductShopHeroFaq.astro';
+import ProductShopHeroInfo from './product/ProductShopHeroInfo.astro';
+import { getTranslations } from '../i18n';
+
+interface Props {
+  product: ProductPage;
+  breadcrumbs?: BreadcrumbItem[];
+  pageH1?: string;
+}
+
+const locale = getLocaleFromAstro(Astro);
+const t = getTranslations(locale);
+const { product, breadcrumbs, pageH1 } = Astro.props;
+
+const SHOP_LAYOUT_SLUGS = new Set(['loader', 'hwid-spoofer', 'ugc']);
+const isShopLayout = SHOP_LAYOUT_SLUGS.has(product.slug);
+const showHeroFaq = product.slug === 'loader' || product.slug === 'hwid-spoofer';
+const showHeroInfo = product.slug === 'ugc';
+
+const productUi = (t as { productUi?: Record<string, string> }).productUi ?? {};
+const relatedPosts = getRelatedBlogPostsForProduct(product.relatedBlogSlugs, 6, locale);
+
+const descriptionBlocks = [
+  ...product.overview.paragraphs.map((text) => ({ type: 'p' as const, text })),
+  ...(product.about ?? []),
+  ...product.body,
+];
+
+const showDescToggle = false;
+---
+
+<div class:list={['product-detail', isShopLayout && 'product-detail--shop']}>
+<section
+  class="product-detail-hero py-8 md:py-12"
+  id={product.slug === 'loader' ? 'products' : undefined}
+>
+  <div class="mx-auto max-w-6xl px-5">
+    {breadcrumbs && <Breadcrumbs items={breadcrumbs} class="product-detail__breadcrumbs" />}
+
+    {
+      isShopLayout ? (
+        <>
+          <div class="product-shop-hero__grid mt-6 grid items-start gap-6 lg:grid-cols-2 lg:items-start lg:gap-8">
+            <div class="product-shop-hero__gallery-col flex min-w-0 flex-col">
+              <ProductScreenshotGallery
+                images={product.images}
+                id={`gallery-${product.slug}`}
+                variant="shop"
+                imageFill={product.kind === 'utility' ? 'cover' : undefined}
+                ribbonLabel={productUi.shopFeaturedRibbon ?? productUi.popularBadge ?? 'Featured build'}
+              />
+            </div>
+            <div class="product-shop-hero__buy flex min-w-0 flex-col gap-6">
+              <ProductDetailHeader product={product} pageH1={pageH1} variant="shop" />
+              <ProductCheckoutPanel product={product} layout="shop" />
+              {showHeroFaq && <ProductShopHeroFaq productSlug={product.slug} placement="checkout" />}
+              {showHeroInfo && <ProductShopHeroInfo placement="checkout" />}
+            </div>
+          </div>
+          {(showHeroFaq || showHeroInfo) && (
+            <div class="product-shop-hero__faq-section hidden lg:block">
+              {showHeroFaq && <ProductShopHeroFaq productSlug={product.slug} placement="section" />}
+              {showHeroInfo && <ProductShopHeroInfo placement="section" />}
+            </div>
+          )}
+        </>
+      ) : (
+        <>
+          <div class="mt-6">
+            <ProductDetailHeader product={product} pageH1={pageH1} />
+          </div>
+          <div class="product-detail-hero__grid mt-10 grid items-stretch gap-8">
+            <ProductScreenshotGallery
+              images={product.images}
+              id={`gallery-${product.slug}`}
+              imageFill={product.kind === 'utility' ? 'cover' : undefined}
+            />
+            <ProductCheckoutPanel product={product} />
+          </div>
+        </>
+      )
+    }
+  </div>
+</section>
+
+{product.slug === 'loader' && <ProductShopSpecDeck featureGroups={product.featureGroups} />}
+{isShopLayout && product.slug !== 'loader' && <ProductHighlightsSection product={product} />}
+{!isShopLayout && <ProductHighlightsSection product={product} />}
+
+<ProductDescriptionSection
+  overviewTitle={product.overview.title}
+  blocks={descriptionBlocks}
+  showToggle={showDescToggle}
+/>
+
+{product.slug === 'loader' && <ProductSystemRequirementsPanel />}
+
+<ProductFeaturesSection
+  features={product.fullFeatures}
+  productName={product.name}
+  featureGroups={product.featureGroups}
+  variant={isShopLayout ? 'catalog' : 'default'}
+/>
+
+<ProductExperienceSection
+  images={product.images}
+  acquisition={product.acquisition}
+  productName={product.name}
+  variant={product.kind === 'utility' ? 'utility' : 'tier'}
+/>
+
+<ProductRelatedGuidesSection posts={relatedPosts} productName={product.name} />
+</div>
+
+<script>
+  const initProductDetailUi = () => {
+    document.querySelectorAll('[data-desc-toggle]').forEach((btn) => {
+      if (btn.hasAttribute('data-desc-bound')) return;
+      btn.setAttribute('data-desc-bound', '');
+      btn.addEventListener('click', () => {
+        const wrap = btn.closest('[data-desc-wrap]');
+        if (!wrap) return;
+        const open = wrap.classList.toggle('open');
+        btn.textContent = open ? btn.getAttribute('data-less') ?? 'Show less' : btn.getAttribute('data-more') ?? 'Show more';
+      });
+    });
+  };
+
+  initProductDetailUi();
+  document.addEventListener('astro:after-swap', initProductDetailUi);
+</script>

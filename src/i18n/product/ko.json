@@ -1,0 +1,225 @@
+{
+  "steps": [
+    {
+      "title": "상태 확인",
+      "desc": "구매하기 전에 cheatsfc27.com에서 모듈이 온라인 상태인지 확인하세요. 특히 EA Javelin 또는 FC 27 클라이언트 업데이트 이후에는 더욱 그렇습니다."
+    },
+    {
+      "title": "요금제 선택",
+      "desc": "monthly (P31D) 또는 lifetime (P99Y) 중 선택하세요. 라인업의 모든 제품에 동일한 USD 가격이 적용됩니다."
+    },
+    {
+      "title": "안전한 결제",
+      "desc": "제품 카드에서 결제를 완료하세요. 포털에서 라이선스가 즉시 발급됩니다."
+    },
+    {
+      "title": "설치 및 확인",
+      "desc": "설정 가이드를 따르고, 보수적인 프리셋을 로드한 뒤, 본 계정을 사용하기 전에 친선 경기에서 테스트해 보세요."
+    }
+  ],
+  "howToGet": "{name} 얻는 방법",
+  "cheats": {
+    "groupNames": [
+      "얼티밋 팀 옵션",
+      "유틸리티",
+      "게임플레이 옵션",
+      "프로 클럽 옵션",
+      "보안"
+    ],
+    "descs": [
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다.",
+      "이 메뉴 그룹의 토글 또는 슬라이더입니다."
+    ],
+    "slides": [
+      {
+        "alt": "EA SPORTS FC 27 Ultimate Team loader menu screenshot",
+        "caption": "얼티밋 팀 (FUT)",
+        "captionDesc": "NoLoss, 디비전 및 챔피언스 스푸퍼, 드래프트 라운드 컨트롤, 팩 스킵, 인스턴트 모먼츠."
+      },
+      {
+        "alt": "EA SPORTS FC 27 gameplay assists loader menu screenshot",
+        "caption": "게임플레이",
+        "captionDesc": "AI 자동 플레이, 플레이어 및 상대 슬라이더, 스킬 무브, 약발, 체력 제어, 커스텀 전술."
+      },
+      {
+        "alt": "EA SPORTS FC 27 Pro Clubs loader menu screenshot",
+        "caption": "프로 클럽",
+        "captionDesc": "가상 프로 에디터, VPRO 슬라이더, PlayStyles, 숨겨진 능력치, 클럽 매치 XP 부스트."
+      },
+      {
+        "alt": "EA SPORTS FC 27 utilities loader menu screenshot",
+        "caption": "유틸리티",
+        "captionDesc": "Windows PC 환경에서 더욱 원활한 세션을 위한 동기화 지연 우회 및 ALT-TAB 우회 토글."
+      },
+      {
+        "alt": "EA SPORTS FC 27 misc and safety loader menu screenshot",
+        "caption": "기타 및 보안",
+        "captionDesc": "안티밴, 메뉴 및 패닉 키, 스트림 방지 모드, 단축키, 설정 저장 및 불러오기, 클라우드 상태."
+      }
+    ],
+    "overview": {
+      "title": "Windows PC의 EA SPORTS FC 27용으로 제작됨",
+      "paragraphs": [
+        "결제를 완료하면 지원되는 FC 27 빌드용 Windows loader 잠금이 해제됩니다. 미리보기 열에서 그룹 이름을 확인한 다음, 기능 카탈로그를 열어 모든 토글과 슬라이더를 확인하세요.",
+        "게임을 실행하기 전에 EA Javelin 또는 클라이언트 패치 후 cheatsfc27.com을 확인하세요."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "포함된 모듈"
+      },
+      {
+        "type": "p",
+        "text": "이 페이지의 다섯 가지 메뉴 그룹(Windows PC loader): 얼티밋 팀 옵션, 유틸리티, 게임플레이 옵션, 프로 클럽 옵션, 보안."
+      },
+      {
+        "type": "h2",
+        "text": "요금제"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $35 USD (P31D) 또는 lifetime $150 USD (P99Y). 결제 완료 후 전 세계 즉시 디지털 배송."
+      }
+    ],
+    "goodToKnow": "EA SPORTS FC 27 및 EA Javelin은 자주 업데이트됩니다. 게임을 실행하기 전에 cheatsfc27.com에서 가용성을 확인하세요. 패치 후 메뉴나 관전 모드에서 오버레이 동작이 달라질 수 있습니다.",
+    "limitations": "타사 소프트웨어는 게임 약관을 위반하여 제재로 이어질 수 있습니다. 이 소프트웨어의 사용에 따른 책임은 전적으로 사용자 본인에게 있습니다. 게임, EA Javelin 또는 Windows 업데이트 후 사전 공지 없이 호환성이 변경될 수 있습니다.",
+    "requirements": [
+      "HVCI 켜기 · 코어 격리 켜기 · TPM 켜기 · SECURE BOOT 켜기",
+      "WINDOWS 10 및 11 모두 지원",
+      "클라우드 DMA — 모든 기능을 사용하려면 필수입니다. 지원되는 빌드의 모든 기능은 클라우드 DMA를 통해 실행됩니다."
+    ]
+  },
+  "spoofer": {
+    "slides": [
+      {
+        "alt": "EA SPORTS FC 27 기타 및 안전 loader 메뉴 (Windows PC 상)",
+        "caption": "HWID spoofer",
+        "captionDesc": "재시작 전 하드웨어 지문 도구."
+      },
+      {
+        "alt": "EA SPORTS FC 27 유틸리티 loader 메뉴 (Windows PC 상)",
+        "caption": "Phoenix 보드",
+        "captionDesc": "디스크, MAC 및 GPU ID 로테이션."
+      },
+      {
+        "alt": "EA SPORTS FC 27 게임플레이 loader 메뉴 (Windows PC 상)",
+        "caption": "Phoenix WH",
+        "captionDesc": "모든 스토어에서 사용되는 스푸퍼 작업ace."
+      }
+    ],
+    "overview": {
+      "title": "HWID 복구 워크플로",
+      "paragraphs": [
+        "HWID Spoofer은(는) 하드웨어 플래그 발생 후 FC 27을 다시 시작하기 전에 깨끗한 머신 컨텍스트가 필요할 때 하드웨어 프로필 로테이션에 중점을 둡니다.",
+        "Monthly 및 lifetime USD 요금제는 다른 라인업과 동일한 체크아웃 플로를 사용합니다."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "사용 시기"
+      },
+      {
+        "type": "p",
+        "text": "계정 전용 제재가 아닌, 새 계정이 특정 PC에서는 실패하고 다른 곳에서는 작동할 때 사용하세요. 확인 후 보수적인 프리셋과 함께 사용하세요."
+      },
+      {
+        "type": "h2",
+        "text": "요금제"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $50 USD (P31D) 또는 lifetime $150 USD (P99Y)."
+      }
+    ],
+    "goodToKnow": "HWID 도구는 PC 지문이 표시되는 방식을 변경하며, 그 자체로 계정 제재를 해제하지는 않습니다. FC 27을 다시 실행하기 전에 포털 가이드를 따르세요.",
+    "limitations": "스푸핑은 기술적 위험을 수반하며 게임 약관을 위반할 수 있습니다. 결과는 제재 유형 및 드라이버 설정에 따라 다릅니다. 소유한 시스템에서만 사용하세요.",
+    "requirements": [
+      "관리자 권한이 있는 Windows 10 또는 11 64비트.",
+      "하드웨어 도구를 실행하기 전에 복원 지점을 만드세요.",
+      "활성화 및 확인 단계를 위한 안정적인 인터넷 연결."
+    ],
+    "features": [
+      "클리너가 포함된 하드웨어 스푸퍼",
+      "디스크 시리얼 및 MAC 로테이션",
+      "GPU ID 프로필 도구",
+      "호환성 검사",
+      "확인 체크리스트",
+      "포털 단계별 워크플로",
+      "Discord 설정 지원"
+    ]
+  },
+  "ugc": {
+    "slides": [
+      {
+        "alt": "Windows PC의 EA SPORTS FC 27 loader 보호 메뉴",
+        "caption": "계정 복구",
+        "captionDesc": "스토어 간에 공유되는 어필 워크스페이스ace."
+      }
+    ],
+    "overview": {
+      "title": "UGC Account recovery 워크스페이스ace",
+      "paragraphs": [
+        "UGC Account recovery은(는) 템플릿, 증거 목록, 후속 조치 알림을 통해 이용 제한 이의 제기 및 복구 사례를 체계적으로 관리할 수 있도록 돕습니다.",
+        "안전한 결제 후 즉시 디지털로 전달되며, 설정 관련 문의는 Discord 지원을 받으실 수 있습니다."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "이의 제기 워크플로"
+      },
+      {
+        "type": "p",
+        "text": "게임 계정이 잠기거나 제한되었을 때 맞춤형 이의 제기 경로를 구축하고, 분쟁 단계를 자동화하며, 사례 상태를 추적하세요."
+      },
+      {
+        "type": "h2",
+        "text": "플랜"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $35 USD (P31D) 또는 lifetime $150 USD (P99Y)."
+      }
+    ],
+    "goodToKnow": "티켓을 열기 전에 주문 이메일, 계정 세부 정보, 제한 조치 스크린샷을 준비하세요. UGC은(는) 이의 제기 과정을 체계화할 뿐, 플랫폼 검토를 우회하지는 않습니다.",
+    "limitations": "UGC은(는) 계정 복구를 보장하지 않습니다. 결과는 사례 유형 및 플랫폼 정책에 따라 다를 수 있습니다.",
+    "requirements": [
+      "Windows 10 또는 11 (64비트).",
+      "워크플로 동기화 및 업데이트를 위한 인터넷 연결.",
+      "설치를 위한 관리자 권한."
+    ],
+    "features": [
+      "맞춤형 이의 제기 워크플로",
+      "멀티 플랫폼 복구 워크스페이스ace",
+      "템플릿 라이브러리",
+      "반복 작업 자동화",
+      "이용 제한 추적 대시보드",
+      "포털 단계별 워크플로",
+      "Discord 설정 지원"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+---
+import FaqAccordionList from '../FaqAccordionList.astro';
+import { getLocaleFromAstro } from '../../i18n';
+import { getShopHeroFaqCopy } from '../../utils/product-shop-copy';
+
+interface Props {
+  productSlug: string;
+  /** Desktop: full-width band below hero. Mobile: after checkout. */
+  placement?: 'section' | 'checkout';
+}
+
+const { productSlug, placement = 'section' } = Astro.props;
+const isSection = placement === 'section';
+const locale = getLocaleFromAstro(Astro);
+const slugId = productSlug.replace(/[^a-z0-9-]/gi, '');
+const titleId = isSection ? `product-shop-hero-faq-section-${slugId}` : `product-shop-hero-faq-checkout-${slugId}`;
+const faqId = isSection ? `product-shop-hero-faq-section-root-${slugId}` : `product-shop-hero-faq-checkout-root-${slugId}`;
+
+const faqCopy = getShopHeroFaqCopy(locale, productSlug);
+const entries = faqCopy?.items ?? [];
+const eyebrow = faqCopy?.eyebrow ?? 'FAQ';
+const sectionTitle = faqCopy?.title ?? eyebrow;
+---
+
+{
+  entries.length > 0 && (
+    <aside
+      id={faqId}
+      class:list={[
+        'product-shop-hero__faq',
+        isSection ? 'product-shop-hero__faq--section' : 'product-shop-hero__faq--checkout lg:hidden',
+      ]}
+      aria-labelledby={titleId}
+    >
+      {
+        isSection ? (
+          <h2 id={titleId} class="product-shop-hero__faq-heading">
+            {sectionTitle}
+          </h2>
+        ) : (
+          <p id={titleId} class="text-xs font-semibold uppercase tracking-wider text-muted-foreground">
+            {eyebrow}
+          </p>
+        )
+      }
+      <FaqAccordionList
+        items={entries}
+        idPrefix={faqId}
+        class:list={[isSection ? 'mt-4' : 'mt-2.5']}
+      />
+    </aside>
+  )
+}

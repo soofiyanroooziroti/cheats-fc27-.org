@@ -1,0 +1,225 @@
+{
+  "steps": [
+    {
+      "title": "Verificar estado",
+      "desc": "Confirma que los módulos estén en línea en cheatsfc27.com antes de comprar, especialmente después de una actualización de EA Javelin o del cliente de FC 27."
+    },
+    {
+      "title": "Elegir un plan",
+      "desc": "Elige monthly (P31D) o lifetime (P99Y); mismo precio USD en cada producto de la gama."
+    },
+    {
+      "title": "Pago seguro",
+      "desc": "Completa el pago desde la tarjeta del producto. Tu licencia se desbloquea en el portal con entrega instantánea."
+    },
+    {
+      "title": "Instalar y verificar",
+      "desc": "Sigue la guía de configuración, carga un ajuste preestablecido conservador y prueba en un partido amistoso antes de usar tu perfil principal."
+    }
+  ],
+  "howToGet": "Cómo obtener {name}",
+  "cheats": {
+    "groupNames": [
+      "Opciones de Ultimate Team",
+      "Utilidades",
+      "Opciones de jugabilidad",
+      "Opciones de Pro Clubs",
+      "Seguridad"
+    ],
+    "descs": [
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús.",
+      "Interruptor o control deslizante en este grupo de menús."
+    ],
+    "slides": [
+      {
+        "alt": "Captura de pantalla del menú Ultimate Team loader de EA SPORTS FC 27",
+        "caption": "Ultimate Team (FUT)",
+        "captionDesc": "NoLoss, spoofers de división y Champions, controles de ronda de draft, salto de sobres y momentos instantáneos."
+      },
+      {
+        "alt": "Captura de pantalla del menú de asistencias de jugabilidad loader de EA SPORTS FC 27",
+        "caption": "Jugabilidad",
+        "captionDesc": "Juego automático de IA, controles deslizantes de jugadores y rivales, filigranas, pie débil, control de resistencia y tácticas personalizadas."
+      },
+      {
+        "alt": "Captura de pantalla del menú Pro Clubs loader de EA SPORTS FC 27",
+        "caption": "Pro Clubs",
+        "captionDesc": "Editor de pro virtual, controles deslizantes VPRO, PlayStyles, estadísticas ocultas y aumento de XP para partidos de clubes."
+      },
+      {
+        "alt": "Captura de pantalla del menú de utilidades loader de EA SPORTS FC 27",
+        "caption": "Utilidades",
+        "captionDesc": "Alternadores para omisión de desincronización y omisión de ALT-TAB para sesiones más fluidas en Windows PC."
+      },
+      {
+        "alt": "Captura de pantalla del menú de varios y seguridad loader de EA SPORTS FC 27",
+        "caption": "Varios y seguridad",
+        "captionDesc": "Anti-ban, teclas de menú y de pánico, modo oculto para streaming, atajos de teclado, guardar y cargar configuración, y estado en la nube."
+      }
+    ],
+    "overview": {
+      "title": "Creado para EA SPORTS FC 27 en Windows PC",
+      "paragraphs": [
+        "La compra desbloquea Windows loader para las versiones compatibles de FC 27. Usa las columnas de vista previa para ver los nombres de los grupos y, a continuación, abre el catálogo de funciones para ver cada interruptor y control deslizante.",
+        "Consulta cheatsfc27.com después de un parche de EA Javelin o del cliente antes de iniciar el juego."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Módulos incluidos"
+      },
+      {
+        "type": "p",
+        "text": "Windows PC loader con cinco grupos de menús en esta página: Opciones de Ultimate Team, Utilidades, Opciones de jugabilidad, Opciones de Pro Clubs y Seguridad."
+      },
+      {
+        "type": "h2",
+        "text": "Planes"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $35 USD (P31D) o lifetime $150 USD (P99Y). Entrega digital instantánea en todo el mundo tras realizar el pago."
+      }
+    ],
+    "goodToKnow": "EA SPORTS FC 27 y EA Javelin se actualizan con frecuencia. Confirma la disponibilidad en cheatsfc27.com antes de iniciar. El comportamiento de la interfaz superpuesta puede variar en los menús o en las vistas de espectador tras las actualizaciones.",
+    "limitations": "El software de terceros puede infringir los términos del juego y dar lugar a suspensiones. Utilizas este software bajo tu propia responsabilidad. La compatibilidad puede cambiar después de las actualizaciones del juego, de EA Javelin o de Windows sin previo aviso.",
+    "requirements": [
+      "HVCI ACTIVADO · AISLAMIENTO DE NÚCLEO ACTIVADO · TPM ACTIVADO · SECURE BOOT ACTIVADO",
+      "WINDOWS 10 y 11 compatibles",
+      "DMA en la nube — Requerido para la funcionalidad completa. Todas las funciones en las versiones compatibles se ejecutan a través de DMA en la nube."
+    ]
+  },
+  "spoofer": {
+    "slides": [
+      {
+        "alt": "Menú de varios y seguridad de EA SPORTS FC 27 loader en Windows PC",
+        "caption": "HWID spoofer",
+        "captionDesc": "Herramientas de huella de hardware antes de reiniciar."
+      },
+      {
+        "alt": "Menú de utilidades loader de EA SPORTS FC 27 en Windows PC",
+        "caption": "Placa Phoenix",
+        "captionDesc": "Rotación de ID de disco, MAC y GPU."
+      },
+      {
+        "alt": "Menú de jugabilidad loader de EA SPORTS FC 27 en Windows PC",
+        "caption": "Phoenix WH",
+        "captionDesc": "Espacio de trabajo del spoofer ace utilizado en cada tienda."
+      }
+    ],
+    "overview": {
+      "title": "Flujo de recuperación HWID",
+      "paragraphs": [
+        "HWID Spoofer se centra en la rotación de perfiles de hardware cuando necesitas un contexto de máquina limpio antes de relanzar FC 27 tras un aviso de hardware.",
+        "Los planes de Monthly y lifetime USD utilizan el mismo flujo de pago que el resto de la gama."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Cuándo usarlo"
+      },
+      {
+        "type": "p",
+        "text": "Úsalo cuando las cuentas nuevas fallen en un PC pero funcionen en otra parte, no sirve para suspensiones exclusivas de cuenta. Combínalo con ajustes conservadores tras la verificación."
+      },
+      {
+        "type": "h2",
+        "text": "Planes"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $50 USD (P31D) o lifetime $150 USD (P99Y)."
+      }
+    ],
+    "goodToKnow": "Las herramientas HWID modifican cómo aparece la huella de tu PC, no eliminan por sí solas las suspensiones de cuenta. Sigue las guías del portal antes de volver a iniciar FC 27.",
+    "limitations": "El cambio de identidad de hardware conlleva riesgo técnico y puede infringir los términos del juego. Los resultados varían según el tipo de suspensión y la configuración de controladores. Utilízalo únicamente en sistemas de tu propiedad.",
+    "requirements": [
+      "Windows 10 u 11 de 64 bits con permisos de administrador.",
+      "Crea un punto de restauración antes de ejecutar herramientas de hardware.",
+      "Conexión a internet estable para los pasos de activación y verificación."
+    ],
+    "features": [
+      "Spoofer de hardware con limpiador",
+      "Rotación de número de serie de disco y MAC",
+      "Herramientas de perfil de ID de GPU",
+      "Análisis de compatibilidad",
+      "Lista de verificación",
+      "Flujo paso a paso en el portal",
+      "Soporte de configuración Discord"
+    ]
+  },
+  "ugc": {
+    "slides": [
+      {
+        "alt": "Menú de seguridad de EA SPORTS FC 27 loader en Windows PC",
+        "caption": "Recuperación de cuenta",
+        "captionDesc": "Espacio de trabajo para apelacionesace compartido entre tiendas."
+      }
+    ],
+    "overview": {
+      "title": "Espacio de trabajo UGC Account recovery",
+      "paragraphs": [
+        "UGC Account recovery ayuda a organizar apelaciones de suspensiones y casos de recuperación con plantillas, listas de pruebas y recordatorios de seguimiento.",
+        "Entrega digital instantánea tras un pago seguro, con soporte de Discord para preguntas de configuración."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Flujos de trabajo de apelación"
+      },
+      {
+        "type": "p",
+        "text": "Construye rutas de apelación personalizadas, automatiza los pasos de disputa y realiza un seguimiento del estado del caso cuando las cuentas de juego estén bloqueadas o restringidas."
+      },
+      {
+        "type": "h2",
+        "text": "Planes"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $35 USD (P31D) o lifetime $150 USD (P99Y)."
+      }
+    ],
+    "goodToKnow": "Reúne el correo del pedido, los detalles de la cuenta y las capturas de pantalla de la restricción antes de abrir un ticket. UGC estructura las apelaciones, pero no evita la revisión de la plataforma.",
+    "limitations": "UGC no garantiza la restauración de la cuenta. Los resultados varían según el tipo de caso y la política de la plataforma.",
+    "requirements": [
+      "Windows 10 u 11 (64 bits).",
+      "Acceso a Internet para la sincronización del flujo de trabajo y actualizaciones.",
+      "Acceso de administrador para la instalación."
+    ],
+    "features": [
+      "Flujos de trabajo de apelación personalizados",
+      "Espacio de trabajo de recuperación multiplataforma ace",
+      "Biblioteca de plantillas",
+      "Automatización para pasos repetitivos",
+      "Panel de seguimiento de restricciones",
+      "Flujo de trabajo paso a paso del portal",
+      "Soporte de configuración Discord"
+    ]
+  }
+}

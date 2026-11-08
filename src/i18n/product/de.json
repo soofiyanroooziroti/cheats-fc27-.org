@@ -1,0 +1,225 @@
+{
+  "steps": [
+    {
+      "title": "Status prüfen",
+      "desc": "Vergewissere dich vor dem Kauf auf cheatsfc27.com, dass die Module online sind – besonders nach einem Update von EA Javelin oder dem FC 27 Client."
+    },
+    {
+      "title": "Tarif wählen",
+      "desc": "Wähle monthly (P31D) oder lifetime (P99Y) – gleiche USD Preise für jedes Produkt im Sortiment."
+    },
+    {
+      "title": "Sicherer Checkout",
+      "desc": "Schließe den Bezahlvorgang über die Produktkarte ab. Deine Lizenz wird im Portal mit sofortiger Lieferung freigeschaltet."
+    },
+    {
+      "title": "Installieren & überprüfen",
+      "desc": "Folge der Einrichtungsanleitung, lade ein konservatives Preset und teste in einem Freundschaftsspiel, bevor du dein Hauptprofil verwendest."
+    }
+  ],
+  "howToGet": "{name} erhalten",
+  "cheats": {
+    "groupNames": [
+      "Ultimate Team Optionen",
+      "Dienstprogramme",
+      "Gameplay-Optionen",
+      "Pro-Clubs-Optionen",
+      "Sicherheit"
+    ],
+    "descs": [
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe.",
+      "Schalter oder Schieberegler in dieser Menügruppe."
+    ],
+    "slides": [
+      {
+        "alt": "EA SPORTS FC 27 Ultimate Team loader Menü-Screenshot",
+        "caption": "Ultimate Team (FUT)",
+        "captionDesc": "NoLoss, Divisions- und Champions-Spoofer, Draft-Runden-Steuerung, Pack-Überspringung und sofortige Momente."
+      },
+      {
+        "alt": "EA SPORTS FC 27 Gameplay-Hilfen loader Menü-Screenshot",
+        "caption": "Gameplay",
+        "captionDesc": "KI-Autoplay, Spieler- und Gegner-Regler, Skill-Moves, schwacher Fuß, Ausdauerkontrolle und benutzerdefinierte Taktiken."
+      },
+      {
+        "alt": "EA SPORTS FC 27 Pro Clubs loader Menü-Screenshot",
+        "caption": "Pro Clubs",
+        "captionDesc": "Virtual-Pro-Editor, VPRO-Regler, PlayStyles+, versteckte Werte und XP-Boost für Club-Spiele."
+      },
+      {
+        "alt": "EA SPORTS FC 27 Dienstprogramme loader Menü-Screenshot",
+        "caption": "Dienstprogramme",
+        "captionDesc": "Desync-Bypass- und ALT-TAB-Bypass-Schalter für flüssigere Sessions auf Windows PC."
+      },
+      {
+        "alt": "EA SPORTS FC 27 Sonstiges und Sicherheit loader Menü-Screenshot",
+        "caption": "Sonstiges & Sicherheit",
+        "captionDesc": "Anti-Ban, Menü- und Paniktasten, Stream-Proof-Modus, Hotkeys, Konfiguration speichern und laden sowie Cloud-Status."
+      }
+    ],
+    "overview": {
+      "title": "Entwickelt für EA SPORTS FC 27 auf Windows PC",
+      "paragraphs": [
+        "Der Checkout schaltet die Windows loader für unterstützte FC-27-Builds frei. Verwenden Sie die Vorschauspalten für Gruppennamen und öffnen Sie dann den Funktionskatalog für jeden Schalter und Regler.",
+        "Prüfen Sie nach einem EA-Javelin- oder Client-Patch cheatsfc27.com, bevor Sie das Spiel starten."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Enthaltene Module"
+      },
+      {
+        "type": "p",
+        "text": "Windows PC loader mit fünf Menügruppen auf dieser Seite: Ultimate Team Optionen, Dienstprogramme, Gameplay-Optionen, Pro-Clubs-Optionen und Sicherheit."
+      },
+      {
+        "type": "h2",
+        "text": "Pläne"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $35 USD (P31D) oder lifetime $150 USD (P99Y). Sofortige digitale Lieferung weltweit nach dem Checkout."
+      }
+    ],
+    "goodToKnow": "EA SPORTS FC 27 und EA Javelin werden häufig aktualisiert. Bestätigen Sie die Verfügbarkeit auf cheatsfc27.com, bevor Sie das Spiel starten. Das Verhalten von Overlays kann sich in Menüs oder Zuschaueransichten nach Patches unterscheiden.",
+    "limitations": "Software von Drittanbietern kann gegen die Spielbedingungen verstoßen und zu Sperren führen. Die Nutzung dieser Software erfolgt auf eigene Gefahr. Die Kompatibilität kann sich nach Spiel-, EA-Javelin- oder Windows-Updates ohne vorherige Ankündigung ändern.",
+    "requirements": [
+      "HVCI EIN · CORE ISOLATION EIN · TPM EIN · SECURE BOOT EIN",
+      "WINDOWS 10 und 11 werden beide unterstützt",
+      "Cloud DMA — Erforderlich für die volle Funktionalität. Alle Funktionen auf unterstützten Builds laufen über Cloud DMA."
+    ]
+  },
+  "spoofer": {
+    "slides": [
+      {
+        "alt": "EA SPORTS FC 27 Sonstiges und Sicherheit loader Menü auf Windows PC",
+        "caption": "HWID spoofer",
+        "captionDesc": "Hardware-Fingerabdruck-Tools vor dem Neustart."
+      },
+      {
+        "alt": "EA SPORTS FC 27 Hilfsprogramme loader Menü auf Windows PC",
+        "caption": "Phoenix Board",
+        "captionDesc": "Festplatten-, MAC- und GPU-ID-Rotation."
+      },
+      {
+        "alt": "EA SPORTS FC 27 Gameplay loader Menü auf Windows PC",
+        "caption": "Phoenix WH",
+        "captionDesc": "Spoofer-Workspace, der in jedem Store verwendet wird."
+      }
+    ],
+    "overview": {
+      "title": "HWID Wiederherstellungs-Workflow",
+      "paragraphs": [
+        "HWID Spoofer konzentriert sich auf die Hardware-Profil-Rotation, wenn Sie einen sauberen Maschinenkontext benötigen, bevor Sie FC 27 nach einer Hardware-Markierung neu starten.",
+        "Monthly und lifetime USD Tarife verwenden denselben Bezahlvorgang wie der Rest des Angebots."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Wann zu verwenden"
+      },
+      {
+        "type": "p",
+        "text": "Wählen Sie diese Option, wenn neue Konten auf einer PC fehlschlagen, aber anderswo funktionieren – nicht für reine Kontosperrungen. Nach der Verifizierung mit konservativen Voreinstellungen kombinieren."
+      },
+      {
+        "type": "h2",
+        "text": "Tarife"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $50 USD (P31D) oder lifetime $150 USD (P99Y)."
+      }
+    ],
+    "goodToKnow": "HWID Tools verändern, wie Ihr PC Fingerabdruck erscheint – sie heben Kontosperrungen nicht von alleine auf. Befolgen Sie die Portal-Anleitungen, bevor Sie FC 27 erneut starten.",
+    "limitations": "Das Spoofing birgt technische Risiken und verstößt möglicherweise gegen die Nutzungsbedingungen des Spiels. Die Ergebnisse variieren je nach Art der Sperrung und Treiberkonfiguration. Nur auf Systemen verwenden, die Ihnen gehören.",
+    "requirements": [
+      "Windows 10 oder 11 64-Bit mit Administratorrechten.",
+      "Erstellen Sie vor dem Ausführen von Hardware-Tools einen Wiederherstellungspunkt.",
+      "Stabile Internetverbindung für Aktivierungs- und Verifizierungsschritte."
+    ],
+    "features": [
+      "Hardware-Spoofer mit Cleaner",
+      "Festplatten-Seriennummern- und MAC-Rotation",
+      "GPU-ID-Profil-Tools",
+      "Kompatibilitätsprüfung",
+      "Verifizierungs-Checkliste",
+      "Schritt-für-Schritt-Portal-Workflow",
+      "Discord Setup-Support"
+    ]
+  },
+  "ugc": {
+    "slides": [
+      {
+        "alt": "EA SPORTS FC 27 loader Sicherheitsmenü auf Windows PC",
+        "caption": "Konto-Wiederherstellung",
+        "captionDesc": "Arbeitsbereich für Einsprücheace über Stores hinweg geteilt."
+      }
+    ],
+    "overview": {
+      "title": "UGC Account recovery Arbeitsbereichace",
+      "paragraphs": [
+        "UGC Account recovery hilft dabei, Bansprüche und Wiederherstellungsfälle mit Vorlagen, Beweislisten und Wiedervorlage-Erinnerungen zu organisieren.",
+        "Sofortige digitale Lieferung nach gesichertem Checkout, mit Discord-Support für Einrichtungsfragen."
+      ]
+    },
+    "body": [
+      {
+        "type": "h2",
+        "text": "Einspruchs-Workflows"
+      },
+      {
+        "type": "p",
+        "text": "Erstelle benutzerdefinierte Einspruchspfade, automatisiere Streitfall-Schritte und verfolge den Fallstatus, wenn Spielkonten gesperrt oder eingeschränkt wurden."
+      },
+      {
+        "type": "h2",
+        "text": "Pläne"
+      },
+      {
+        "type": "p",
+        "text": "Monthly $35 USD (P31D) oder lifetime $150 USD (P99Y)."
+      }
+    ],
+    "goodToKnow": "Sammle deine Bestell-E-Mail, Kontodetails und Screenshots der Einschränkung, bevor du ein Ticket öffnest. UGC strukturiert Einsprüche—es umgeht keine Plattformüberprüfung.",
+    "limitations": "UGC garantiert keine Kontowiederherstellung. Die Ergebnisse variieren je nach Falltyp und Plattformrichtlinie.",
+    "requirements": [
+      "Windows 10 oder 11 (64-Bit).",
+      "Internetzugang für Workflow-Synchronisierung und Updates.",
+      "Administratorzugriff für die Installation."
+    ],
+    "features": [
+      "Benutzerdefinierte Einspruchs-Workflows",
+      "Plattformübergreifender Wiederherstellungs-Arbeitsbereichace",
+      "Vorlagenbibliothek",
+      "Automatisierung für repetitive Schritte",
+      "Dashboard zur Verfolgung von Einschränkungen",
+      "Portal-Schritt-für-Schritt-Workflow",
+      "Discord-Einrichtungssupport"
+    ]
+  }
+}

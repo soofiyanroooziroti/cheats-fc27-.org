@@ -1,0 +1,64 @@
+{
+  "site": {
+    "title": "Codes FC 27",
+    "description": "Codes FC 27 avec des outils Carrière, Ultimate Team et Pro Clubs, plus un menu de mods pour EA SPORTS FC 27 sur Windows PC. Prix mondial USD."
+  },
+  "pages": {
+    "/": {
+      "title": "Codes de triche FC 27 pour Windows PC | Mod Menu et Tarifs",
+      "description": "Codes de triche FC 27 avec un mod menu Windows PC pour EA SPORTS FC 27. Carrière, Ultimate Team et Pro Clubs en un loader. Paiement séparé."
+    },
+    "/products/fc27-cheats/": {
+      "title": "Produits et Tarifs | Plans Monthly et Lifetime",
+      "description": "EA SPORTS FC 27 sur Windows PC : triche et UGC à $35 monthly ou $150 lifetime ; HWID spoofer à 50 $ monthly ou $150 lifetime. Paiements séparés."
+    },
+    "/products/fc27-cheats/loader/": {
+      "title": "Mod Menu FC27 | Aides de Match et Carrière",
+      "description": "Mod menu FC27 avec groupes loader pour les matchs, la Carrière et Ultimate Team. Monthly $35. Lifetime $150. Lisez la note de statut après les mises à jour."
+    },
+    "/products/fc27-cheats/hwid-spoofer/": {
+      "title": "FC27 HWID Spoofer pour les drapeaux matériels Windows",
+      "description": "FC27 hwid spoofer pour les joueurs confrontés à un drapeau matériel sur PC. 50 $ monthly ou $150 lifetime. Rotation de profil sur PC — pas pour les bannissements de compte."
+    },
+    "/products/fc27-cheats/ugc/": {
+      "title": "Outil de récupération de compte FC27 pour appels PC",
+      "description": "L'outil de récupération de compte FC27 organise les appels de bannissement et les cas de récupération. Licence distincte de loader et HWID spoofer sur PC."
+    },
+    "/products/fc27-cheats/utilities/": {
+      "title": "Comparer l'outil HWID et l'utilitaire d'appel de compte",
+      "description": "Découvrez quel utilitaire Windows correspond à un drapeau matériel et lequel correspond à un appel de compte. Ce sont deux achats séparés depuis loader."
+    },
+    "/blog/": {
+      "title": "Guides FC 27 publiés pour les menus et correctifs",
+      "description": "Guides sur Ultimate Team, Mode Carrière, Pro Clubs, l'indicateur matériel HWID et les patchs EA Javelin avant de lancer sur Windows PC."
+    },
+    "/forum/": {
+      "title": "Forum communautaire : Configuration, menus et plans",
+      "description": "Discussions sur loader, aides de jeu, plans $35 monthly et $150 lifetime, et patchs EA Javelin. Réponses de développeurs signalées."
+    },
+    "/faq/": {
+      "title": "FAQ – Plans, configuration et risques EA Javelin",
+      "description": "Réponses sur le paiement, les mises à jour EA Javelin, les prérequis Windows, indicateurs matériels et différences avec loader."
+    },
+    "/support/": {
+      "title": "Support : Loader, Paiement et HWID PC",
+      "description": "Loader, paiement et aide du portail pour les outils PC, le HWID spoofer et les appels de compte. Indiquez votre e-mail de commande et l'loader exact."
+    },
+    "/about/": {
+      "title": "À propos : livraison par portail, prix et risques",
+      "description": "Ce que cheatsfc27.com vend pour EA SPORTS FC 27 sur Windows PC, le fonctionnement de la livraison, les risques EA Javelin et le contenu du loader, du spoofer et des outils UGC."
+    },
+    "/privacy/": {
+      "title": "Confidentialité : analyses, cookies et contact",
+      "description": "Comment cheatsfc27.com gère les analyses, les cookies et les données de contact. Les numéros de carte restent chez le prestataire de paiement."
+    },
+    "/terms/": {
+      "title": "Conditions de licence, remboursements et règles",
+      "description": "Conditions de licence, règles d'utilisation et politique de non-remboursement pour loader, HWID spoofer et la récupération de compte vendus sur cheatsfc27.com."
+    },
+    "/status/": {
+      "title": "Notes de patch EA Javelin et statut du client",
+      "description": "Mise à jour v1.1.0 (27 oct. 2026) pour EA SPORTS FC 27 : QoL, interface Carrière, correctifs Clubs et sécurité EA Javelin. À vérifier avant le lancement."
+    }
+  }
+}

@@ -1,0 +1,84 @@
+/** Static path redirects (301). Keys are pathname without query/hash. */
+export const PATH_REDIRECTS = new Map([
+  ['/blog', '/blog/'],
+  ['/about', '/about/'],
+  ['/contact', '/support/'],
+  ['/contact/', '/support/'],
+  ['/support', '/support/'],
+  ['/privacy', '/privacy/'],
+  ['/terms', '/terms/'],
+  ['/faq', '/faq/'],
+  ['/cheats', '/products/fc27-cheats/'],
+  ['/cheats/', '/products/fc27-cheats/'],
+  ['/products/dota-2-cheats', '/products/fc27-cheats/'],
+  ['/products/dota-2-cheats/', '/products/fc27-cheats/'],
+  ['/products/dota-2-cheats/utilities', '/products/fc27-cheats/utilities/'],
+  ['/products/dota-2-cheats/utilities/', '/products/fc27-cheats/utilities/'],
+  ['/products/dota-2-cheats/account-recovery', '/products/fc27-cheats/ugc/'],
+  ['/products/dota-2-cheats/account-recovery/', '/products/fc27-cheats/ugc/'],
+  ['/products/dota-2-cheats/elite', '/products/fc27-cheats/loader/'],
+  ['/products/dota-2-cheats/elite/', '/products/fc27-cheats/loader/'],
+  ['/products/fc27-cheats/utilities', '/products/fc27-cheats/utilities/'],
+  ['/products/dota-2-cheats/lite', '/products/fc27-cheats/loader/'],
+  ['/products/dota-2-cheats/lite/', '/products/fc27-cheats/loader/'],
+  ['/products/dota-2-cheats/pro', '/products/fc27-cheats/loader/'],
+  ['/products/dota-2-cheats/pro/', '/products/fc27-cheats/loader/'],
+  ['/products/dota-2-cheats/unlock-all', '/products/fc27-cheats/'],
+  ['/products/dota-2-cheats/unlock-all/', '/products/fc27-cheats/'],
+  ['/products/dota-2-cheats/hwid-spoofer', '/products/fc27-cheats/hwid-spoofer/'],
+  ['/products/dota-2-cheats/hwid-spoofer/', '/products/fc27-cheats/hwid-spoofer/'],
+  ['/forum/how-to-enable-the-dota-2-console', '/forum/'],
+  ['/forum/how-to-enable-the-dota-2-console/', '/forum/'],
+  ['/forum/can-custom-lobby-cheat-codes-be-used-in-ranked', '/forum/'],
+  ['/forum/can-custom-lobby-cheat-codes-be-used-in-ranked/', '/forum/'],
+  ['/forum/what-to-check-after-a-dota-2-patch', '/forum/ace-status-before-launch/'],
+  ['/forum/what-to-check-after-a-dota-2-patch/', '/forum/ace-status-before-launch/'],
+  ['/forum/dota-2-lite-or-pro-hero-scripts', '/forum/'],
+  ['/forum/dota-2-lite-or-pro-hero-scripts/', '/forum/'],
+  ['/forum/how-to-choose-dota-2-product-tier', '/forum/lifetime-includes-spoofer/'],
+  ['/forum/how-to-choose-dota-2-product-tier/', '/forum/lifetime-includes-spoofer/'],
+  ['/blog/dota-2-lite-vs-pro', '/blog/dayz-cheats-pricing/'],
+  ['/blog/dota-2-lite-vs-pro/', '/blog/dayz-cheats-pricing/'],
+  ['/blogs', '/blog/'],
+  ['/blogs/', '/blog/'],
+  ['/dayz-cheats', '/products/fc27-cheats/'],
+  ['/dayz-cheats/', '/products/fc27-cheats/'],
+  ['/reviews', '/forum/'],
+  ['/reviews/', '/forum/'],
+  ['/refunds', '/terms/'],
+  ['/refunds/', '/terms/'],
+  ['/products/fc27-cheats/warzone-cheats', '/products/fc27-cheats/loader/'],
+  ['/products/fc27-cheats/warzone-cheats/', '/products/fc27-cheats/loader/'],
+  ['/features', '/products/fc27-cheats/loader/#features'],
+  ['/features/', '/products/fc27-cheats/loader/#features'],
+  ['/features/player-esp', '/products/fc27-cheats/loader/#features'],
+  ['/features/player-esp/', '/products/fc27-cheats/loader/#features'],
+  ['/features/loot-esp', '/products/fc27-cheats/loader/#features'],
+  ['/features/loot-esp/', '/products/fc27-cheats/loader/#features'],
+  ['/features/vehicle-esp', '/products/fc27-cheats/loader/#features'],
+  ['/features/vehicle-esp/', '/products/fc27-cheats/loader/#features'],
+  ['/features/infected-esp', '/products/fc27-cheats/loader/#features'],
+  ['/features/infected-esp/', '/products/fc27-cheats/loader/#features'],
+  ['/features/aimbot', '/products/fc27-cheats/loader/#features'],
+  ['/features/aimbot/', '/products/fc27-cheats/loader/#features'],
+  ['/features/radar', '/products/fc27-cheats/loader/#features'],
+  ['/features/radar/', '/products/fc27-cheats/loader/#features'],
+  ['/features/streamproof', '/products/fc27-cheats/loader/#features'],
+  ['/features/streamproof/', '/products/fc27-cheats/loader/#features'],
+  ['/features/misc', '/products/fc27-cheats/loader/#features'],
+  ['/features/misc/', '/products/fc27-cheats/loader/#features'],
+]);
+
+/** Paths that should not receive a forced trailing slash. */
+export const TRAILING_SLASH_SKIP = /\.[a-z0-9]+$/i;
+
+export function resolvePathRedirect(pathname) {
+  const direct = PATH_REDIRECTS.get(pathname);
+  if (direct) return direct;
+
+  if (pathname !== '/' && !pathname.endsWith('/') && !TRAILING_SLASH_SKIP.test(pathname)) {
+    return `${pathname}/`;
+  }
+
+  return null;
+}

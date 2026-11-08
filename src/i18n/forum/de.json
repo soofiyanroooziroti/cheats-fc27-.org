@@ -1,0 +1,315 @@
+{
+  "categories": {
+    "General": "Allgemein",
+    "Guides & Builds": "Guides & Builds",
+    "Patch Talk": "Patch-Gespräche",
+    "Community": "Community"
+  },
+  "posts": {
+    "update-130-before-launch": {
+      "title": "Update 1.30 und Badlands sind live. Öffne ich das loader mit der alten Konfig?",
+      "excerpt": "Der Steam-Client hat sich am 15. Oktober geändert. Meine gespeicherte Konfig ist von vor Nasdara und den neuen Motorrädern.",
+      "body": [
+        "Steam auf Windows. Update 1.30 und die Badlands-Erweiterung sind am 15. Oktober erschienen. Nasdara, die Jana 50, die Enduro und die neuen Codeschlösser sind im Client.",
+        "Ich habe noch eine Konfig von vor diesem Patch. Reicht der alte Spielstand, oder soll ich auf die Statusseite warten?"
+      ],
+      "flair": "❓ Frage",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Warte. Eine vor Update 1.30 gespeicherte Konfig ist keine Prüfung für diesen Client. Lies die Statusseite, dann das Portal, und lass das loader geschlossen, bis dieser Hinweis zu dem Build passt, den du öffnen willst. Aktualisiert bedeutet, dass der Hinweis erneuert wurde. Das bedeutet nicht, dass eine Sitzung sauber bleibt.",
+          "replies": [
+            {
+              "author": "BadlandsWait",
+              "body": "Habe die Warteschlange gehalten. Ich öffne es erst, wenn die Statuszeile zu diesem Client passt."
+            }
+          ]
+        }
+      ]
+    },
+    "update-130-battleye-reports": {
+      "title": "Bannwellen-Beiträge nach dem 1.30 BattlEye Update. Was bedeutet das hier?",
+      "excerpt": "Öffentliche Hinweise sprechen von tieferem BattlEye-Tracking. Ich möchte die Statusanzeige lesen, keinen Bypass.",
+      "body": [
+        "Die Hinweise zu 1.30 erwähnen tiefergehendes Tracking mit BattlEye und veröffentlichen die Methode nicht. Leute posten auch über Bannwellen nach diesem Client.",
+        "Ich frage nicht, wie man das umgeht. Ich möchte wissen, was diese Seite behaupten wird und was nicht."
+      ],
+      "flair": "❓ Frage",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Der öffentliche Hinweis ist die gesamte Behauptung: Tracking-Änderungen wurden vorgenommen und die Methode wurde nicht veröffentlicht. Spätere Berichte beschreiben Bannwellen. Diese Seite sagt nicht, dass dieses loader übersehen oder erwischt wurde. Ein Bann ist weiterhin möglich. Es gibt hier keinen Bypass-Artikel. Wenn der Statushinweis nicht für den von dir installierten Build gilt, lass das loader geschlossen.",
+          "replies": []
+        }
+      ]
+    },
+    "nasdara-bikes-and-world-esp": {
+      "title": "Nasdara, die Jana 50 und die Enduro sind da. Bekommt das Menü einen neuen Schalter?",
+      "excerpt": "Welt ESP hat bereits Fahrzeug ESP, Tier ESP und Helisturz. Ich will keinen Fake-Motorrad-Schalter.",
+      "body": [
+        "Badlands fügte die Nasdara-Wüste und zwei Motorräder hinzu, die Jana 50 und die Enduro. Sie neigen sich in Kurven und benötigen Benzin sowie eine Zündkerze.",
+        "Das veröffentlichte Menü listet nach wie vor Fahrzeug ESP unter Welt ESP-Optionen. Ist ein Motorrad ein eigener Schalter oder einfach nur ein Fahrzeug?"
+      ],
+      "flair": "💬 Diskussion",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Die veröffentlichte Welt ESP-Gruppe ist nach wie vor Tier ESP, Gesundheit als Text oder Balken, Fahrzeug ESP und Helisturz. Die Jana 50 und Enduro sind Fahrzeuge im Spiel. Sie sind keine zusätzliche Zeile auf dieser Seite. Nasdara fügt auch keinen Kartenschalter hinzu. Wenn nach dem Client-Update ein Label fehlt, betrachte das als Statusprüfung und nicht als neuen Funktionsnamen.",
+          "replies": [
+            {
+              "author": "EnduroLine",
+              "body": "Ich lasse also Fahrzeug ESP an und suche nicht nach einem Motorradschalter. Verstanden."
+            }
+          ]
+        }
+      ]
+    },
+    "death-screen-report-button": {
+      "title": "Ist der „Spieler melden“-Button auf dem Todesbildschirm in 1.30 live?",
+      "excerpt": "Ich bin in Nasdara gestorben und es gab kein neues Melde-Steuerelement. Öffentliche Hinweise nennen es nach wie vor unvollständig.",
+      "body": [
+        "Öffentliche Hinweise besagen, dass an einem „Spieler melden“-Button für den Todesbildschirm gearbeitet wird, damit sich falsche Meldungen nicht häufen.",
+        "Ich habe ihn nach einem Tod in 1.30 nicht gesehen. Ist er live oder immer noch nicht im Client?"
+      ],
+      "flair": "❓ Frage",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Betrachte ihn als unvollständig. Der öffentliche Hinweis besagt, dass das Team noch an diesem Steuerelement arbeitet, einschließlich Fällen von Falschmeldungen. Plane keine Sitzung um einen Button herum, der nicht im Client ist. Dieser Thread wird daraus kein Bypass-Thema machen.",
+          "replies": []
+        }
+      ]
+    },
+    "update-131-and-ps5": {
+      "title": "Wann kommt Update 1.31 und deckt dieser Key den PS5-Client ab?",
+      "excerpt": "Für 1.31 ist kein Datum genannt. Eine native PS5-Version ist für 2027 im Gespräch. Dieser PC ist Steam.",
+      "body": [
+        "Ich kann kein Datum für Update 1.31 finden. Hotfixes für 1.30 sind weiterhin möglich. Es wird zudem über eine native PS5-Version im Jahr 2027 gesprochen.",
+        "Ich spiele auf Steam für Windows. Folgt der lifetime-Key einem Konsolen-Client oder nur diesem PC loader?"
+      ],
+      "flair": "❓ Frage",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Es gibt kein öffentliches Datum für 1.31. Ein vergangener Release-Abstand ist kein Versprechen. Hotfixes können den Steam-Client weiterhin verändern, prüfe daher die Statusseite vor jedem Start. Dieses Produkt ist der Steam loader auf Windows. Eine native PS5-Version ist ein anderer Client und nicht enthalten.",
+          "replies": [
+            {
+              "author": "RoadmapRead",
+              "body": "Nur der PC-Key, und ich warte nach einem Hotfix immer noch auf den Status. Das ist der Teil, den ich gebraucht habe."
+            }
+          ]
+        }
+      ]
+    },
+    "BattlEye-status-before-launch": {
+      "title": "In der Statuszeile steht immer noch Aktualisiert. Reicht das nach einem 1.30-Hotfix?",
+      "excerpt": "Nach Badlands erschien ein kleiner Hotfix. Die Seite zeigt nach wie vor den Hinweis vom 15. Oktober.",
+      "body": [
+        "Windows 11, monthly-Key, Steam-Client. Auf Update 1.30 folgte ein Hotfix. Die Statusseite liest sich weiterhin wie der Badlands-Hinweis vom 15. Oktober.",
+        "Reicht dieser ältere Hinweis aus, oder warte ich, bis die Seite für diesen Hotfix aktualisiert wurde?"
+      ],
+      "flair": "❓ Frage",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Warte. Überprüfe die Statusseite nach dem Client- oder BattlEye-Update, nicht das Banner, an das du dich vom Start von 1.30 erinnerst. Für einen Hotfix gilt dieselbe Regel. Nichts hier ist ein Versprechen, dass eine Session unproblematisch bleibt. Wenn der Hinweis nicht für diesen Build gilt, lass den loader geschlossen.",
+          "replies": [
+            {
+              "author": "NightRaid",
+              "body": "Warteschlange gehalten 🙏 Ich öffne ihn erst, wenn die Seite für diesen Patch aktualisiert wurde."
+            }
+          ]
+        },
+        {
+          "author": "ExtractLate",
+          "body": "Gleiche Gewohnheit 😭 Ich habe den Anti-Cheat-Beitrag gelesen, damit ich ein grünes Banner nicht länger als Garantie betrachte.",
+          "replies": []
+        }
+      ]
+    },
+    "aim-smooth-on-infantry": {
+      "title": "Der Ziel-Assistent schnappt in einem nahen Infanteriekampf zu. Was muss ich herunterdrehen? 🎯",
+      "excerpt": "😵 FOV ist breit und Knochen ist Kopf. Die Zielentfernung ist immer noch groß.",
+      "body": [
+        "Steam-Build, Aimbot-Optionen: Schalter, anpassbares FOV, anpassbare Zielentfernung, Ignorieren, Knochen, FOV-Stil und eine Linie zum Ziel.",
+        "Bei einem kurzen Peek zieht es ruckartig zum Kopf. Ich möchte nur Hilfe bei der Person, die ich bereits ansehe, nicht bei der nächsten am Rand."
+      ],
+      "flair": "❓ Frage",
+      "comments": [
+        {
+          "author": "ScopeQuiet",
+          "body": "Ich habe FOV reduziert, bis der Kegel die Person vor mir kaum noch bedeckte, und ich habe die Zielentfernung verkürzt 🎯 Der Kopfknochen war der Auslöser für das Verziehen.",
+          "replies": [
+            {
+              "author": "DayZStaff",
+              "body": "Ändere jeweils nur eine Einstellung. Ein engeres, anpassbares FOV und eine kürzere, anpassbare Zielentfernung sind die übliche Lösung. Knochen kann beim Testen auf am nächsten stehen bleiben, danach kannst du zu Kopf, Hals oder Becken wechseln. Der FOV-Stil ändert lediglich, ob der Kegel als Volltonfarbe oder Farbverlauf gezeichnet wird. Speichere die Konfiguration, damit der nächste Start sie nicht zurücksetzt."
+            }
+          ]
+        }
+      ]
+    },
+    "esp-too-many-labels": {
+      "title": "Spieler ESP verdeckt den Bildschirm in einem Squad-Kampf 👁️",
+      "excerpt": "📦 Box, Skelett, Name, Inventar und Traces sind alle an. Ich kann das Fadenkreuz nicht sehen.",
+      "body": [
+        "Spieler ESP Optionen ist vollgepackt: Box, gefüllte Box, Kopfpunkt, Skelett, Gesundheitsbalken, Name, Distanz, Inventar, Gegenstand in den Händen und Traces.",
+        "Ich brauche nur, wer da ist und wie weit weg. Was lassen die Leute tatsächlich an?"
+      ],
+      "flair": "💬 Diskussion",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Beginne mit Box oder Skelett, Gesundheitsbalken und Distanz. Füge den Namen nur hinzu, wenn du ihn brauchst. Inventar und Gegenstand in den Händen sind optional. Verringere die maximale Distanz, damit weiter entfernte Spieler ausgeblendet werden. Traces sind der letzte Schalter, wenn sie deinen Blick von der Box ablenken.",
+          "replies": []
+        },
+        {
+          "author": "SquadNoise",
+          "body": "Inventar, Gegenstand in den Händen und Traces ausgeschaltet ✨ Der Kampf ist wieder übersichtlich.",
+          "replies": []
+        }
+      ]
+    },
+    "vehicle-esp-or-radar": {
+      "title": "Ein Fahrzeug und ein Hubschrauberabsturz sind beide markiert. Welcher Welt ESP Schalter ist welcher? 🛡️",
+      "excerpt": "🚛 Ein Fahrzeug und eine Hubschrauberabsturzstelle sind beide auf dem Bildschirm. Ich kann nicht erkennen, welches Welt ESP Label ich lesen soll.",
+      "body": [
+        "Welt ESP Optionen: Tier ESP, Gesundheit als Text oder Balken, Fahrzeug ESP und Hubschrauberabsturz.",
+        "Ein Fahrzeug und eine Absturzstelle sind gleichzeitig aufgetaucht. Ich hatte beide Schalter an und die Labels stapelten sich. Welches ist das Fahrzeug und welches ist der Hubschrauberabsturz?"
+      ],
+      "flair": "❓ Frage",
+      "comments": [
+        {
+          "author": "ATRock",
+          "body": "Ich lasse Fahrzeug ESP für das Fahrzeug vor mir an und schalte den Hubschrauberabsturz nur ein, wenn ich nach einer Absturzstelle suche.",
+          "replies": [
+            {
+              "author": "DayZStaff",
+              "body": "Das sind separate Schalter in den Welt ESP Optionen. Fahrzeug ESP markiert Fahrzeuge. Hubschrauberabsturz markiert Absturzstellen. Tier ESP und Gesundheit (Text oder Balken) sind die anderen beiden in dieser Gruppe. Einen auszuschalten schaltet die anderen nicht aus."
+            }
+          ]
+        }
+      ]
+    },
+    "radar-blips-everywhere": {
+      "title": "Welt ESP Labels sind gestapelt. Wie reduziere ich sie? 📡",
+      "excerpt": "✨ Tier ESP, Fahrzeug ESP und Hubschrauberabsturz sind alle an. Ich kann sie nicht auseinanderhalten.",
+      "body": [
+        "Welt ESP Optionen hat Tier ESP, Gesundheit, Fahrzeug ESP und Hubschrauberabsturz alle an.",
+        "Ich möchte hauptsächlich Fahrzeuge. Die Tier- und Hubschrauberabsturz-Labels verdecken dieselbe Ansicht."
+      ],
+      "flair": "💬 Diskussion",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Lasse den Welt ESP Schalter an, den du gerade liest, und schalte die anderen aus. Fahrzeug ESP, Tier ESP und Hubschrauberabsturz sind separat. Spieler-Labels bleiben in den Spieler ESP Optionen mit ihrer eigenen maximalen Distanz.",
+          "replies": []
+        },
+        {
+          "author": "MapRing",
+          "body": "Tier ESP und Hubschrauberabsturz ausgeschaltet. Fahrzeug ESP ist das einzige Welt-Label, das ich anlasse.",
+          "replies": []
+        }
+      ]
+    },
+    "lifetime-next-update": {
+      "title": "Deckt der $150 lifetime-Schlüssel Update 1.31 und die Hotfixes ab?",
+      "excerpt": "1.30 ist bereits draußen. Ich schwanke zwischen einem weiteren Monat und $150 lifetime vor dem nächsten Client.",
+      "body": [
+        "Update 1.30 ist auf Steam verfügbar. Für Update 1.31 gibt es keinen festen Termin. Monthly ist $35 und lifetime ist $150 auf der Cheat-Karte.",
+        "Wenn ich lifetime diese Woche kaufe, beinhaltet dieser Schlüssel dann spätere PC-Builds oder zahle ich erneut, wenn der Client aktualisiert wird?"
+      ],
+      "flair": "❓ Frage",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Lifetime gilt für dieses Cheat-Produkt auf Steam für Windows. Spätere PC-Builds werden ausgeliefert, solange der Schlüssel aktiv ist, einschließlich nach einem Hotfix. Das bedeutet jedoch nicht, dass der loader in der Stunde bereit ist, in der Update 1.31 oder ein Hotfix live geht. Prüfen Sie die Statusseite und lassen Sie den loader geschlossen, bis dieser Hinweis zum neuen Client passt. Lifetime fügt weder den HWID spoofer, den UGC noch einen Konsolen-Client hinzu, und eine Sperre ist weiterhin möglich.",
+          "replies": [
+            {
+              "author": "WipeWatch",
+              "body": "Der Schlüssel bleibt also auf PC, und ich warte nach dem nächsten Client immer noch auf der Statusseite. Das ist genau der Teil, den ich wissen musste."
+            }
+          ]
+        },
+        {
+          "author": "SeasonHold",
+          "body": "Gleiche Einschätzung für Saison 2. Ich habe ihn in der Nacht, als die Patch-Notizen veröffentlicht wurden, nicht geöffnet. Ich habe gewartet, bis sich die Statuszeile bewegt hat.",
+          "replies": []
+        }
+      ]
+    },
+    "lifetime-includes-spoofer": {
+      "title": "Beinhaltet der $150 lifetime-Schlüssel den HWID spoofer? 🔑",
+      "excerpt": "💸 Ich bin im $35 Monat. Ich möchte wissen, ob lifetime beim Cheat auch den Spoofer freischaltet.",
+      "body": [
+        "DayZ Cheats und UGC gelten $35 für 31 Tage oder $150 lifetime. Der HWID spoofer kostet 50 $ monthly oder $150 lifetime auf einer eigenen Karte.",
+        "Wenn ich lifetime für den Cheat kaufe, bekomme ich dann auch den Spoofer dazu oder ist das ein separater Checkout?"
+      ],
+      "flair": "❓ Frage",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Getrennte Produkte. Lifetime auf DayZ Cheats beinhaltet weder HWID Spoofer noch UGC Account recovery. Jeder ist sein eigener Schlüssel. Der Beginn auf monthly verspricht kein Guthaben für lifetime. Der Spoofer monthly kostet 50 $; Cheat und UGC monthly sind $35. Lifetime ist $150 auf jeder Karte – kein einzelnes Paket.",
+          "replies": [
+            {
+              "author": "PlanMath",
+              "body": "Verstanden. Ich behalte den Monat für den Cheat und kaufe den Spoofer nur, wenn die PC das Problem ist, das markiert wird."
+            }
+          ]
+        }
+      ]
+    },
+    "when-to-buy-hwid": {
+      "title": "Frische Konten sterben auf dieser PC und funktionieren auf einem Laptop. Ist das HWID? 💻",
+      "excerpt": "🆕 Das Spielkonto ist neu. Eine zweite Maschine kommt rein. Ich bin mir nicht sicher, ob der Kauf des Spoofers das Richtige ist.",
+      "body": [
+        "Zwei PCer. Neue Konten schlagen auf dem Desktop fehl und funktionieren auf dem Laptop. Ich besitze den Cheat-Monat bereits.",
+        "Ist das HWID spoofer für den Desktop oder benötige stattdessen den UGC-Einspruchs-Arbeitsbereichace?"
+      ],
+      "flair": "❓ Frage",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Wenn ein neues Konto auf einem Gerät fehlschlägt und auf einem anderen funktioniert, ist dieses Muster der Hardware-ID-Fall, für den der Spoofer gedacht ist. UGC ist der Einspruchs-Arbeitsbereichace für das Konto selbst. Der Spoofer macht eine kontobezogene Einschränkung nicht rückgängig und ist nicht im Cheat-Schlüssel enthalten.",
+          "replies": []
+        }
+      ]
+    },
+    "is-cloud-dma-included": {
+      "title": "Ist eine DMA-Karte im Lieferumfang von loader enthalten? ☁️",
+      "excerpt": "👀 Eine Suche nach DayZ DMA ließ mich vermuten, dass der Download eine DMA-Karte enthält. Ich habe nur Windows loader gekauft.",
+      "body": [
+        "Konfigurationsoptionen haben Limit FPS, Menüsprache, Konfiguration speichern und Konfiguration laden. Eine Suche nach DayZ DMA ließ mich vermuten, dass der Download ein DMA-Setup enthält.",
+        "Ich habe Windows loader gekauft. Ich besitze keine DMA-Karte. Ist dieses Hardware-Teil in diesem Schlüssel enthalten oder nicht?"
+      ],
+      "flair": "❓ Frage",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Nein. Konfiguration speichern und Konfiguration laden speichern das Menü, damit Sie dasselbe Layout später laden können. Sie sind keine DMA-Karte, und dieses Produkt ist Windows loader aus der Kasse. Ein DMA-Gerät ist andere Hardware und ist nicht im Schlüssel enthalten. Führen Sie keine Datei aus, die aus einem Suchergebnis oder einer Direktnachricht stammt.",
+          "replies": [
+            {
+              "author": "ReadThePage",
+              "body": "Also ist Konfiguration speichern die Voreinstellung, und die Karte, über die die Leute streiten, ist nicht im Download enthalten. Verstanden."
+            }
+          ]
+        }
+      ]
+    },
+    "steam-only-client": {
+      "title": "Loader erkennt das Spiel nicht. Ist dies nur für Steam? 🎮",
+      "excerpt": "🛑 DayZ ist installiert, aber nicht über Steam. Auf der Produktseite steht „Nur Steam“ und ich habe vor dem Ändern von Windows aufgehört.",
+      "body": [
+        "Windows 11, Intel. Das Spiel auf diesem PC ist nicht die Steam-Installation. Die Funktionsliste besagt Nur Steam.",
+        "Jemand in einem anderen Chat sagte, man solle Sicherheitsfunktionen ausschalten, damit ein loader startet. Ich habe diese Einstellungen nicht berührt."
+      ],
+      "flair": "❓ Frage",
+      "comments": [
+        {
+          "author": "DayZStaff",
+          "body": "Dieser Build ist nur für Steam. Wenn DayZ nicht die Steam-Kopie ist, ist dieser loader nicht für diese Installation bestimmt. Belassen Sie die Windows-Sicherheitsfunktionen wie sie sind. Folgen Sie keinem Beitrag, der Ihnen sagt, Sie sollen sie ausschalten. Wenn sich die Steam-Kopie weiterhin nicht öffnen lässt, senden Sie die Bestellbestätigung und den genauen loader-Text über den Support.",
+          "replies": []
+        }
+      ]
+    }
+  }
+}

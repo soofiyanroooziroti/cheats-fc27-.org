@@ -1,0 +1,172 @@
+---
+import { getLocaleFromAstro, getTranslations } from '../../i18n';
+import type { ProductFeatureGroup } from '../../data/products';
+import { productPath } from '../../utils/path';
+import Icon from '../icons/Icon.astro';
+import SlideRevealButton from '../SlideRevealButton.astro';
+import SectionHeader from '../SectionHeader.astro';
+import { LOADER_DECK_VIDEO } from '../../constants/loader-deck-video';
+
+interface Props {
+  featureGroups?: ProductFeatureGroup[];
+}
+
+const locale = getLocaleFromAstro(Astro);
+const t = getTranslations(locale);
+const panel = t.productUi?.systemReqPanel;
+
+const { featureGroups = [] } = Astro.props;
+
+/** Stable catalog order: Ultimate Team, Utilities, Gameplay, Pro Clubs, Safety — deck shows 0, 2, 3. */
+const previewGroupIndexes = [0, 2, 3] as const;
+const previewGroups = previewGroupIndexes
+  .map((index) => featureGroups[index])
+  .filter((group): group is ProductFeatureGroup => Boolean(group));
+
+const featuresHref = `${productPath('loader', locale)}#features`;
+const deckTitle = panel?.shopDeckTitle ?? 'Requirements and menu preview';
+const deckDesc =
+  panel?.shopDeckDesc ??
+  'Requirements and a preview of the menu. Open the feature list for every toggle and slider.';
+const osPill = panel?.operatingSystemValue ?? 'WINDOWS 10 and 11 both supported';
+---
+
+<section class="product-shop-deck border-y border-border bg-muted/20 py-8 md:py-10" aria-labelledby="product-shop-deck-title">
+  <div
+    class="product-shop-deck__backdrop"
+    data-loader-deck-video
+    aria-hidden="true"
+  >
+    <img
+      class="product-shop-deck__poster"
+      data-deck-poster
+      src={LOADER_DECK_VIDEO.poster}
+      alt=""
+      width={LOADER_DECK_VIDEO.width}
+      height={LOADER_DECK_VIDEO.height}
+      decoding="async"
+      loading="lazy"
+    />
+    <video
+      class="product-shop-deck__video"
+      width={LOADER_DECK_VIDEO.width}
+      height={LOADER_DECK_VIDEO.height}
+      muted
+      loop
+      playsinline
+      preload="none"
+      poster={LOADER_DECK_VIDEO.poster}
+      data-webm={LOADER_DECK_VIDEO.webm}
+      data-mp4={LOADER_DECK_VIDEO.mp4}
+    />
+  </div>
+  <div class="product-shop-deck__content mx-auto max-w-6xl px-5">
+    <div class="product-shop-deck__header">
+      <SectionHeader
+        eyebrow={panel?.shopDeckEyebrow ?? 'On the product card'}
+        title={deckTitle}
+        desc={deckDesc}
+        titleId="product-shop-deck-title"
+      />
+    </div>
+
+    <ul class="product-shop-deck__pills flex flex-wrap gap-2" role="list">
+      {(panel?.security ?? []).map((label) => (
+        <li class="product-shop-deck__pill">
+          <Icon name="circleCheck" size={16} class="shrink-0 text-primary" aria-hidden="true" />
+          <span>{label}</span>
+        </li>
+      ))}
+      <li class="product-shop-deck__pill">
+        <Icon name="monitor" size={16} class="shrink-0 text-primary" aria-hidden="true" />
+        <span>{osPill}</span>
+      </li>
+    </ul>
+
+    <div class="product-shop-deck__columns mt-8 grid items-stretch gap-6 md:grid-cols-3">
+      {
+        previewGroups.map((group) => (
+          <div class="product-shop-deck__col">
+            <h3 class="product-shop-deck__heading">{group.name}</h3>
+            <ul class="product-shop-deck__list" role="list">
+              {group.items.map((item) => (
+                <li>
+                  <Icon name="chevronRight" size={14} class="shrink-0 text-primary" aria-hidden="true" />
+                  <span>{item.name}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))
+      }
+    </div>
+
+    <div class="mt-6 flex justify-start">
+      <SlideRevealButton href={featuresHref}>{panel?.shopViewAllFeatures ?? 'See all features'}</SlideRevealButton>
+    </div>
+  </div>
+</section>
+
+<script>
+  const initLoaderDeckVideo = () => {
+    document.querySelectorAll<HTMLElement>('[data-loader-deck-video]').forEach((root) => {
+      if (root.dataset.deckVideoBound === 'true') return;
+      root.dataset.deckVideoBound = 'true';
+
+      const video = root.querySelector<HTMLVideoElement>('.product-shop-deck__video');
+      if (!video) return;
+
+      if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+      const webm = video.dataset.webm;
+      const mp4 = video.dataset.mp4;
+      if (!webm && !mp4) return;
+
+      const poster = root.querySelector<HTMLImageElement>('[data-deck-poster]');
+
+      const attachSources = () => {
+        if (video.dataset.sourcesAttached === 'true') return;
+        video.dataset.sourcesAttached = 'true';
+        if (webm) {
+          const source = document.createElement('source');
+          source.src = webm;
+          source.type = 'video/webm';
+          video.append(source);
+        }
+        if (mp4) {
+          const source = document.createElement('source');
+          source.src = mp4;
+          source.type = 'video/mp4';
+          video.append(source);
+        }
+        video.load();
+      };
+
+      const play = () => {
+        attachSources();
+        void video.play().then(() => {
+          video.classList.add('is-playing');
+          poster?.classList.add('is-hidden');
+        }).catch(() => {
+          /* poster remains visible if autoplay blocked */
+        });
+      };
+
+      if (!('IntersectionObserver' in window)) return;
+
+      const observer = new IntersectionObserver(
+        (entries) => {
+          if (!entries.some((entry) => entry.isIntersecting)) return;
+          observer.disconnect();
+          play();
+        },
+        { rootMargin: '120px 0px', threshold: 0.05 },
+      );
+      observer.observe(root);
+    });
+  };
+
+  initLoaderDeckVideo();
+  document.addEventListener('astro:page-load', initLoaderDeckVideo);
+  document.addEventListener('astro:after-swap', initLoaderDeckVideo);
+</script>

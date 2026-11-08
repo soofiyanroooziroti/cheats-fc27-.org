@@ -1,0 +1,1252 @@
+{
+  "site": {
+    "name": "FC27 Cheats",
+    "domain": "cheatsfc27.com",
+    "title": "FC27 Cheats",
+    "description": "EA SPORTS FC 27（Windows PC対応）向けのゲームプレイアシスト、キャリアモードおよびUltimate Teamツール、さらにModメニュー設定を備えたFC27チート。ワールドワイドに対応。USD価格設定。",
+    "discord": "https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fea-sports-fc-27"
+  },
+  "nav": [
+    {
+      "href": "/",
+      "label": "ホーム"
+    },
+    {
+      "href": "/products/fc27-cheats/",
+      "label": "製品"
+    },
+    {
+      "href": "/products/fc27-cheats/loader/#features",
+      "label": "機能"
+    },
+    {
+      "href": "/blog/",
+      "label": "ブログ"
+    },
+    {
+      "href": "/forum/",
+      "label": "フォーラム"
+    },
+    {
+      "href": "/faq/",
+      "label": "よくある質問"
+    },
+    {
+      "href": "/support/",
+      "label": "サポート"
+    }
+  ],
+  "headerNavLabels": {
+    "home": "ホーム",
+    "products": "ストア",
+    "features": "機能",
+    "blog": "ブログ",
+    "forum": "フォーラム",
+    "faq": "FAQ",
+    "support": "ヘルプ"
+  },
+  "navMore": "その他",
+  "navShort": {
+    "home": "ホーム",
+    "products": "製品",
+    "features": "機能",
+    "blog": "ブログ",
+    "forum": "フォーラム",
+    "faq": "FAQ",
+    "support": "サポート"
+  },
+  "hero": {
+    "status": "FC 27 — キャリア＆アルティメットチーム",
+    "eyebrow": "Windows PC · ワールドワイド",
+    "titleLine1": "Windows PC向け FC 27 チート — モッドメニューと価格",
+    "titleLine2": "CheatsFC27",
+    "subtitle": "Windows PCでのFC 27チート：試合、キャリア、アルティメットチームの補助機能を1つのモッドメニューに搭載。即時配信とDiscordサポートを提供。ワールドワイドでUSDな価格設定。",
+    "ctaPrimary": "商品を見る",
+    "ctaDiscord": "今すぐ購入",
+    "modesLabel": "モード",
+    "modes": [
+      "キャリア",
+      "アルティメットチーム",
+      "クラブ",
+      "シーズン"
+    ],
+    "marqueeAria": "機能とプラットフォームの対応状況",
+    "metrics": [
+      {
+        "label": "アンチチート",
+        "strong": "EA Javelin"
+      },
+      {
+        "label": "プラットフォーム",
+        "strong": "Windows PC"
+      },
+      {
+        "label": "プラン",
+        "strong": "$35 / $150"
+      },
+      {
+        "label": "サポート",
+        "strong": "24/7"
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "メニューグループ",
+    "title": "loader内の5つのタブ",
+    "subtitleLead": "製品UIに対応する5つのメニューグループ。 ",
+    "subtitleLinkLabel": "全機能リスト",
+    "subtitleTail": "を開いてすべてのトグルとスライダーを確認してください。",
+    "seeAllLabel": "すべての機能を見る",
+    "clients": [
+      "EA app",
+      "Steam",
+      "Epic Games Store"
+    ],
+    "items": [
+      {
+        "title": "アルティメットチーム",
+        "subtitle": "NoLoss、ディビジョンスプーファー、ドラフトラウンド、パックのスキップ、インスタントモーメント。"
+      },
+      {
+        "title": "ゲームプレイ",
+        "subtitle": "AI自動プレイ、スライダー、5つ星スキル、スタミナ、カスタム戦術。"
+      },
+      {
+        "title": "プロクラブ",
+        "subtitle": "バーチャルプロエディター、PlayStyles+、隠しステータス、XPブースト。"
+      },
+      {
+        "title": "ユーティリティ",
+        "subtitle": "安定したWindowsセッションのための同期ズレバイパスとALT-TABバイパス。"
+      },
+      {
+        "title": "保護機能",
+        "subtitle": "loader保護パネルによるアカウント保護。"
+      }
+    ]
+  },
+  "whyUs": {
+    "eyebrow": "選ばれる理由",
+    "title": "キャリアおよびアルティメットチームのシーズン：口先だけの約束ではなく、確実なパッチ対応",
+    "subtitle": "1つのチート製品、1つのHWID spoofer、そして1つのUGCリカバリーワークスace。チートとUGCは$35 monthlyまたは$150 lifetime、スプーファーは$50 monthlyまたは$150 lifetimeとなります。EA Javelinのもとでは依然としてBANのリスクがあります。",
+    "usLabel": "FC27 チート",
+    "otherLabel": "一般的なプロバイダー",
+    "rows": [
+      {
+        "title": "パッチ当日のloaderアップデート",
+        "desc": "FC 27またはEA Javelinのアップデート後は、loaderを開く前にcheatsfc27.comをご確認ください。"
+      },
+      {
+        "title": "個別のエイムスライダー",
+        "desc": "プレイヤーと対戦相手のスライダー、スキルムーブ、スタミナは、ゲームプレイオプション内で個別に切り替え可能です。1つずつ変更してから、[Misc]タブで保存してください。"
+      },
+      {
+        "title": "Loaderと設定のサポート",
+        "desc": "セットアップに関するご質問では、Windowsのloader、保存済み設定、およびハードウェアフラグとアカウント制限のどちらに該当するかを確認できます。"
+      },
+      {
+        "title": "製品ごとの個別の決済",
+        "desc": "チート、HWID spoofer、UGCリカバリーの決済はそれぞれ個別です。チートを購入してもLifetimeでスプーファーが追加されることはありません。"
+      },
+      {
+        "title": "保存済み設定",
+        "desc": "[Misc]タブの「設定の保存 / 読み込み」機能により、ゲームプレイ、FUT、クラブ、ユーティリティのプリセットを次回起動時まで保持できます。"
+      },
+      {
+        "title": "HWIDは独立した製品です",
+        "desc": "新規アカウントで失敗する端末の場合はスプーファーの対象となります。アカウントのみの制限はUGCの対象となります。どちらもチートキーには含まれません。"
+      }
+    ],
+    "metrics": [
+      {
+        "value": "EA Javelin",
+        "title": "パッチ後の確認",
+        "desc": "FC 27またはEA Javelinのアップデート後は、起動する前にサイトを再確認してください。"
+      },
+      {
+        "value": "2",
+        "title": "すべてのカードで利用可能なプラン",
+        "desc": "チートとUGCのmonthlyは31日間$35です。スプーファーのmonthlyは$50です。Lifetimeは製品ごとに$150です。週単位のプランはありません。"
+      },
+      {
+        "value": "3",
+        "title": "独立した製品群",
+        "desc": "FC27チート、HWID spoofer、そしてUGCリカバリー。それぞれが個別のキーとなります。"
+      }
+    ]
+  },
+  "setup": {
+    "eyebrow": "セットアップガイド",
+    "titleLead": "購入から最初のサーバー起動まで、わずか",
+    "titleHighlight": "3つの簡単なステップ",
+    "intro": "ご利用開始の流れは、決済完了、ポータル利用開始（loader）、そして設定の保存となります。EA Javelinやゲームのアップデートがあった場合は、FC 27を起動する前に必ずサイトをご確認ください。",
+    "ctaPrimary": "製品を見る",
+    "ctaSecondary": "セットアップFAQ",
+    "ctaPrimaryHref": "/products/fc27-cheats/",
+    "ctaSecondaryHref": "/faq/",
+    "statusStrip": {
+      "aceStatusCta": "EA Javelinのステータスを確認",
+      "aceStatusHref": "/status/",
+      "perks": [
+        {
+          "icon": "instantDelivery",
+          "label": "即時配信"
+        },
+        {
+          "icon": "support247",
+          "label": "24/7サポート"
+        },
+        {
+          "icon": "refresh",
+          "label": "Lifetimeアップデート"
+        }
+      ]
+    },
+    "steps": [
+      {
+        "step": "ステップ 1",
+        "title": "ポータルの解放とloaderのダウンロード",
+        "desc": "決済を完了し、オペレーターダッシュボードを開いて、Windows向けの最新パッチ（loader）ビルドを取得します。"
+      },
+      {
+        "step": "ステップ 2",
+        "title": "起動とモジュールの設定",
+        "desc": "loaderを実行し、設定を保存する前に、FUT、ゲームプレイ、プロクラブ、ユーティリティ、各種切り替えスイッチをタブごとに設定します。"
+      },
+      {
+        "step": "ステップ 3",
+        "title": "ステータス確認後に起動",
+        "desc": "本クライアントに対応した最新の状態であることをサイトで確認し、保存した設定でFC 27を起動します。"
+      }
+    ]
+  },
+  "compatibility": {
+    "eyebrow": "プラットフォーム対応",
+    "title": "お使いの環境で動作します。",
+    "subtitle": "FC 27やEA Javelinのアップデート後は、起動前に必ずサイトをご確認ください。",
+    "items": [
+      "HVCI ON",
+      "コア分離 ON",
+      "TPM ON",
+      "SECURE BOOT ON",
+      "WINDOWS 10 および 11",
+      "クラウドDMA必須",
+      "パッチ適用後のステータス確認",
+      "Discordサポート",
+      "設定保存機能"
+    ]
+  },
+  "cheats": {
+    "eyebrow": "ゲームチート",
+    "title": "FC27 チート",
+    "subtitle": "FUT、ゲームプレイ、プロクラブ、ユーティリティ、そして保護オプションが1つのWindows loaderに。",
+    "viewAll": "詳細を見る",
+    "explore": "探索する",
+    "items": [
+      {
+        "badge": "稼働中",
+        "tier": "フルスイート",
+        "name": "FC 27",
+        "title": "FC27 チート",
+        "desc": "Ultimate Team、ゲームプレイ、プロクラブ、ユーティリティ、保護タブを搭載したLoader。どのプランでもメニューは共通です。",
+        "features": [
+          "Ultimate Team オプション",
+          "ユーティリティ",
+          "ゲームプレイ オプション",
+          "プロクラブ オプション",
+          "保護機能"
+        ],
+        "more": 0,
+        "href": "/products/fc27-cheats/loader/",
+        "variant": "popular"
+      }
+    ]
+  },
+  "products": {
+    "eyebrow": "プロダクト",
+    "title": "製品と価格",
+    "subtitle": "FC27 チートおよびUGC：$35/moまたは$150 lifetime。HWID spoofer：$50/moまたは$150 lifetime。",
+    "viewAll": "詳細を見る",
+    "get": "今すぐ購入",
+    "explore": "探索する",
+    "items": [
+      {
+        "badge": "稼働中",
+        "category": "HWID spoofer",
+        "title": "HWID Spoofer",
+        "subtitle": "ハードウェアIDの復旧",
+        "desc": "クリーナー付きのHWID spoofer。ハードウェアフラグ検出後の再起動前に、ディスク、MAC、GPUのIDをローテーションします。",
+        "features": [
+          "ハードウェアスプーファー ＋ クリーナー",
+          "互換性スキャン",
+          "検証手順",
+          "ポータルワークフロー"
+        ],
+        "more": 4,
+        "href": "/products/fc27-cheats/hwid-spoofer/"
+      },
+      {
+        "badge": "稼働中",
+        "category": "UGC Account recovery",
+        "title": "UGC Account recovery",
+        "subtitle": "異議申し立てと復旧",
+        "desc": "UGC Account recoveryワークスace - カスタム異議申し立てワークフロー、テンプレート、制限追跡機能。",
+        "features": [
+          "カスタム異議申し立てワークフロー",
+          "マルチプラットフォームプロフィール",
+          "テンプレートライブラリ",
+          "ステータスダッシュボード"
+        ],
+        "more": 4,
+        "href": "/products/fc27-cheats/ugc/"
+      }
+    ]
+  },
+  "blog": {
+    "eyebrow": "ブログ",
+    "title": "公開されたFC 27ガイド",
+    "subtitle": "Ultimate Team、キャリアモード、プロクラブ、HWIDフラグ、およびEA Javelinのもとでメニューの切り替えが無効化されない理由についての公開ノート。",
+    "latestTitle": "FC 27のメニューとモードに関する公開ガイド",
+    "latestSubtitle": "トピックで絞り込むか、機能、ハードウェアフラグ、タイトルアップデートv1.1.0に関する公開ノートを並べ替えます。",
+    "filterAll": "すべての記事",
+    "sortLabel": "並び替え",
+    "sortNewest": "新しい順",
+    "sortOldest": "古い順",
+    "sortShortRead": "短い順",
+    "sortLongRead": "長い順",
+    "emptyFilter": "条件に一致する記事はありません。",
+    "emptyCatalog": "このビューにリストされているガイドはありません。トピックフィルターまたは製品ページを開いてください。",
+    "viewAll": "すべての記事を表示",
+    "read": "読む",
+    "items": [],
+    "minRead": "分で読めます",
+    "filterByTopicAria": "トピックで記事を絞り込む",
+    "continueReadingAria": "続きを読む",
+    "articleUpdated": "更新日",
+    "keyTakeawaysTitle": "主なポイント",
+    "relatedFaqsTitle": "関連するよくある質問",
+    "relatedFaqsSubtitle": "この記事に関する簡単な回答。FAQページでは、プラン、セットアップ、EA Javelinについて解説しています。",
+    "tagLabels": {
+      "Review": "レビュー",
+      "Install": "インストール",
+      "Safety": "セキュリティ",
+      "Plans": "プラン",
+      "Aim": "エイム",
+      "ESP": "メニュー",
+      "Loot": "アイテム",
+      "Visuals": "ビジュアル",
+      "Camera": "カメラ",
+      "Guide": "ガイド"
+    }
+  },
+  "toolkit": {
+    "eyebrow": "ソフトウェア",
+    "title": "整理されていて設定も簡単",
+    "subtitle": "5つのサイドバータブがloaderに対応：FUT、ゲームプレイ、クラブ、ユーティリティ、セキュリティ。",
+    "items": [
+      {
+        "num": "01",
+        "label": "FUT",
+        "title": "Ultimate Teamオプション",
+        "desc": "NoLoss、ディビジョンおよびチャンピオンズのスポーファー、対戦相手の情報、ドラフトラウンド、パックのスキップ、インスタントモーメント。"
+      },
+      {
+        "num": "02",
+        "label": "Utils",
+        "title": "ユーティリティ",
+        "desc": "Windows PCでのALT-TAB切り替え時やデスインク発生時のデスインクバイパスとALT-TABバイパス。"
+      },
+      {
+        "num": "03",
+        "label": "Match",
+        "title": "ゲームプレイオプション",
+        "desc": "AIオートプレイ、プレイヤーと対戦相手のスライダー、5つ星のスキルと逆足、スタミナ、カスタム戦術。"
+      },
+      {
+        "num": "04",
+        "label": "Clubs",
+        "title": "プロクラブオプション",
+        "desc": "バーチャルプロエディター、VPROスライダー、PlayStyles+、隠しステータス、XPブースト。"
+      },
+      {
+        "num": "05",
+        "label": "Safety",
+        "title": "セキュリティ",
+        "desc": "ゲームプレイやFUTモジュールを有効化する前の保護機能。"
+      }
+    ]
+  },
+  "workflow": {
+    "eyebrow": "ご利用の流れ",
+    "badge": "簡単な4ステップ",
+    "titleBefore": "ステータス確認から",
+    "titleHighlight": "プロファイルの保存まで。",
+    "subtitle": "ステータスチェックからFC 27設定の保存までスムーズに完了します。",
+    "ctaLabel": "製品を見る",
+    "ctaHref": "/products/fc27-cheats/",
+    "ctaSecondary": "セットアップFAQ",
+    "ctaSecondaryHref": "/faq/",
+    "items": [
+      {
+        "num": "01",
+        "phase": "購入前",
+        "title": "EA Javelinのステータスを確認",
+        "desc": "購入や起動の前に、クライアントまたはEA Javelinのアップデート後は cheatsfc27.com をご確認ください。"
+      },
+      {
+        "num": "02",
+        "phase": "決済",
+        "title": "製品を選択",
+        "desc": "FC27 CheatsまたはUGC: $35 monthlyまたは$150 lifetime。HWID Spoofer: $50 monthlyまたは$150 lifetime。キーはそれぞれ別個です。"
+      },
+      {
+        "num": "03",
+        "phase": "Loader",
+        "title": "起動と設定",
+        "desc": "ポータルからダウンロードします。HVCI、コア分離、TPM、secure bootは有効のままにしてください。"
+      },
+      {
+        "num": "04",
+        "phase": "ゲーム内",
+        "title": "プロファイルを保存",
+        "desc": "メニューの切り替えが快適になったら、設定を保存します。"
+      }
+    ]
+  },
+  "fieldNotes": {
+    "eyebrow": "実戦ノート",
+    "title": "Windows PCのFC 27向けに構築。",
+    "items": [
+      {
+        "num": "01",
+        "title": "パッチ当日の確認",
+        "desc": "EA Javelinやクライアントのアップデート後は必ずサイトをご確認ください。昨日のバナーは現在のビルドを示すものではありません。"
+      },
+      {
+        "num": "02",
+        "title": "スライダーは1つずつ",
+        "desc": "どの設定が影響したか把握できるよう、スライダーは1つずつ変更してください。"
+      },
+      {
+        "num": "03",
+        "title": "個別の製品",
+        "desc": "チート、HWID spoofer、UGCリカバリーはそれぞれ別の決済が必要です。どれか1つ購入しても、他のものはアンロックされません。"
+      }
+    ]
+  },
+  "support": {
+    "eyebrow": "サポート",
+    "title": "FC 27 サポート",
+    "subtitle": "お気軽にお問い合わせください。",
+    "channels": [
+      {
+        "icon": "users",
+        "title": "購入前のチャット",
+        "desc": "決済前に、チート、スプーファー、または UGC についてご質問ください。",
+        "linkLabel": "決済へ進む",
+        "href": "https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fea-sports-fc-27"
+      },
+      {
+        "icon": "messageCircle",
+        "title": "コミュニティフォーラム",
+        "desc": "セットアップ、エイム、オーバーレイ、プランに関する質問（開発者の返信マーク付き）。",
+        "linkLabel": "フォーラムを開く",
+        "href": "/forum/"
+      },
+      {
+        "icon": "navFaq",
+        "title": "FAQを読む",
+        "desc": "互換性、利用制限、セットアップについて、購入前にご確認いただけます。",
+        "linkLabel": "すべてのFAQを見る",
+        "href": "/faq/"
+      },
+      {
+        "icon": "clock",
+        "title": "ライブオペレーター",
+        "desc": "Discord のエンジニアが24/7.体制で常駐しています",
+        "linkLabel": "お問い合わせページを開く",
+        "href": "/support/"
+      }
+    ],
+    "ticketTitle": "チケットに含める内容",
+    "ticketItems": [
+      {
+        "title": "注文メールアドレス",
+        "desc": "cheatsfc27.com の決済時に使用したアドレス。"
+      },
+      {
+        "title": "プラットフォーム",
+        "desc": "WINDOWS 10 および 11 に対応。HVCI、コア分離、TPM、secure boot、クラウド DMA にも対応しています。"
+      },
+      {
+        "title": "エラーの詳細",
+        "desc": "要約せず、正確な loader メッセージ。"
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "よくある質問",
+    "title": "購入前の明確な回答。",
+    "subtitle": "対応状況、BAN、アクセスについて—曖昧な約束はありません。",
+    "items": [
+      {
+        "id": "javelin",
+        "topic": "safety",
+        "icon": "faqBanRisk",
+        "q": "FC27のチートはEA Javelinで動作しますか？",
+        "a": "loaderはEA Javelinの稼働中、Windows PC上のEA SPORTS FC 27で使用できます。BANやペナルティを完全に防ぐものではなく、いかなる動作保証もしていません。起動する前に、クライアントやEA Javelinのアップデートごとにステータスページをご確認ください。",
+        "aHtml": "loaderはEA Javelinの稼働中、Windows PC上のEA SPORTS FC 27で使用できます。BANやペナルティを完全に防ぐものではなく、いかなる動作保証もしていません。起動する前に、各クライアントやEA Javelinのアップデート後に<a href=\"/status/\">ステータスページ</a>をご確認ください。"
+      },
+      {
+        "id": "ultimate-team",
+        "topic": "products",
+        "icon": "faqProductsPage",
+        "q": "アルティメットチームのオプションには何が含まれますか？",
+        "a": "NoLoss、ディビジョンスプーファー、チャンピオンズ勝利数/Lossスプーファー、チャンピオンズラウンドスプーファー、対戦相手の名前・プラットフォーム表示、ドラフトラウンド変更、パック演出スキップ、インスタントモーメントが含まれます。"
+      },
+      {
+        "id": "pro-clubs",
+        "topic": "products",
+        "icon": "faqProductsPage",
+        "q": "プロクラブでも使用できますか？",
+        "a": "はい。プロクラブオプションには、バーチャルプロ能力値エディター、VPROスライダー、プレイスタイル、プレイスタイル+、隠しステータス99、XPブーストが含まれます。ゲームプレイとアルティメットチームはタブが分かれています。"
+      },
+      {
+        "id": "lifetime-spoofer",
+        "topic": "plans",
+        "icon": "faqComparePlans",
+        "q": "$150 lifetimeプランにはスプーファーが含まれていますか？",
+        "a": "いいえ。FC27チートのLifetimeは単体製品です。HWID spooferは31日間で50ドル、または個別購入の場合は$150 lifetimeとなります。UGCの復旧は3つ目のチェックアウトになります。",
+        "scopes": [
+          "loader",
+          "hwid-spoofer",
+          "ugc"
+        ]
+      },
+      {
+        "id": "patch-speed",
+        "topic": "setup",
+        "icon": "faqStatus",
+        "q": "パッチ適用後、アップデートはどれくらいで完了しますか？",
+        "a": "正確な時間は決まっていません。FC 27またはEA Javelinのアップデート後はステータスページをご確認ください。インストールしたビルドと注意事項が一致するまで、loaderは起動しないでください。",
+        "aHtml": "正確な時間は決まっていません。FC 27またはEA Javelinのアップデート後は<a href=\"/status/\">ステータスページ</a>をご確認ください。インストールしたビルドと注意事項が一致するまで、loaderは起動しないでください。"
+      },
+      {
+        "id": "launchers",
+        "topic": "setup",
+        "icon": "faqPlatforms",
+        "q": "どのPCランチャーに対応していますか？",
+        "a": "Windows PC上のEA SPORTS FC 27向けに、EA app、Steam、Epic Games Storeに対応しています。"
+      },
+      {
+        "id": "requirements",
+        "topic": "setup",
+        "icon": "faqPlatforms",
+        "q": "システム要件は何ですか？",
+        "a": "Windows 10およびWindows 11です。HVCI、コア分離、TPM、Secure Bootを有効にしておく必要があります。macOSおよびLinuxは非対応です。"
+      },
+      {
+        "id": "support",
+        "topic": "setup",
+        "icon": "faqAfterBuy",
+        "q": "サポートを受けるにはどうすればよいですか？",
+        "a": "注文確認メール、Windowsのバージョン、正確なloaderのエラーテキストを添えてサポートページを開いてください。",
+        "aHtml": "注文確認メール、Windowsのバージョン、正確なloaderのエラーテキストを添えて<a href=\"/support/\">サポートページ</a>を開いてください。"
+      }
+    ],
+    "filterTopics": {
+      "all": "すべて",
+      "plans": "プラン",
+      "safety": "セキュリティ",
+      "products": "製品",
+      "setup": "セットアップ"
+    }
+  },
+  "footer": {
+    "tagline": "Windows PC向けFC27チート、HWID spoofer、UGCリカバリー。cheatsfc27.com",
+    "explore": "探索",
+    "exploreLinks": [
+      {
+        "href": "/products/fc27-cheats/loader/#features",
+        "label": "機能概要",
+        "ariaLabel": "機能"
+      },
+      {
+        "href": "/products/fc27-cheats/loader/",
+        "label": "FC27チート",
+        "ariaLabel": "FC27チート"
+      },
+      {
+        "href": "/products/fc27-cheats/",
+        "label": "すべての製品",
+        "ariaLabel": "製品"
+      },
+      {
+        "href": "/blog/",
+        "label": "パッチガイドを読む",
+        "ariaLabel": "ブログ"
+      },
+      {
+        "href": "/faq/",
+        "label": "購入前よくある質問",
+        "ariaLabel": "FAQ"
+      }
+    ],
+    "support": "サポート",
+    "legal": "規約とポリシー",
+    "moreSites": "その他のサイト",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "about": "運営元について",
+    "resourceLinks": [
+      {
+        "label": "ブログアーカイブ",
+        "ariaLabel": "ブログ"
+      },
+      {
+        "label": "FC27チート",
+        "ariaLabel": "FC27チート"
+      },
+      {
+        "label": "製品とユーティリティ",
+        "ariaLabel": "製品"
+      }
+    ]
+  },
+  "legalPages": {
+    "about": {
+      "title": "FC 27 ストアについて",
+      "description": "cheatsfc27.comでは、FC27向けのチートツール（HWID spooferおよびUGC account recovery)をWindows PC向けに販売しており、セットアップの手順や BAN リスクについても正直に記載しています。",
+      "sections": [
+        {
+          "heading": "運営者情報",
+          "paragraphs": [
+            "cheatsfc27.comは、FC27チート、HWID spoofer、UGC account recoveryを取り扱うWindows PCストアです。本チートは、FUT、ゲームプレイ、プロクラブ、便利機能、保護タブが一体となったloaderプロダクトです。対応ビルドでフル機能を利用するには、クラウドDMAが必須となります。ライト、プロ、エリートといった段階的なプランはありません。",
+            "FC27チートおよびUGCは、$35にて31日間または$150 lifetimeでご購入いただけます。HWID spooferの価格は31日間で50ドル、または$150 lifetimeとなります。チートのlifetimeキーには、スプーファーやリカバリー作業スペースaceは含まれていません。月途中の購入であっても、lifetimeへの日割りクレジット等は適用されません。",
+            "当サイト上の製品名は取り扱い内容を示すためのものであり、ゲームのパブリッシャーが本ソフトウェアを推奨していることを意味するものではありません。納品はWindows 10または11向けのポータルダウンロードとなります。HVCI、コア分離、TPM、secure bootを有効にした状態を維持し、サイト上のバージョンが現行クライアントと一致している場合のみloaderを起動してください。"
+          ]
+        },
+        {
+          "heading": "掲載コンテンツについて",
+          "paragraphs": [
+            "[FC27チート](/products/fc27-cheats/loader/))のページには、メニュー名とシステム要件（HVCI、コア分離、TPM、secure bootが有効であること、WINDOWS 10および11の両方に対応、フル機能にはクラウドDMAが必要）が記載されています。[製品ページ](/products/fc27-cheats/))では、チート、[HWID Spoofer](/products/fc27-cheats/hwid-spoofer/),)、[UGC Account recovery](/products/fc27-cheats/ugc/).)を比較できます。",
+            "[ブログ](/blog/))のガイドでは、loaderタブの解説、ハードウェアフラッグがアカウントのペナルティ異議申し立てとは異なる理由、パッチ後に確認すべきポイントを説明しています。[フォーラム](/forum/))は同様の疑問を共有する場であり、開発者からの返信にはスレッド内でマークが付けられます。購入前に[利用規約](/terms/))をお読みください。BANを含め、一度購入された商品の返品・返金はできません。",
+            "EA Javelinは引き続きアカウントに対して検出措置を講じる可能性があります。次回のパッチ適用後もセッションが完全に保護されるという保証はありません。クライアントのアップデート後は、loaderを起動する前に必ずこのサイトをご確認ください。現在のビルドに対応していない場合は、ソフトウェアを起動しないでください。",
+            "ホームページ上のステータス情報は、公開中のビルドが現行クライアントと一致しているかどうかを示しています。これは、EA Javelinがソフトウェアを検知しないことを保証するものではありません。不明な点がある場合は、loaderを起動せず、マッチメイキングを行う前にブログの該当ガイドをお読みください。"
+          ]
+        },
+        {
+          "heading": "サポート",
+          "paragraphs": [
+            "Loaderエラー、認証キーのトラブル、購入に関するご質問は、[サポートページ](/support/).)よりお問い合わせください。お問い合わせの際は、注文時のメールアドレス、Windowsのバージョン、正確なloaderのエラーテキストをご記載ください。他ゲームのチャット等で指示されたからといって、HVCI、コア分離、TPM、secure bootを無効化しないでください。"
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "プライバシーポリシー",
+      "description": "cheatsfc27.comにおけるアクセス解析、クッキー、およびお問い合わせデータの取り扱いについて説明します。",
+      "sections": [
+        {
+          "heading": "収集する情報",
+          "paragraphs": [
+            "Google Analyticsが有効な場合、ページビュー、デバイスの種類、ブラウザ、おおよその地域などの標準的なウェブ解析データを収集する場合があります。ご購入手続きおよびライセンスの納品は外部のチェックアウトページで行われます。cheatsfc27.comのサーバー上でクレジットカード情報を保管することはありません。"
+          ]
+        },
+        {
+          "heading": "データの利用目的",
+          "paragraphs": [
+            "アクセス解析は、どのガイドや製品ページが役立っているかを把握し、コンテンツの改善やリンク切れの修正を行うために利用します。サポートチケットに記載されたメールアドレスおよびメッセージ内容は、問題が解決するまで保持される場合があります。"
+          ]
+        },
+        {
+          "heading": "クッキー（Cookie）",
+          "paragraphs": [
+            "当サイトでは、アクセス解析に必要な最小限のクッキーを使用しています。ブラウザの設定でクッキーをブロックすることも可能であり、その場合でもサイトの主要コンテンツは引き続きご利用いただけます。"
+          ]
+        },
+        {
+          "heading": "サポート",
+          "paragraphs": [
+            "プライバシーに関するご質問は、サポートページの各項目よりお問い合わせください。ご購入およびご返金に関するルールについては、利用規約をご確認ください。"
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "利用規約",
+      "description": "cheatsfc27.comで販売されている商品の購入、ライセンス、返金、利用に関する規約です。",
+      "sections": [
+        {
+          "heading": "同意事項",
+          "paragraphs": [
+            "最終更新日: 2026年10月。cheatsfc27.comのご利用、または掲載商品の購入手続きを完了することにより、本利用規約およびプライバシーポリシーに同意したものとみなされます。"
+          ]
+        },
+        {
+          "heading": "購入内容",
+          "paragraphs": [
+            "FC27用チート（HWID spooferおよびUGC account recovery）を販売しています。チートとUGCは31日間または$150 lifetimeの$35です。スプーファーは31日間または$150 lifetimeで50ドルです。各商品は、Windows PC上のポータルを通じた独自のライセンスとなります。",
+            "各商品ページの機能一覧には、購入時点での内容が記載されています。FC 27やEA Javelinのアップデートに伴い、モジュールは変更される場合があります。lifetimeのチートキーには、スプーファーやUGCは含まれません。"
+          ]
+        },
+        {
+          "heading": "決済と配信",
+          "paragraphs": [
+            "決済およびライセンスの配信は、外部のチェックアウトページで行われます。cheatsfc27.comでは、支払いカード番号の処理や保存は行いません。",
+            "購入後は、注文に関するポータルを利用して、FC 27を起動する前に現在のloaderをダウンロードしてください。HVCI、コア分離、TPM、secure bootを有効にしたままにしてください。"
+          ]
+        },
+        {
+          "heading": "ライセンスの利用",
+          "paragraphs": [
+            "ライセンスは個人利用に限定されます。loaderファイル、ポータルのログイン情報、ライセンスキーを共有しないでください。ハードウェアIDに関する問題は、別途HWID Spooferの購入対象となります。"
+          ]
+        },
+        {
+          "heading": "返金と購入",
+          "paragraphs": [
+            "チェックアウト完了後のすべての販売は最終的なものとなります。お客様都合による購入、アカウントのBAN、EA Javelinによるペナルティ、セットアップの注意事項の無視、または該当パッチに対してサイトが最新の状態ではない状態で起動したことに起因する問題については、返金いたしません。",
+            "サポートされている環境（HVCI、コア分離、TPM、secure bootが有効なWindows 10または11、およびポータルからの最新のloader）で商品説明通りに製品が動作しない場合は、サポートページよりお問い合わせください。注文時のメールアドレス、Windowsのバージョン、正確なloaderのテキストを記載してください。",
+            "当社側での不具合を確認した場合、当社の裁量により、修正、代替aceアクセスの付与、または一部/full返金を行う場合があります。すべてのリクエストの承認を保証するものではありません。"
+          ]
+        },
+        {
+          "heading": "可用性とリスク",
+          "paragraphs": [
+            "FC 27用のサードパーティ製ツールは、ゲームのアップデートやEA Javelinと競合する可能性があります。アカウントに対する措置の可能性を含め、本ソフトウェアの使用は自己責任となります。",
+            "セッションを開始する前に、ホームページのステータスバナーを必ず確認してください。パッチ適用後にモジュールがオフラインまたは不整合の状態である間は、メインサーバーに参加しないでください。"
+          ]
+        },
+        {
+          "heading": "規約の変更",
+          "paragraphs": [
+            "当社は本規約を更新する場合があります。その際、ページ上部の「最終更新日」が変更されます。変更後もサイトの利用を継続される場合は、改定後の規約に同意されたものとみなされます。"
+          ]
+        },
+        {
+          "heading": "サポート",
+          "paragraphs": [
+            "規約、請求、またはloaderに関するご質問は、サポートページのボタンをご利用ください。サイトデータの取り扱いについては、プライバシーポリシーもあわせてご覧ください。"
+          ]
+        }
+      ]
+    },
+    "support": {
+      "title": "FC 27 サポート",
+      "description": "cheatsfc27.comにおけるLoader、HWID spoofer、UGC、およびチェックアウトに関するヘルプです。"
+    }
+  },
+  "productCatalog": {
+    "searchHeading": "製品とプランを見る",
+    "utilityCategory": "ユーティリティ",
+    "buyLoader": "loaderを購入",
+    "buyHwidSpoofer": "HWID spooferを購入",
+    "buyUgcRecovery": "UGCリカバリーを購入"
+  },
+  "utilitiesPage": {
+    "title": "ユーティリティを比較",
+    "subtitle": "HWID SpooferとUGC Account recoveryはそれぞれ異なる課題を解決します。購入前に、PCまたはアカウントに最適なツールを選択してください。",
+    "breadcrumb": "ユーティリティを比較",
+    "tableAria": "ユーティリティの比較",
+    "columnUtility": "ユーティリティ",
+    "columnBestFor": "おすすめの用途",
+    "columnProductPage": "製品ページ",
+    "includesLabel": "含まれるもの:",
+    "backToProducts": "製品一覧に戻る",
+    "viewCategory": "{category}を表示",
+    "viewDetailsFallback": "詳細",
+    "schemaName": "FC 27 ユーティリティの比較",
+    "useCases": {
+      "hwid-spoofer": "BAN後の新しいPCやハードウェアフラグに対応。新規アカウント作成前にマシンの識別情報をリセットします。",
+      "ugc": "アクセス制限時の構造化された異議申し立てとアカウント復旧ワークフロー。"
+    }
+  },
+  "sectionSearch": {
+    "blogHeading": "トピック別にガイドを絞り込む",
+    "supportHeading": "ヘルプトピックを見る"
+  },
+  "ui": {
+    "skipLink": "メインコンテンツへスキップ",
+    "browseCheats": "今すぐ試す",
+    "browseCheatsMobile": "購入手続きへ",
+    "homeAria": "FC27 Cheats ホーム",
+    "checkoutAria": "購入手続きへ",
+    "discordAria": "FC27 Cheats を購入",
+    "menuOpen": "メニューを開く",
+    "menuClose": "メニューを閉じる",
+    "themeLight": "ライトモードに切り替え",
+    "themeDark": "ダークモードに切り替え",
+    "searchPlaceholder": "プロダクト、ガイド、FAQを検索…",
+    "searchEmpty": "入力してサイト内を検索します。",
+    "searchNoResults": "結果が見つかりません。別のキーワードをお試しください。",
+    "searchCloseAria": "検索を閉じる",
+    "searchTitle": "検索",
+    "searchOpenAria": "サイト内検索",
+    "contactSupport": "サポートに問い合わせ",
+    "searchResultsAria": "検索結果",
+    "searchHintNavigate": "移動",
+    "searchHintOpen": "開く",
+    "searchHintClose": "閉じる",
+    "searchKeyboardEnter": "Enter",
+    "searchKeyboardEsc": "Esc",
+    "primaryNavAria": "メイン",
+    "mobileNavAria": "モバイル",
+    "shareNavAria": "このページをシェア",
+    "shareOnX": "Xでシェア",
+    "shareOnFacebook": "Facebookでシェア",
+    "shareOnReddit": "Redditでシェア",
+    "prevImage": "前の画像",
+    "nextImage": "次の画像",
+    "heroSlidesAria": "ヒーローースライド",
+    "slideLabel": "スライド {n}",
+    "prevScreenshot": "前のスクリーンショット",
+    "nextScreenshot": "次のスクリーンショット",
+    "loading": "読み込み中"
+  },
+  "language": {
+    "label": "言語",
+    "selectAria": "サイトの言語を選択"
+  },
+  "exploreSection": {
+    "eyebrow": "探索",
+    "title": "サイト上のすべてのコンテンツに",
+    "titleAccent": "ワンクリックでアクセス",
+    "subtitle": "メニューを探し回ることなく、製品、パッチノート、ガイド、ヘルプにすばやくジャンプできます。",
+    "badgeProduct": "製品",
+    "badgeActive": "アクティブ",
+    "cards": {
+      "cheats": {
+        "title": "FC27 チート",
+        "desc": "Ultimate Team、ゲームプレイ、Pro Clubs、ユーティリティ、そして保護機能が1つのWindows loaderに。"
+      },
+      "spoofer": {
+        "title": "HWID Spoofer",
+        "desc": "ハードウェアBAN後のハードウェアプロファイルローテーション。"
+      },
+      "ugc": {
+        "title": "UGC Account Recovery",
+        "desc": "ロックされたゲームアカウントの異議申し立てワークスace。"
+      },
+      "plans": {
+        "title": "プラン",
+        "desc": "各製品カードでmonthlyとlifetimeを比較。"
+      },
+      "features": {
+        "title": "機能",
+        "desc": "FC27 チートページのloaderメニュー。"
+      },
+      "status": {
+        "title": "ステータス",
+        "desc": "パッチノートとEA Javelinのアップデート情報。"
+      },
+      "faq": {
+        "title": "よくある質問",
+        "desc": "プラン、セットアップ、EA Javelinのリスク、および製品について。"
+      },
+      "support": {
+        "title": "サポート",
+        "desc": "Loader、決済、ポータルのヘルプ。"
+      },
+      "blog": {
+        "title": "ブログ",
+        "desc": "エイム、オーバーレイ、パッチ当日のガイド。"
+      },
+      "forum": {
+        "title": "フォーラム",
+        "desc": "開発者の返信付きスレッド。"
+      }
+    }
+  },
+  "pricing": {
+    "checkout": "レジに進む",
+    "purchaseOption": "購入オプション",
+    "selectSubscription": "サブスクリプションを選択",
+    "bestValue": "一番お得",
+    "savePrefix": "割引",
+    "total": "合計",
+    "buyNow": "今すぐ購入",
+    "oneMonth": "1 Month",
+    "lifetime": "Lifetime",
+    "mostPopular": "人気No.1",
+    "plusMore": "+N more",
+    "monthlySuffix": " monthly",
+    "lifetimeSuffix": " lifetime",
+    "monthlyPlanNote": "31日間のアクセス権 · チェックアウト時に自動更新",
+    "lifetimePlanNote": "一回払い · 自動更新なし",
+    "plansSameFeaturesNote": "どちらのプランも機能は同じです。異なるのは利用期間のみです。",
+    "selectPlanAria": "プランの期間を選択"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "ページが見つかりません",
+    "description": "お探しのURLは存在しないか、移動した可能性があります。ホームページに戻るか、製品をご覧ください。",
+    "metaDescription": "cheatsfc27.comでお探しのページが見つかりませんでした。",
+    "metaTitleSuffix": "ページが見つかりません",
+    "backHome": "ホームに戻る",
+    "viewProducts": "製品を見る",
+    "openForum": "フォーラムを開く"
+  },
+  "status": {
+    "eyebrow": "パッチノート",
+    "title": "FC 27 モジュールのステータス",
+    "subtitle": "タイトルアップデート v1.1.0（2026年10月27日）：Ultimate Team、キャリア、Clubs、および EA Javelin のノート。起動前に、クライアントのアップデートごとに確認してください。",
+    "pageDesc": "タイトルアップデート v1.1.0 が2026年10月27日にリリースされました。FC 27 または EA Javelin のアップデート後、起動する前にこのページとポータルをご確認ください。「更新済み」とは、ノートが該当するビルドに適合していることを意味します。動作保証を謳うものではありません。",
+    "breadcrumb": "ステータス",
+    "aceReminderLabel": "EA Javelin のリマインダー",
+    "aceReminder": "EA Javelin またはクライアントのアップデート後は、起動前にこのページを確認してください。",
+    "recentTitle": "最近のアップデート",
+    "activeLinePrefix": "最終確認",
+    "activeLineActive": "有効",
+    "activeLineUpdated": "更新日: {date}",
+    "storeLineup": "ストアのラインナップ",
+    "latestLabel": "最新",
+    "updates": [
+      {
+        "title": "タイトルアップデート v1.1.0",
+        "icon": "tag",
+        "when": "2026年10月27日",
+        "summary": "タイトルアップデート v1.1.0では、利便性の向上、小規模なモードの修正、およびより厳格な競技セキュリティが適用されます。ゲームプレイのバランスや物理演算の再調整はありません。PCビルドではより厳格なプラットフォームチェックが強化され、オンラインマッチの公平性が保たれます。起動する前にこの注意事項をお読みください。"
+      },
+      {
+        "title": "アルティメットチーム",
+        "icon": "zap",
+        "when": "2026年10月27日",
+        "summary": "高OVRパックの開封演出が短縮されました。スカッドビルディングチャレンジのフィルター選択がセッションをまたいで保存されるようになりました。"
+      },
+      {
+        "title": "キャリアモード",
+        "icon": "settings",
+        "when": "2026年10月27日",
+        "summary": "チーム管理のUIが再構築されました。記者会見や予期せぬイベントに関する新しい切り替え項目が追加されました。移籍や契約の拒否に関するフィードバックがより分かりやすくなりました。"
+      },
+      {
+        "title": "ザ・グラウンド / クラブ",
+        "icon": "mapHack",
+        "when": "2026年10月27日",
+        "summary": "試合終了時のUIの重なりを修正しました。1つのチームが同時に2人のゴールキーパーをフィールドに出せてしまうバグを修正しました。"
+      },
+      {
+        "title": "EA Javelinおよびサードパーティ製ツール",
+        "icon": "shield",
+        "when": "2026年10月27日",
+        "summary": "PCビルドでは、カーネルレベルのEA Javelinが有効に維持され、許可されていないバックグラウンドアプリのスキャンが行われます。このパッチは、自動SBCクライアント、Pedモディングフレームワーク、試合操作インジェクター、勝敗共有クライアントなどの禁止された外部ツールを対象としています。起動時にブラックリストに登録されたソフトウェアが検出された場合、セキュリティ違反によるキックまたはデスクトップへの強制終了が発生する可能性があります。loaderを開く前に、このページがインストール済みのビルドと一致していることを確認してください。"
+      },
+      {
+        "title": "「更新済み」は保護を保証するものではありません",
+        "icon": "alert",
+        "when": "2026年10月27日",
+        "summary": "「更新済み」というラベルは、この注意事項がタイトルアップデート v1.1.0（2026年10月27日）に対応していることを意味します。これはloaderがいかなる検知も回避できることを意味するものではなく、次回のEA Javelinやクライアントビルドを対象とするものでもありません。"
+      }
+    ]
+  },
+  "forum": {
+    "eyebrow": "コミュニティ",
+    "title": "フォーラム：FC 27 コミュニティのセットアップと計画",
+    "subtitle": "このフォーラムでは、セットアップ、Modメニュー、および計画に関する質問を取り扱っています。開発者からの返信には各スレッドでマークが付けられます。",
+    "breadcrumb": "フォーラム",
+    "postsAria": "コミュニティの投稿",
+    "sortAria": "投稿の並び替え",
+    "searchPlaceholder": "ディスカッションを検索",
+    "searchAria": "ディスカッションを検索",
+    "voteAria": "ディスカッションの投票",
+    "fromGuide": "ガイドより：",
+    "comments": "件のコメント",
+    "readDiscussion": "ディスカッションを読む",
+    "readGuide": "ガイドを読む",
+    "basedOn": "参考：",
+    "paginationAria": "ディスカッションのページ",
+    "previousPage": "前へ",
+    "nextPage": "次へ",
+    "exploreGuides": "ガイドを見る",
+    "sortPopular": "人気",
+    "sortLatest": "最新",
+    "sortTop": "活発な議論",
+    "filterAria": "トピックでディスカッションを絞り込み",
+    "allTopics": "すべてのトピック",
+    "discussionOne": "件のディスカッション",
+    "discussionMany": "件のディスカッション",
+    "emptyFilter": "一致するディスカッションはありません。別の検索ワードやトピックをお試しください。",
+    "previous": "前へ",
+    "next": "次へ",
+    "sidebarAboutTitle": "フォーラム：FC 27 コミュニティ",
+    "sidebarAboutCopy": "チート、HWID spoofer、およびUGCの復旧に関する質問。開発者の返信はスレッドに残ります。",
+    "sidebarTopics": "トピック",
+    "sidebarExploreGuides": "すべてのガイドを見る",
+    "sidebarCommunities": "コミュニティ",
+    "sidebarBrowseQa": "関連スレッドを見る",
+    "sidebarBrowseAll": "すべてのコミュニティを見る",
+    "sidebarGuidelines": "コミュニティガイドライン",
+    "guideline1": "友好的で建設的な態度を保つ",
+    "guideline2": "トピックを外さず、文脈を明確にする",
+    "guideline3": "ネタバレやセンシティブなコンテンツにはマークを付ける",
+    "sidebarReadGuidelines": "ガイドラインの全文を読む",
+    "sidebarFootAbout": "概要 · ガイドライン · プライバシー · 利用規約",
+    "upvoteAria": "このディスカッションに賛成票を投じる",
+    "downvoteUnavailable": "反対票は利用できません",
+    "showingRange": "{total} 件中 {from}–{to} 件を表示",
+    "zeroDiscussions": "ディスカッションはありません",
+    "developerFlair": "開発者",
+    "points": "ポイント",
+    "previewDiscussion": "ディスカッションのプレビュー",
+    "postingUnavailable": "ここでは投稿と投票を利用できません",
+    "commentsTitle": "コメント",
+    "commentsSubtitle": "開発者からの返信には印が表示されます",
+    "detailInTopic": "このトピック内",
+    "detailBrowse": "ディスカッションを閲覧",
+    "detailMoreTitle": "その他のディスカッション",
+    "detailViewAll": "すべてのディスカッションを表示"
+  },
+  "readingTools": {
+    "copyLink": "リンクをコピー",
+    "backToTop": "トップに戻る",
+    "copied": "コピー完了"
+  },
+  "blogArticle": {
+    "viewProducts": "製品を見る",
+    "moreArticles": "関連記事",
+    "imagePlaceholder": "画像プレaceホルダー",
+    "breadcrumbBlog": "ブログ"
+  },
+  "breadcrumbs": {
+    "home": "ホーム",
+    "products": "製品",
+    "blog": "ブログ",
+    "forum": "フォーラム",
+    "faq": "よくある質問",
+    "status": "ステータス"
+  },
+  "faqPage": {
+    "eyebrow": "ヘルプセンター",
+    "title": "よくある質問：プラン、設定、購入前のEA Javelinリスク — チート＆ガイド",
+    "subtitle": "プラン、EA Javelin、ランチャー、システム要件、サポートへの連絡方法について。",
+    "schemaName": "よくある質問 — FC27 チート＆製品",
+    "schemaDescription": "FC27チート、HWID spoofer、UGCの復旧、EA Javelinのリスク、cheatsfc27.comでの決済に関する回答。"
+  },
+  "siteFaqSection": {
+    "allTopicsEyebrow": "すべてのトピック",
+    "allTopicsTitle": "カテゴリから探す",
+    "allTopicsSubtitle": "EA SPORTS FC 27のプラン、運用、製品、セットアップについて。",
+    "contextualEyebrow": "よくある質問",
+    "contextualTitle": "このページに関する質問",
+    "contextualSubtitle": "お読みのページに関連する回答です。すべてのトピックはFAQページをご確認ください。"
+  },
+  "catalog": {
+    "modulesEyebrow": "モジュール",
+    "whatsIncluded": "内容品",
+    "moduleNote": "ユーティリティモジュールはここに名前のみ記載されています。説明は機能カタログをご覧ください。",
+    "featuresPageEyebrow": "機能カタログ",
+    "featuresPageTitle": "完全な FC 27 loader リスト",
+    "featuresPageDesc": "以下の各メニュー名はビルドと一致しており、{name}の各コントロールが変更する内容についての簡単な注記が含まれています。",
+    "optionOne": "オプション",
+    "optionMany": "オプション",
+    "viewDetails": "詳細を見る",
+    "buyNow": "今すぐ購入",
+    "mostPopular": "一番人気",
+    "popular": "人気",
+    "plusMore": "他 +{count} 件",
+    "monthlySuffix": " monthly",
+    "lifetimeSuffix": " lifetime",
+    "monthlyPlanNote": "31日間のアクセス・チェックアウト時に更新",
+    "lifetimePlanNote": "一回払い・更新なし",
+    "plansSameFeaturesNote": "どちらのプランも機能は同じです。変わるのはアクセス期間のみです。",
+    "selectPlanAria": "プラン期間を選択",
+    "utilityLabel": "ユーティリティ",
+    "experienceEyebrow": "体験",
+    "inTheClient": "クライアント内・購入後",
+    "experienceSubtitle": "{name}の上記のスクリーンショットをご活用ください。以下は各レイヤーの意味と購入後のアクセスの仕組みです。",
+    "utilityExperienceSubtitle": "{name}の上記のスクリーンショットをご活用ください。各プレビューでは、ハードウェアワークフローの一部と購入後のアクセスの仕組みについて説明しています。",
+    "inGameLayers": "ゲーム内レイヤー",
+    "utilityPreviewLayers": "製品プレビュー",
+    "layerLabel": "レイヤー {label}",
+    "previewLabel": "プレビュー",
+    "accessLabel": "アクセス"
+  },
+  "productUi": {
+    "detailsAria": "製品詳細",
+    "overview": "概要",
+    "systemRequirements": "システム要件",
+    "goodToKnow": "注意事項",
+    "limitations": "重要な制限事項",
+    "completeFeatureList": "すべての機能一覧",
+    "includedCapabilities": "利用可能な機能",
+    "totalFeatures": "合計 {count} 個",
+    "popularBadge": "人気",
+    "limitedBadge": "限定",
+    "gameBadge": "FC 27",
+    "platformBadge": "Windows PC",
+    "systemReqPanel": {
+      "title": "システム要件",
+      "security": [
+        "HVCI ON",
+        "コア分離 ON",
+        "TPM ON",
+        "SECURE BOOT ON"
+      ],
+      "operatingSystemLabel": "オペレーティングシステム",
+      "operatingSystemValue": "WINDOWS 10 および 11 対応",
+      "specs": [],
+      "cloudDmaTitle": "クラウド DMA",
+      "cloudDmaDesc": "すべての機能を利用するために必要です。対応ビルドの全機能はクラウド DMA を経由して動作します。",
+      "cloudDmaNote": "",
+      "shopInstantDelivery": "即時配信",
+      "shopPortalDelivery": "ポータル配信",
+      "shopInStock": "在庫あり",
+      "shopSelectPlan": "プランを選択",
+      "shopFeaturedRibbon": "おすすめビルド",
+      "shopSupportedClients": "対応クライアント",
+      "shopSupportedClientLines": [
+        "EA app",
+        "Steam",
+        "Epic Games Store"
+      ],
+      "shopViewAllFeatures": "すべての機能を見る",
+      "shopDeckEyebrow": "製品カードについて",
+      "shopDeckTitle": "要件とメニュープレビュー",
+      "shopDeckDesc": "動作要件とメニューのプレビューです。すべてのトグルやスライダーの機能一覧をご確認ください。"
+    },
+    "shopHeroFaqHwidSpoofer": {
+      "eyebrow": "よくある質問",
+      "title": "よくある質問",
+      "items": [
+        {
+          "q": "HWID spooferはFC 27のEA Javelinに対応していますか？",
+          "a": "EA SPORTS FC 27向けのPCでハードウェア識別子を変更します。アカウント固有の制限を解除するものではなく、EA Javelinがそのマシンを完全に除外することを保証するものではありません。"
+        },
+        {
+          "q": "$150 lifetimeプランにスプーファーは含まれますか？",
+          "a": "いいえ。チートのlifetimeとスプーファーのlifetimeは別々の$150決済となります。スプーファーmonthlyの価格は50ドルです。"
+        },
+        {
+          "q": "どのPCランチャーに対応していますか？",
+          "a": "Windows 10および11上のEA app、Steam、Epic Games Storeに対応しています。"
+        },
+        {
+          "q": "システム要件は何ですか？",
+          "a": "Windows 10およびWindows 11で、HVCI、コア分離、TPM、Secure Bootが有効である必要があります。"
+        },
+        {
+          "q": "サポートを受けるにはどうすればよいですか？",
+          "a": "注文時のメールアドレス、Windowsのバージョン、正確なloaderのテキストを添えてサポートページを開いてください。"
+        }
+      ]
+    },
+    "shopHeroInfoUgc": {
+      "eyebrow": "概要",
+      "title": "UGC Account recovery",
+      "blocks": [
+        {
+          "title": "UGC account recoveryとは何ですか？",
+          "body": "ユーザー生成コンテンツの制限やBANの影響を受けたアカウントに対し、ワークフロー、テンプレート、プラットフォームプロファイルを1つのaceにまとめて異議申し立ての準備と提出をサポートします。"
+        },
+        {
+          "title": "どのような人向けですか？",
+          "body": "ゼロから文章を作成するのではなく、明確で整理された異議申し立てプロセスを進めたいプレイヤー向けです。"
+        },
+        {
+          "title": "仕組み",
+          "body": "1. プランを選択して購入します。2. アカウント内でガイドとテンプレートを開きます。3. プラットフォームの手順に従って異議申し立てを送信します。"
+        },
+        {
+          "title": "内容物",
+          "body": "カスタム異議申し立てワークフロー、マルチプラットフォームプロファイル、テンプレートライブラリ、ステップバイステップのガイド。"
+        },
+        {
+          "title": "配信とサポート",
+          "body": "即時配信。チケットチャンネルによるサポート。結果はプラットフォーム側の個別の審査によって異なります。"
+        }
+      ]
+    },
+    "shopHeroFaq": {
+      "eyebrow": "よくある質問",
+      "title": "よくある質問",
+      "items": [
+        {
+          "q": "FC27のチートはEA Javelinで動作しますか？",
+          "a": "loaderはEA Javelinの稼働中、WindowsのPCにおけるEA SPORTS FC 27を対象としています。BAN対策保証を謳うものではなく、ペナルティを完全に回避できるわけではありません。クライアントのアップデート後は、起動前に必ずステータスぺージをご確認ください。"
+        },
+        {
+          "q": "アルティメットチームのオプションには何が含まれますか？",
+          "a": "NoLoss、ディビジョンスプーファー、チャンピオンズ勝利数/Lossスプーファー、チャンピオンズラウンドスプーファー、対戦相手の名前・プラットフォーム表示、ドラフトラウンド変更、パック開封アニメーションスキップ、インスタントモーメントが含まれます。"
+        },
+        {
+          "q": "プロクラブで使用できますか？",
+          "a": "はい。プロクラブオプションには、バーチャルプロ能力値エディター、VPROスライダー、プレイスタイル、プレイスタイル+、隠しステータス99、XPブーストが含まれます。"
+        },
+        {
+          "q": "$150 lifetimeプランにはスプーファーが含まれますか？",
+          "a": "いいえ。FC27チートにおけるLifetimeには、その製品本体のみが含まれます。HWID spooferは別売りとなっており、31日間で50ドル、または$150 lifetimeとなります。"
+        },
+        {
+          "q": "パッチ適用後のアップデートはどれくらい早いですか？",
+          "a": "対応までの正確な時間はお約束できません。FC 27またはEA Javelinのアップデート後はステータスページを確認し、該当するビルドの告知が出るまでloaderは起動しないでください。"
+        },
+        {
+          "q": "どのPCランチャーに対応していますか？",
+          "a": "EA app、Steam、Epic Games Storeに対応しています。"
+        },
+        {
+          "q": "システム要件は何ですか？",
+          "a": "Windows 10およびWindows 11です。HVCI、コア分離、TPM、Secure Bootは有効にしておいてください。"
+        },
+        {
+          "q": "サポートを受けるにはどうすればよいですか？",
+          "a": "注文時のメールアドレス、Windowsのバージョン、正確なloaderのエラーテキストを添えてサポートページよりお問い合わせください。"
+        }
+      ]
+    }
+  },
+  "comparePlans": {
+    "eyebrow": "比較",
+    "title": "すべてのプランを比較",
+    "subtitle": "各ティアに含まれる機能を並べて比較します。",
+    "tableAria": "すべてのプランを比較",
+    "featureColumn": "機能",
+    "included": "含まれる",
+    "notIncluded": "含まれない"
+  },
+  "whyCompare": {
+    "tableAria": "一般的なプロバイダーとFC27のチートの比較",
+    "featureColumn": "機能",
+    "metricsAria": "プラットフォームの指標",
+    "statusDeliveryAria": "稼働状況と配信"
+  },
+  "searchResultTypes": {
+    "product": "製品",
+    "blog": "ブログ",
+    "forum": "フォーラム",
+    "faq": "よくある質問",
+    "status": "ステータス",
+    "support": "サポート",
+    "page": "ページ"
+  },
+  "blogSidebar": {
+    "ariaLabel": "記事サイドバー",
+    "inThisArticle": "この記事の内容",
+    "relatedGuides": "関連記事",
+    "ourProducts": "当社の製品",
+    "productCheats": "FC27 チート",
+    "allProducts": "すべての製品",
+    "hwidSpoofer": "HWID Spoofer",
+    "ugcRecovery": "UGC Account recovery",
+    "tocAria": "目次",
+    "tocFallbackLabel": "記事の開始",
+    "quickFactsTitle": "クイックファクト",
+    "quickFactsAntiCheat": "EA Javelin アンチチート",
+    "quickFactsPlatform": "Windows PC",
+    "quickFactsPlans": "プラン $35 / $150",
+    "quickFactsSupport": "24/7 Discordサポート",
+    "quickFactsCheckStatus": "ステータスを確認",
+    "quickFactsViewProduct": "FC27 チートを表示",
+    "priceEstimatorTitle": "価格見積もり",
+    "priceEstimatorHint": "期間をタップしてください。合計が計算されます。",
+    "priceEstimator30d": "31日",
+    "priceEstimatorLifetime": "無期限",
+    "priceEstimatorOff": "OFF",
+    "priceEstimatorTotal": "概算合計",
+    "priceEstimatorProducts": "製品",
+    "priceEstimatorNote": "見積もり額です。各製品はそれぞれのカードからご購入ください。",
+    "utilityGuides": "SpooferとUGC",
+    "moreGuides": "その他のガイド"
+  }
+}

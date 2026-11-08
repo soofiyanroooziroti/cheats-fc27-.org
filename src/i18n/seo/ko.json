@@ -1,0 +1,64 @@
+{
+  "site": {
+    "title": "FC 27 치트",
+    "description": "Windows PC의 EA SPORTS FC 27을 위한 커리어, 얼티밋 팀, 프로 클럽 도구 및 모드 메뉴가 포함된 FC 27 치트. 전 세계 USD 가격."
+  },
+  "pages": {
+    "/": {
+      "title": "FC 27 치트 (Windows PC) | 모드 메뉴 및 가격",
+      "description": "EA SPORTS FC 27용 Windows PC 모드 메뉴가 포함된 FC 27 치트. 커리어, 얼티밋 팀, 프로 클럽을 하나의 loader에서. 상품별 개별 결제."
+    },
+    "/products/fc27-cheats/": {
+      "title": "제품 및 가격 | Monthly 및 Lifetime 플랜",
+      "description": "Windows PC의 EA SPORTS FC 27: $35 monthly 또는 $150 lifetime의 치트 및 UGC; $50 monthly 또는 $150 lifetime의 HWID spoofer. 개별 결제."
+    },
+    "/products/fc27-cheats/loader/": {
+      "title": "FC27 모드 메뉴 | 경기 및 커리어 어시스트",
+      "description": "경기 플레이, 커리어, 얼티밋 팀용 loader 그룹이 포함된 FC27 모드 메뉴. Monthly $35. Lifetime $150. EA Javelin 또는 클라이언트 업데이트 후 상태 공지 확인."
+    },
+    "/products/fc27-cheats/hwid-spoofer/": {
+      "title": "FC27 HWID Spoofer (Windows 하드웨어 플래그용)",
+      "description": "PC에서 하드웨어 플래그가 발생한 플레이어를 위한 FC27 hwid spoofer. $50 monthly 또는 $150 lifetime. PC의 프로필 로테이션 방식(계정 전용 제재 제외)."
+    },
+    "/products/fc27-cheats/ugc/": {
+      "title": "FC27 계정 복구 도구 (PC 이의 제기용)",
+      "description": "정지 이의 제기와 복구 사례를 정리하는 FC27 계정 복구 도구입니다. PC 환경에서 loader 및 HWID spoofer과는 별도의 라이선스입니다."
+    },
+    "/products/fc27-cheats/utilities/": {
+      "title": "HWID 도구와 계정 이의 제기 유틸리티 비교",
+      "description": "하드웨어 플래그와 계정 이의 제기에 각각 적합한 Windows 유틸리티를 확인하세요. 둘 다 loader에서 별도로 결제해야 합니다."
+    },
+    "/blog/": {
+      "title": "FC 27 메뉴, 보안 및 패치 가이드",
+      "description": "얼티밋 팀, 커리어 모드, 프로 클럽, HWID 하드웨어 플래그, EA Javelin 패치에 대한 가이드를 Windows PC에서 실행하기 전에 확인하세요."
+    },
+    "/forum/": {
+      "title": "커뮤니티 포럼: 설정, 메뉴 및 계획",
+      "description": "loader, 게임플레이 어시스트, $35 monthly 및 $150 lifetime 계획, EA Javelin 패치에 관한 포럼 스레드입니다. 개발자 답변이 표시됩니다."
+    },
+    "/faq/": {
+      "title": "FAQ – 결제 전 계획, 설정 및 EA Javelin 위험",
+      "description": "결제, EA Javelin 업데이트, Windows 요구 사항, 하드웨어 플래그, 그리고 loader, 스푸퍼, 계정 도구의 차이점에 대한 답변입니다."
+    },
+    "/support/": {
+      "title": "지원: Loader, 결제 및 HWID PC",
+      "description": "PC 도구, HWID spoofer 및 계정 이의신청을 위한 Loader, 결제 및 포털 지원. 주문 이메일과 정확한 loader을(를) 포함해 주세요."
+    },
+    "/about/": {
+      "title": "스토어 소개: 포털 배송, 가격 및 위험",
+      "description": "cheatsfc27.com이(가) Windows PC의 EA SPORTS FC 27용으로 판매하는 상품, 포털 배송 작동 방식, EA Javelin 위험, loader, 스푸퍼 및 UGC 도구에 포함된 내용."
+    },
+    "/privacy/": {
+      "title": "분석, 쿠키 및 연락처 데이터에 대한 개인정보 보호 참고사항",
+      "description": "cheatsfc27.com이(가) 분석, 쿠키 및 연락처 데이터를 처리하는 방식. 결제 카드 번호는 이 스토어가 아닌 결제 제공업체에 유지됩니다."
+    },
+    "/terms/": {
+      "title": "라이선스 약관, 환불 및 이용 규칙",
+      "description": "cheatsfc27.com을 통해 판매되는 loader, HWID spoofer 및 계정 복구에 대한 라이선스 약관, 이용 규칙 및 환불 불가 규정입니다."
+    },
+    "/status/": {
+      "title": "EA 재블린 패치 노트 및 클라이언트 상태",
+      "description": "EA SPORTS FC 27용 타이틀 업데이트 v1.1.0(2026년 10월 27일): 편의성, 커리어 UI, 클럽 수정 및 EA 재블린 보안. 실행 전에 확인하세요."
+    }
+  }
+}
