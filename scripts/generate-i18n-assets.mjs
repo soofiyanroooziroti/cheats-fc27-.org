@@ -25,8 +25,8 @@ const extraStrings = {
     badgeActive: 'Active',
     cards: {
       cheats: {
-        title: 'DayZ Cheats',
-        desc: 'Aimbot, player ESP, vehicles, and radar for Windows PC.',
+        title: 'FC27 Cheats',
+        desc: 'Match, Career, and Ultimate Team assists for Windows PC.',
       },
       spoofer: {
         title: 'HWID Spoofer',
@@ -42,7 +42,7 @@ const extraStrings = {
       },
       features: {
         title: 'Features',
-        desc: '15+ modules: aimbot, ESP, loot, and chams.',
+        desc: 'FUT, gameplay, Pro Clubs, utilities, and safety tabs in the loader menu.',
       },
       status: {
         title: 'Status',

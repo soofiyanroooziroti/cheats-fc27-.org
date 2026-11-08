@@ -331,8 +331,6 @@
       "Install": "Installation",
       "Safety": "Sécurité",
       "Plans": "Abonnements",
-      "Aim": "Visée",
-      "ESP": "Menu",
       "Loot": "Objets",
       "Visuals": "Visuels",
       "Camera": "Caméra",
@@ -449,7 +447,7 @@
       {
         "icon": "messageCircle",
         "title": "Forum communautaire",
-        "desc": "Questions sur l'installation, l'aimbot, les overlays et les abonnements avec réponses officielles des développeurs.",
+        "desc": "Installation, menu, overlays et questions sur les forfaits avec réponses officielles des développeurs.",
         "linkLabel": "Ouvrir le forum",
         "href": "/forum/"
       },

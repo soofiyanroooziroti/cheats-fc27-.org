@@ -331,8 +331,6 @@
       "Install": "Install",
       "Safety": "Safety",
       "Plans": "Plans",
-      "Aim": "Match play",
-      "ESP": "Overlays",
       "Loot": "Loot",
       "Visuals": "Visuals",
       "Camera": "Camera",
@@ -449,7 +447,7 @@
       {
         "icon": "messageCircle",
         "title": "Community forum",
-        "desc": "Setup, aim, overlays, and plan questions with marked developer replies.",
+        "desc": "Setup, menu, overlays, and plan questions with marked developer replies.",
         "linkLabel": "Open the forum",
         "href": "/forum/"
       },

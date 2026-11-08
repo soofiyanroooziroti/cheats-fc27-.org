@@ -23,9 +23,6 @@ export const PROTECTED_PRODUCT_NAMES = [
 ] as const;
 
 export const PROTECTED_CHEAT_TERMS = [
-  'Aimbot',
-  'ESP',
-  'Wallhack',
   'DMA',
   'Cloud DMA',
   'AWS',
@@ -40,7 +37,6 @@ export const PROTECTED_CHEAT_TERMS = [
   'Snaplines',
   'OOF Arrows',
   '2D Radar',
-  'Vehicle ESP',
   'Visible Check',
   'Prediction',
   'Draw FOV',
@@ -56,9 +52,6 @@ export const PROTECTED_CHEAT_TERMS = [
   'Menu Key',
   'Hotkeys',
   'Config',
-  'aimbot',
-  'wallhack',
-  'chams',
 ] as const;
 
 export const PROTECTED_KEYS_AND_TECH = [

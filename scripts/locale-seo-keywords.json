@@ -1,72 +1,58 @@
 {
-  "fr": {
-    "homePrimary": "DayZ cheats",
-    "cheatsProduct": "DayZ Cheats",
-    "spoofer": "HWID Spoofer DayZ",
-    "ugc": "UGC Account recovery DayZ",
-    "terms": "Aimbot, ESP, 2D Radar, Vehicle ESP, HWID Spoofer, BattlEye"
+  "es": {
+    "homePrimary": "trucos FC 27",
+    "cheatsProduct": "FC27 Cheats",
+    "spoofer": "HWID Spoofer",
+    "ugc": "UGC Account recovery",
+    "terms": "Ultimate Team, Career Mode, Pro Clubs, EA Javelin, HWID Spoofer, mod menu"
   },
-  "it": {
-    "homePrimary": "DayZ cheats",
-    "cheatsProduct": "DayZ Cheats",
-    "spoofer": "HWID Spoofer DayZ",
-    "ugc": "UGC Account recovery DayZ",
-    "terms": "Aimbot, ESP, 2D Radar, Vehicle ESP, HWID Spoofer, BattlEye"
+  "pt": {
+    "homePrimary": "cheats FC 27",
+    "cheatsProduct": "FC27 Cheats",
+    "spoofer": "HWID Spoofer",
+    "ugc": "UGC Account recovery",
+    "terms": "Ultimate Team, Career Mode, Pro Clubs, EA Javelin, HWID Spoofer, mod menu"
+  },
+  "fr": {
+    "homePrimary": "triches FC 27",
+    "cheatsProduct": "FC27 Cheats",
+    "spoofer": "HWID Spoofer",
+    "ugc": "UGC Account recovery",
+    "terms": "Ultimate Team, Career Mode, Pro Clubs, EA Javelin, HWID Spoofer, mod menu"
   },
   "de": {
-    "homePrimary": "DayZ cheats",
-    "cheatsProduct": "DayZ Cheats",
-    "spoofer": "HWID Spoofer DayZ",
-    "ugc": "UGC Account recovery DayZ",
-    "terms": "Aimbot, ESP, 2D Radar, Vehicle ESP, HWID Spoofer, BattlEye"
+    "homePrimary": "FC 27 Cheats",
+    "cheatsProduct": "FC27 Cheats",
+    "spoofer": "HWID Spoofer",
+    "ugc": "UGC Account recovery",
+    "terms": "Ultimate Team, Career Mode, Pro Clubs, EA Javelin, HWID Spoofer, Mod-Menü"
   },
-  "es": {
-    "homePrimary": "DayZ cheats",
-    "cheatsProduct": "DayZ Cheats",
-    "spoofer": "HWID Spoofer DayZ",
-    "ugc": "UGC Account recovery DayZ",
-    "terms": "Aimbot, ESP, 2D Radar, Vehicle ESP, HWID Spoofer, BattlEye"
+  "it": {
+    "homePrimary": "trucchi FC 27",
+    "cheatsProduct": "FC27 Cheats",
+    "spoofer": "HWID Spoofer",
+    "ugc": "UGC Account recovery",
+    "terms": "Ultimate Team, Career Mode, Pro Clubs, EA Javelin, HWID Spoofer, mod menu"
   },
-  "cs": {
-    "homePrimary": "DayZ cheats",
-    "cheatsProduct": "DayZ Cheats",
-    "spoofer": "HWID Spoofer DayZ",
-    "ugc": "UGC Account recovery DayZ",
-    "terms": "Aimbot, ESP, 2D Radar, Vehicle ESP, HWID Spoofer, BattlEye"
-  },
-  "ru": {
-    "homePrimary": "DayZ cheats",
-    "cheatsProduct": "DayZ Cheats",
-    "spoofer": "HWID Spoofer DayZ",
-    "ugc": "UGC Account recovery DayZ",
-    "terms": "Aimbot, ESP, 2D Radar, Vehicle ESP, HWID Spoofer, BattlEye"
-  },
-  "zh-cn": {
-    "homePrimary": "DayZ cheats",
-    "cheatsProduct": "DayZ Cheats",
-    "spoofer": "HWID Spoofer DayZ",
-    "ugc": "UGC Account recovery DayZ",
-    "terms": "Aimbot, ESP, 2D Radar, Vehicle ESP, HWID Spoofer, BattlEye"
+  "ar": {
+    "homePrimary": "شفرات FC 27",
+    "cheatsProduct": "FC27 Cheats",
+    "spoofer": "HWID Spoofer",
+    "ugc": "UGC Account recovery",
+    "terms": "Ultimate Team, Career Mode, Pro Clubs, EA Javelin, HWID Spoofer, mod menu"
   },
   "ja": {
-    "homePrimary": "DayZ cheats",
-    "cheatsProduct": "DayZ Cheats",
-    "spoofer": "HWID Spoofer DayZ",
-    "ugc": "UGC Account recovery DayZ",
-    "terms": "Aimbot, ESP, 2D Radar, Vehicle ESP, HWID Spoofer, BattlEye"
+    "homePrimary": "FC 27 チート",
+    "cheatsProduct": "FC27 Cheats",
+    "spoofer": "HWID Spoofer",
+    "ugc": "UGC Account recovery",
+    "terms": "Ultimate Team, Career Mode, Pro Clubs, EA Javelin, HWID Spoofer, mod menu"
   },
-  "pl": {
-    "homePrimary": "DayZ cheats",
-    "cheatsProduct": "DayZ Cheats",
-    "spoofer": "HWID Spoofer DayZ",
-    "ugc": "UGC Account recovery DayZ",
-    "terms": "Aimbot, ESP, 2D Radar, Vehicle ESP, HWID Spoofer, BattlEye"
-  },
-  "pt-br": {
-    "homePrimary": "DayZ cheats",
-    "cheatsProduct": "DayZ Cheats",
-    "spoofer": "HWID Spoofer DayZ",
-    "ugc": "UGC Account recovery DayZ",
-    "terms": "Aimbot, ESP, 2D Radar, Vehicle ESP, HWID Spoofer, BattlEye"
+  "ko": {
+    "homePrimary": "FC 27 치트",
+    "cheatsProduct": "FC27 Cheats",
+    "spoofer": "HWID Spoofer",
+    "ugc": "UGC Account recovery",
+    "terms": "Ultimate Team, Career Mode, Pro Clubs, EA Javelin, HWID Spoofer, mod menu"
   }
 }

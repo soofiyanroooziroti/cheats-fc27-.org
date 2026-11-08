@@ -137,7 +137,7 @@
         "desc": "Überprüfe cheatsfc27.org nach einem FC 27- oder EA Javelin-Update, bevor du die loader öffnest."
       },
       {
-        "title": "Separate Aimbot-Regler",
+        "title": "Separate Wertregler",
         "desc": "Spieler- und Gegnerregler, Spezialbewegungen und Kondition sind separate Gameplay-Optionsschalter. Ändere immer nur einen Wert und speichere ihn dann im Reiter „Sonstiges“."
       },
       {
@@ -331,8 +331,6 @@
       "Install": "Installation",
       "Safety": "Schutz",
       "Plans": "Tarife",
-      "Aim": "Ziel",
-      "ESP": "Menü",
       "Loot": "Gegenstände",
       "Visuals": "Grafik",
       "Camera": "Kamera",
