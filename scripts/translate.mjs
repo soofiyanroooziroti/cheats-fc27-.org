@@ -472,9 +472,12 @@ Translate this SEO JSON from English to ${LANG_NAME[locale]} (${locale}).
 
 Rules:
 - Return ONLY valid JSON, same structure and keys as input.
-- Translate title and description strings in site.* and pages.* paths, including /status/ and every other page key.
+- Copy site.title and every pages.*.title EXACTLY from the English input (do not translate titles).
+- Translate pages.*.description and site.description only; keep [[T#]] placeholders and every protected term unchanged.
+- Primary SEO phrases must stay English in descriptions: FC 27 cheats, FC27 Cheats, FC27 mod menu, mod menu, HWID spoofer, EA Javelin, Ultimate Team, Career Mode, Pro Clubs, loader, Windows PC, cheatsfc27.org, EA SPORTS FC 27.
+- Do not localize cheats into trucos/triches/trucchi/チート/치트/شفرات or similar.
 - Do not add keyword lists, search-term clusters, or extra SEO phrases that are not already in the English sentence.
-- Title ≤ 60 characters where possible; meta description ≤ 160 characters.
+- Meta description ≤ 160 characters where possible.
 - Keep path keys unchanged.
 - Keep brand names, the domain, USD prices, and product slugs as in the source.
 - Never use the words "undetected" or "safe".

@@ -126,6 +126,8 @@ npm.cmd run build
 
 ## 4. SEO rules
 
-- One primary keyword per URL — do not repeat home “Delta Force cheats” in every title.
+- One primary keyword per URL — do not repeat home `fc 27 cheats` on every title (`src/config/keywords.ts`).
+- **Never translate SEO keywords** on non-English routes: `src/i18n/seo/{locale}.json` must use the **same** `site.title` and `pages.*.title` as `seo/en.json`. Meta descriptions currently mirror EN too; run `node scripts/sync-seo-from-en.mjs` after editing English SEO.
+- Home H1 (`hero.titleLine1` in every `src/i18n/{locale}.json`) stays English: `FC 27 Cheats for Windows PC — mod menu and pricing`.
+- Hints: `scripts/locale-seo-keywords.json` (`homePrimary` is always `FC 27 cheats`). See `.cursor/rules/seo-keywords-english.mdc`.
 - Titles ≤ 60 chars, descriptions ≤ 160 where possible.
-- Localized SEO lives in `src/i18n/seo/{locale}.json`.

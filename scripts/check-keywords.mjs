@@ -62,6 +62,28 @@ for (const [pathname, keyword] of Object.entries(PAGE_KEYWORDS)) {
   }
 }
 
+const seoDir = path.join(root, 'src/i18n/seo');
+const enSeo = JSON.parse(fs.readFileSync(path.join(seoDir, 'en.json'), 'utf8'));
+const locales = ['ar', 'de', 'es', 'fr', 'it', 'ja', 'ko', 'pt'];
+const heroH1 = 'FC 27 Cheats for Windows PC — mod menu and pricing';
+for (const locale of locales) {
+  const data = JSON.parse(fs.readFileSync(path.join(seoDir, `${locale}.json`), 'utf8'));
+  if (data.site?.title !== enSeo.site.title) {
+    errors.push(`seo/${locale}.json site.title must match en (${enSeo.site.title})`);
+  }
+  for (const [pagePath, enPage] of Object.entries(enSeo.pages)) {
+    const page = data.pages?.[pagePath];
+    if (!page) continue;
+    if (page.title !== enPage.title) {
+      errors.push(`seo/${locale}.json pages["${pagePath}"].title must match en`);
+    }
+  }
+  const ui = JSON.parse(fs.readFileSync(path.join(root, 'src/i18n', `${locale}.json`), 'utf8'));
+  if (ui?.hero?.titleLine1 !== heroH1) {
+    errors.push(`i18n/${locale}.json hero.titleLine1 must match English SEO H1`);
+  }
+}
+
 if (errors.length) {
   console.error('SEO keyword check failed:\n' + errors.map((e) => `  - ${e}`).join('\n'));
   process.exit(1);

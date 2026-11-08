@@ -1,0 +1,38 @@
+---
+description: Keep FC27 SEO and brand keywords in English on every locale
+globs: src/i18n/seo/**/*.json,scripts/translate.mjs,scripts/locale-seo-keywords.json,src/i18n/*.json,src/content/blog/**
+alwaysApply: false
+---
+
+# SEO keywords — never translate
+
+Primary search terms and brand phrases stay **English on all locales** (`/es/`, `/ar/`, etc.), including `<title>`, meta description, and home **H1** (`hero.titleLine1`).
+
+## Do not localize
+
+- `FC 27 cheats`, `FC27 Cheats`, `fc 27 cheats`, `fc27 mod menu`, `FC27 mod menu`
+- `HWID spoofer`, `HWID Spoofer`, `mod menu`, `loader`
+- `EA Javelin`, `EA SPORTS FC 27`, `Ultimate Team`, `Career Mode`, `Pro Clubs`
+- `Windows PC`, `cheatsfc27.org`, product names and menu toggle labels
+
+UI body copy, nav labels, and paragraphs **may** translate; SEO surfaces above must not swap cheats/trucos/triches/شفرات for the English money terms.
+
+## Files
+
+- **Canonical SEO:** `src/i18n/seo/en.json` — non-English `src/i18n/seo/{locale}.json` must use the **same** `site.title` and `pages.*.title` as EN (run `node scripts/sync-seo-from-en.mjs` after EN edits).
+- **Hints:** `scripts/locale-seo-keywords.json` — `homePrimary` is always `FC 27 cheats` (English).
+- **Translate:** `scripts/translate.mjs` `seoPrompt` — titles copied verbatim from English; descriptions keep protected terms via `gemini-protect` + `src/i18n/glossary.json`.
+
+## Home H1
+
+`hero.titleLine1` in every `src/i18n/{locale}.json` must match English:
+
+`FC 27 Cheats for Windows PC — mod menu and pricing`
+
+## Before ship
+
+```powershell
+node scripts/sync-seo-from-en.mjs
+npm run check:seo
+npm run verify
+```

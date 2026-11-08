@@ -1,60 +1,60 @@
 {
   "site": {
-    "title": "Cheat per FC 27",
-    "description": "Cheat per FC 27 con strumenti per Carriera, Ultimate Team e Pro Clubs, oltre a un menu mod per EA SPORTS FC 27 su Windows PC. Prezzi USD mondiali."
+    "title": "FC27 Cheats",
+    "description": "FC27 cheats with gameplay assists, Career and Ultimate Team tools, and mod menu config for EA SPORTS FC 27 on Windows PC. Worldwide. USD pricing."
   },
   "pages": {
     "/": {
-      "title": "Cheat per FC 27 per Windows PC | Mod Menu e Prezzi",
-      "description": "Cheat per FC 27 con un mod menu Windows PC per EA SPORTS FC 27. Carriera, Ultimate Team e Pro Clubs in un unico loader. Pagamento separato per prodotto."
+      "title": "FC 27 Cheats for Windows PC | Mod Menu and Pricing",
+      "description": "FC 27 cheats with a Windows PC mod menu for EA SPORTS FC 27. Career, Ultimate Team, and Pro Clubs in one loader. Separate checkout per product."
     },
     "/products/fc27-cheats/": {
-      "title": "Prodotti e Prezzi | Piani Monthly e Lifetime",
-      "description": "HWID spoofer a $50 per 31 giorni o $150 lifetime. Pagamenti separati."
+      "title": "Products & Pricing | Monthly and Lifetime Plans",
+      "description": "EA SPORTS FC 27 on Windows PC: the cheat at $35 for 31 days or $150 lifetime; HWID spoofer at $50 for 31 days or $150 lifetime. Separate checkouts."
     },
     "/products/fc27-cheats/loader/": {
-      "title": "Mod Menu FC27 | Assist per Partita e Carriera",
-      "description": "Mod menu FC27 con gruppi loader per le partite, la Carriera e l'Ultimate Team. Monthly $35. Lifetime $150. Leggi la nota sullo stato dopo gli aggiornamenti di EA Javelin o del client."
+      "title": "FC27 Mod Menu | Match & Career Assists",
+      "description": "FC27 mod menu with loader groups for match play, Career, and Ultimate Team. Monthly $35. Lifetime $150. Read the status note after EA Javelin or client updates."
     },
     "/products/fc27-cheats/hwid-spoofer/": {
-      "title": "FC27 HWID Spoofer per Windows Hardware Flags",
-      "description": "FC27 hwid spoofer per giocatori con un blocco hardware su PC. $50 per 31 giorni o $150 lifetime. Rotazione profilo su PC—non per ban di solo account."
+      "title": "FC27 HWID Spoofer for Windows Hardware Flags",
+      "description": "FC27 hwid spoofer for players facing a hardware flag on PC. $50 for 31 days or $150 lifetime. Profile rotation on a PC—not for account-only bans."
     },
     "/products/fc27-cheats/utilities/": {
-      "title": "Confronta lo Strumento HWID e l'Utilità Appelli Account",
-      "description": "Scopri quale utilità Windows gestisce un blocco hardware e quale un appello per l'account. Entrambi richiedono acquisti separati da loader."
+      "title": "Compare the HWID Tool and Account Appeal Utility",
+      "description": "See which Windows utility fits a hardware flag and which one fits an account appeal. Both are separate checkouts from the loader."
     },
     "/blog/": {
-      "title": "Guide pubblicate per FC 27 su menu, protezione e patch",
-      "description": "Le guide coprono Ultimate Team, Carriera, Pro Clubs, il flag hardware HWID e i giorni di patch di EA Javelin prima di avviare su Windows PC."
+      "title": "Guides – patch-day checks before you launch EA SPORTS FC",
+      "description": "Guides on Ultimate Team, Career Mode, Pro Clubs, HWID flags, and patch-day checks before you launch EA SPORTS FC 27 on Windows PC worldwide."
     },
     "/forum/": {
-      "title": "Forum della community: configurazione, menu e piani",
-      "description": "Thread del forum su loader, assistenti di gioco, piani per $35 per 31 giorni e $150 lifetime e giorni di patch di EA Javelin. Le risposte degli sviluppatori sono contrassegnate."
+      "title": "Community Forum: Setup, Menu, and Plans",
+      "description": "Forum threads on the loader, gameplay assists, $35 for 31 days and $150 lifetime plans, and EA Javelin patch days. Developer replies are marked."
     },
     "/faq/": {
-      "title": "FAQ – Piani, configurazione e rischi EA Javelin prima dell'acquisto",
-      "description": "Risposte su checkout, aggiornamenti di EA Javelin, requisiti di Windows, flag hardware e differenze tra loader, spoofer e strumento account."
+      "title": "Ea Javelin – Plans, Setup, and Ban Risk Before Checkout",
+      "description": "Ea Javelin: Answers on checkout, client updates, Windows PC requirements, hardware flags, and how the loader, spoofer, and account tool differ."
     },
     "/support/": {
-      "title": "Supporto: Loader, Pagamento e HWID PC",
-      "description": "Loader, pagamento e aiuto sul portale per gli strumenti PC, il HWID spoofer e i ricorsi per gli account. Includi l'email del tuo ordine e l'esatto loader."
+      "title": "Support: Loader, Checkout, and HWID PC",
+      "description": "Loader, checkout, and portal help for PC tools, the HWID spoofer, and account appeals. Include your order email and the exact loader."
     },
     "/about/": {
-      "title": "Informazioni sul negozio: consegna, prezzi e rischi",
-      "description": "Cosa vende cheatsfc27.org per EA SPORTS FC 27 su Windows PC, come funziona la consegna, i rischi di EA Javelin e cosa includono loader, spoofer e."
+      "title": "Store – cheatsfc27.org sells EA SPORTS FC 27 on PC",
+      "description": "Store: What cheatsfc27.org sells for EA SPORTS FC 27 on Windows PC, how portal delivery works, EA Javelin risks, and the loader and spoofer."
     },
     "/privacy/": {
-      "title": "Note sulla privacy per analisi, cookie e contatti",
-      "description": "Come cheatsfc27.org gestisce analisi, cookie e dati di contatto. I numeri delle carte rimangono sul provider di pagamento, non su questo negozio."
+      "title": "Privacy notes for analytics, cookies, and contact data",
+      "description": "How cheatsfc27.org handles analytics, cookies, and contact data. Payment card numbers stay on the checkout provider, not on this store."
     },
     "/terms/": {
-      "title": "Termini di licenza, rimborsi e regole d'uso",
-      "description": "Termini di licenza, uso accettato e regola di non rimborso per loader, HWID spoofer e recupero account venduti tramite cheatsfc27.org."
+      "title": "License terms, refunds, and acceptable use rules",
+      "description": "License terms, acceptable use, and the no-refund rule for the loader, HWID spoofer, and account recovery sold through cheatsfc27.org."
     },
     "/status/": {
-      "title": "Note sulla patch EA Javelin e stato del client",
-      "description": "Aggiornamento v1.1.0 (27 ott 2026) per EA SPORTS FC 27: QoL, interfaccia Carriera, correzioni Club e sicurezza EA Javelin. Verifica prima dell'avvio."
+      "title": "EA Javelin Patch Notes & Client Status",
+      "description": "Title Update v1.1.0 (Oct 27, 2026) for EA SPORTS FC 27: QoL, Career UI, Clubs fixes, and EA Javelin security. Check before launch."
     }
   }
 }

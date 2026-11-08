@@ -26,6 +26,7 @@
     "i18n:export-product": "tsx scripts/export-product-locale-en.mjs",
     "i18n:check": "node scripts/i18n-check.mjs",
     "check:seo": "node scripts/check-fc27-menu-images.mjs && node scripts/check-keywords.mjs && node scripts/check-blog-seo.mjs",
+    "seo:sync-locales": "node scripts/sync-seo-from-en.mjs",
     "check:links": "node scripts/check-i18n-links.mjs",
     "verify": "node scripts/verify-site.mjs",
     "qa": "npm run build:i18n-test && npm run check:seo && npm run verify",
