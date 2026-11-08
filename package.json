@@ -30,8 +30,8 @@
     "verify": "node scripts/verify-site.mjs",
     "qa": "npm run build:i18n-test && npm run check:seo && npm run verify",
     "deploy:check": "node scripts/print-deploy-check.mjs",
-    "deploy": "npm run build:workers && wrangler deploy",
-    "cf:deploy": "npm run build:workers && wrangler deploy"
+    "deploy": "npm run build:i18n-test && wrangler deploy",
+    "cf:deploy": "npm run build:i18n-test && wrangler deploy"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",

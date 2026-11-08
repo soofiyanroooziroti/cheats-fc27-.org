@@ -4,7 +4,7 @@ compatibility_date = "2025-10-11"
 
 # Runs before `wrangler deploy` (including Cloudflare's default `npx wrangler deploy`).
 [build]
-command = "npm run build:workers"
+command = "npm run build:i18n-test"
 
 [assets]
 directory = "./dist"
