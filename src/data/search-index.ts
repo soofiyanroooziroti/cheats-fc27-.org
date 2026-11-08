@@ -148,7 +148,7 @@ export function buildSearchIndex(locale: Locale = defaultLocale): SearchIndexEnt
   const plansSeo = resolvePageSeo('/products/fc27-cheats/', locale);
   entries.push({
     title: 'Plans — $35 for 31 days & $150 lifetime',
-    description: 'Compare one-month and lifetime checkout for FC27 Cheats, HWID spoofer, and UGC recovery.',
+    description: 'Compare one-month and lifetime checkout for FC27 Cheats and the HWID spoofer.',
     url: plansUrl,
     type: 'Plans',
     text: [

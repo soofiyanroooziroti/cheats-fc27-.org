@@ -28,7 +28,7 @@
     },
     {
       "type": "p",
-      "text": "チェックアウトは[loaderページ](/products/fc27-cheats/loader/).で行います。Monthlyは31日間$35です。Lifetimeは$150です。週単位のプランはありません。そのキーには[HWID spoofer](/products/fc27-cheats/hwid-spoofer/)や[UGC account recovery](/products/fc27-cheats/ugc/).は含まれません。すでにBANされている場合は、これらは別のカードになります。"
+      "text": "チェックアウトは[loaderページ](/products/fc27-cheats/loader/).で行います。Monthlyは31日間$35です。Lifetimeは$150です。週単位のプランはありません。そのキーには[HWID spoofer](/products/fc27-cheats/hwid-spoofer/)や.は含まれません。すでにBANされている場合は、これらは別のカードになります。"
     },
     {
       "type": "h2",

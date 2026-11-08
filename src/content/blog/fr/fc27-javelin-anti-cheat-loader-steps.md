@@ -28,7 +28,7 @@
     },
     {
       "type": "p",
-      "text": "Le paiement s'effectue sur la [page loader](/products/fc27-cheats/loader/). Monthly est à $35 pour 31 jours. Lifetime est à $150. Il n'y a pas de forfait hebdomadaire. Cette clé n'inclut pas le [HWID spoofer](/products/fc27-cheats/hwid-spoofer/) ou le [UGC account recovery](/products/fc27-cheats/ugc/). Ce sont des cartes séparées si vous êtes déjà banni."
+      "text": "Le paiement s'effectue sur la [page loader](/products/fc27-cheats/loader/). Monthly est à $35 pour 31 jours. Lifetime est à $150. Il n'y a pas de forfait hebdomadaire. Cette clé n'inclut pas le [HWID spoofer](/products/fc27-cheats/hwid-spoofer/) ou le. Ce sont des cartes séparées si vous êtes déjà banni."
     },
     {
       "type": "h2",

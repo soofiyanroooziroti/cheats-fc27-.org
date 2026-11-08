@@ -5,7 +5,7 @@
   "slug": "fc-27-ban-fix-guide",
   "image": "/images/blog/fc27-shot-on-goal.webp",
   "imageAlt": "Ataque de partido de EA FC 27 usado como cabecera para la guía de solución de suspensiones",
-  "desc": "La protección antiblanqueo es el único interruptor de seguridad en el loader de FC 27. No es una solución para bloqueos de hardware ni para apelaciones de cuentas de EA; esas cuestiones requieren otros productos.",
+  "desc": "La protección antiblanqueo es el único interruptor de seguridad en el loader de FC 27.",
   "date": "4 de nov de 2026",
   "readTime": "5 min de lectura",
   "body": [
@@ -30,12 +30,12 @@
       "items": [
         "Quieres el interruptor de seguridad dentro del partido: es la protección antiblanqueo en el loader. Lee esta página y luego la lista de funciones.",
         "El bloqueo afecta al PC: ese es el [HWID spoofer](/products/fc27-cheats/hwid-spoofer/), con pago independiente a $50 por 31 días o $150 lifetime.",
-        "La sanción está en la cuenta de EA: esa es la [herramienta de recuperación de cuentas](/products/fc27-cheats/ugc/), $35 por 31 días o $150 lifetime, también independiente."
+        "La sanción está en la cuenta de EA: esa es la, $35 por 31 días o $150 lifetime, también independiente."
       ]
     },
     {
       "type": "p",
-      "text": "La clave de trampa $150 lifetime no incluye el suplantador de hardware ni UGC. No hay plan semanal. Comprar el producto del interruptor y luego recibir una suspensión sigue siendo un resultado posible. La solución en el título de este artículo es un término que la gente busca. El alcance real es una línea de menú más una advertencia."
+      "text": "La clave de trampa $150 lifetime no incluye el suplantador de hardware ni. No hay plan semanal. Comprar el producto del interruptor y luego recibir una suspensión sigue siendo un resultado posible. La solución en el título de este artículo es un término que la gente busca. El alcance real es una línea de menú más una advertencia."
     },
     {
       "type": "h2",
@@ -52,7 +52,6 @@
   ],
   "takeaways": [
     "El interruptor no deshabilita los escaneos de núcleo (kernel) de EA Javelin.",
-    "Bloqueos de hardware → HWID spoofer; bloqueos de cuenta → recuperación de UGC.",
     "La actualización v1.1.0 es la compilación que debe coincidir en /status/ antes del lanzamiento."
   ],
   "dateIso": "2026-11-04"

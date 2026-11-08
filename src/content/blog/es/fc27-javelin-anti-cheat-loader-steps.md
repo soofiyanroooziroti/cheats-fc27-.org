@@ -28,7 +28,7 @@
     },
     {
       "type": "p",
-      "text": "El pago se realiza en la [página de loader](/products/fc27-cheats/loader/). Monthly cuesta $35 por 31 días. Lifetime cuesta $150. No hay un plan semanal. Esa clave no incluye el [HWID spoofer](/products/fc27-cheats/hwid-spoofer/) ni el [UGC account recovery](/products/fc27-cheats/ugc/). Esas son tarjetas separadas si ya estás baneado."
+      "text": "El pago se realiza en la [página de loader](/products/fc27-cheats/loader/). Monthly cuesta $35 por 31 días. Lifetime cuesta $150. No hay un plan semanal. Esa clave no incluye el [HWID spoofer](/products/fc27-cheats/hwid-spoofer/) ni el. Esas son tarjetas separadas si ya estás baneado."
     },
     {
       "type": "h2",

@@ -215,15 +215,12 @@ function productBundleIncomplete(dest, locale) {
   if (!en?.cheats?.overview?.title) return true;
   try {
     const parsed = JSON.parse(fs.readFileSync(dest, 'utf8'));
-    for (const kind of ['cheats', 'spoofer', 'ugc']) {
+    for (const kind of ['cheats', 'spoofer']) {
       const enSlides = en[kind]?.slides?.length ?? 0;
       const locSlides = parsed[kind]?.slides?.length ?? 0;
       if (enSlides > 0 && locSlides < enSlides) return true;
     }
     if (parsed?.cheats?.overview?.title === en.cheats.overview.title) return true;
-    const enCaption = en.ugc?.slides?.[1]?.caption;
-    const locCaption = parsed.ugc?.slides?.[1]?.caption;
-    if (enCaption && locCaption === enCaption) return true;
     return false;
   } catch {
     return true;
@@ -493,9 +490,9 @@ Translate this product-page JSON from English to ${LANG_NAME[locale]} (${locale}
 Rules:
 - Return ONLY valid JSON, same structure and keys as input.
 - Translate all human-readable strings (overview, body, steps, goodToKnow, limitations, requirements, groupNames, descs, slides, features arrays).
-- Keep JSON keys unchanged (cheats, spoofer, ugc, steps, howToGet, etc.).
+- Keep JSON keys unchanged (cheats, spoofer, steps, howToGet, etc.).
 - Keep placeholder {name} in howToGet exactly as-is.
-- Keep brand "FC27 Cheats" / "CheatsFC27", domain cheatsfc27.org, USD prices, P31D, P99Y, Zadeyo, Discord, EA Javelin, HWID, UGC, Cloud DMA, and menu toggle names (NoLoss, PlayStyles+, etc.) where gamers expect Latin/English UI labels.
+- Keep brand "FC27 Cheats" / "CheatsFC27", domain cheatsfc27.org, USD prices, P31D, P99Y, Zadeyo, Discord, EA Javelin, HWID, Cloud DMA, and menu toggle names (NoLoss, PlayStyles+, etc.) where gamers expect Latin/English UI labels.
 - Translate groupNames and description sentences fully; do not invent aimbot/ESP wording.
 - Do not add keyword lists or extra search phrases.
 - Never use the words "undetected" or "safe".

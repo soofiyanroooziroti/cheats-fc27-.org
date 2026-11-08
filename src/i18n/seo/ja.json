@@ -10,7 +10,7 @@
     },
     "/products/fc27-cheats/": {
       "title": "製品と価格 | Monthly および Lifetime プラン",
-      "description": "Windows PC上のEA SPORTS FC 27：31日間$35または$150 lifetimeでのチートとUGC、31日間$50または$150 lifetimeでのHWID spoofer。個別のチェックアウト。"
+      "description": "Windows PC上のEA SPORTS FC 27：31日間$35または$150 lifetimeでのチートと、31日間$50または$150 lifetimeでのHWID spoofer。個別のチェックアウト。"
     },
     "/products/fc27-cheats/loader/": {
       "title": "FC27 モッドメニュー | 試合とキャリアの補助",
@@ -19,10 +19,6 @@
     "/products/fc27-cheats/hwid-spoofer/": {
       "title": "FC27 HWID Spoofer（Windows ハードウェアフラグ対応）",
       "description": "PCでのハードウェアフラグに対処するプレイヤー向けのFC27 hwid spoofer。31日間$50または$150 lifetime。PCでのプロファイルローテーション（アカウントのみのBANには非対応）。"
-    },
-    "/products/fc27-cheats/ugc/": {
-      "title": "FC27 PC 異議申し立て用アカウント復旧ツール",
-      "description": "BANの異議申し立てや復旧ケースを整理するFC27アカウント復旧ツール。PC上のloaderおよびHWID spooferとは別のライセンスです。"
     },
     "/products/fc27-cheats/utilities/": {
       "title": "HWID ツールとアカウント異議申し立てユーティリティの比較",
@@ -46,7 +42,7 @@
     },
     "/about/": {
       "title": "このストアについて: ポータルの配信、価格、リスク",
-      "description": "cheatsfc27.org が Windows PC の EA SPORTS FC 27 向けに販売しているもの、ポータル配信の仕組み、EA Javelin のリスク、loader、スプーファー、UGC ツールに含まれる内容について。"
+      "description": "Cheatsfc27.org が Windows PC の EA SPORTS FC 27 向けに販売しているもの、ポータル配信の仕組み、EA Javelin のリスク、loader、スプーファー、 ツールに含まれる内容について。"
     },
     "/privacy/": {
       "title": "分析、クッキー、連絡先データのプライバシーに関する注意事項",

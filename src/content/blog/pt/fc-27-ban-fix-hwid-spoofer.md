@@ -5,7 +5,7 @@
   "slug": "fc-27-ban-fix-hwid-spoofer",
   "image": "/images/blog/fc27-midfield.webp",
   "imageAlt": "Jogada de meio-campo do EA FC 27 usada como cabeçalho para o guia HWID spoofer",
-  "desc": "Uma correção de banimento do FC 27 depende da penalidade: um sinalizador de hardware precisa de HWID spoofer, e um bloqueio de conta precisa de recuperação UGC. Nenhum dos dois vem junto com loader.",
+  "desc": "O HWID spoofer é uma compra separada do loader.",
   "date": "8 de nov. de 2026",
   "readTime": "5 min de leitura",
   "body": [
@@ -16,10 +16,6 @@
     {
       "type": "p",
       "text": "Se o bloqueio estiver vinculado ao computador, o produto relevante é o [FC27 HWID Spoofer](/products/fc27-cheats/hwid-spoofer/). É uma licença separada. O cheat lifetime em $150 não o inclui. O preço do spoofer nesta loja é de $50 por 31 dias ou $150 lifetime. Não há plano semanal."
-    },
-    {
-      "type": "p",
-      "text": "Se o problema for a conta, o produto relevante é a [ferramenta de recuperação de conta do FC27](/products/fc27-cheats/ugc/). Essa área de trabalhoace serve para organizar uma apelação e um caso de recuperação. Não é um spoofer de hardware e não está incluído com loader. UGC custa $35 por 31 dias ou $150 lifetime em seu próprio checkout."
     },
     {
       "type": "h2",
@@ -41,13 +37,12 @@
       "type": "ul",
       "items": [
         "O jogo ou launcher relata um bloqueio de hardware, ou uma nova instalação de Windows não o resolveu: comece pela página HWID spoofer.",
-        "A penalidade menciona a conta EA, o e-mail ou a identidade do clube: comece pela página de recuperação de conta.",
         "Você quer recursos de menu no Ultimate Team, Carreira ou Clubes Pro e não está banido no momento: esse é o loader, e não qualquer uma das utilidades."
       ]
     },
     {
       "type": "p",
-      "text": "O checkout permanece no cartão que você abriu. loader, o spoofer e a ferramenta de recuperação não compartilham a mesma chave. Confirme o preço nesse cartão. Não assuma que uma resposta de fórum ou este artigo os agrupou."
+      "text": "O checkout permanece no cartão que você abriu. Confirme o preço nesse cartão. Não assuma que uma resposta de fórum ou este artigo os agrupou."
     },
     {
       "type": "p",
@@ -56,7 +51,6 @@
   ],
   "takeaways": [
     "Sinalizadores de hardware usam /products/fc27-cheats/hwid-spoofer/ por $50 por 31 dias ou $150 lifetime.",
-    "Apelações de conta usam /products/fc27-cheats/ugc/ em seu próprio checkout.",
     "A Proteção Antiban em loader não substituiace nenhuma das utilidades."
   ],
   "dateIso": "2026-11-08"

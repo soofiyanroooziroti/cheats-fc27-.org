@@ -16,7 +16,7 @@
     },
     {
       "type": "p",
-      "text": "Hay un producto de trucos. Los planes son de $35 por 31 días o $150 lifetime. No hay plan semanal. Lifetime en el truco no incluye la HWID spoofer ni el espacio de recuperación de cuenta ace. Esas son compras separadas. La [página de [loader](/products/fc27-cheats/loader/)) es donde se encuentran la lista de funciones y el botón de compra. Este artículo se centra en las funciones, el precio y el riesgo."
+      "text": "Hay un producto de trucos. Los planes son de $35 por 31 días o $150 lifetime. No hay plan semanal. Esas son compras separadas. La [página de [loader](/products/fc27-cheats/loader/)) es donde se encuentran la lista de funciones y el botón de compra. Este artículo se centra en las funciones, el precio y el riesgo."
     },
     {
       "type": "p",
@@ -28,7 +28,7 @@
     },
     {
       "type": "p",
-      "text": "Los compradores también escriben hacks de FC 27. En este sitio, eso significa lo mismo loader, no un segundo producto. Nada aquí se etiqueta como indetectable. La Protección Anti-Ban es un interruptor en el menú. No detiene a EA Javelin y no hace que un baneo de hardware o de cuenta sea reversible. Si un baneo anterior fue una marca de hardware, esa es la conversación de [HWID spoofer](/products/fc27-cheats/hwid-spoofer/)). Si fue una apelación de cuenta, esa es la [herramienta de recuperación de cuenta](/products/fc27-cheats/ugc/).). No considere esas páginas como incluidas en la clave de trucos de $150."
+      "text": "Los compradores también escriben hacks de FC 27. En este sitio, eso significa lo mismo loader, no un segundo producto. Nada aquí se etiqueta como indetectable. La Protección Anti-Ban es un interruptor en el menú. No detiene a EA Javelin y no hace que un baneo de hardware o de cuenta sea reversible. Si un baneo anterior fue una marca de hardware, esa es la conversación de [HWID spoofer](/products/fc27-cheats/hwid-spoofer/)). No considere esas páginas como incluidas en la clave de trucos de $150."
     },
     {
       "type": "h2",
@@ -36,7 +36,7 @@
     },
     {
       "type": "p",
-      "text": "El acceso de Monthly es de 31 días a $35. Lifetime es $150 en esa misma tarjeta. Comenzar por un mes no promete un crédito hacia lifetime. El falsificador cuesta $50 por 31 días o $150 lifetime en su propia tarjeta. La recuperación de UGC utiliza la misma división de $35 o $150 que el truco, nuevamente en su propio pago. Compare esos números en las tarjetas de productos, no en una escala de niveles. No hay versión Lite, Pro o Elite."
+      "text": "El acceso de Monthly es de 31 días a $35. Lifetime es $150 en esa misma tarjeta. Comenzar por un mes no promete un crédito hacia lifetime. El falsificador cuesta $50 por 31 días o $150 lifetime en su propia tarjeta. Compare esos números en las tarjetas de productos, no en una escala de niveles. No hay versión Lite, Pro o Elite."
     },
     {
       "type": "p",
@@ -57,7 +57,6 @@
   ],
   "takeaways": [
     "Un producto de trucos a $35 por 31 días o $150 lifetime; sin plan semanal.",
-    "La recuperación de HWID spoofer y UGC son pagos $150 separados.",
     "Aún es posible recibir un baneo después de la Actualización de Título v1.1.0; lee /status/ antes de iniciar."
   ],
   "dateIso": "2026-10-31"

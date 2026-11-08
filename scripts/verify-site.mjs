@@ -167,14 +167,11 @@ const CHECKOUT_BY_PATH = {
   '/go/delta-force/': CHECKOUT_URLS.fc27,
   '/go/hwid-spoofer': CHECKOUT_URLS.hwidSpoofer,
   '/go/hwid-spoofer/': CHECKOUT_URLS.hwidSpoofer,
-  '/go/ugc': CHECKOUT_URLS.ugc,
-  '/go/ugc/': CHECKOUT_URLS.ugc,
 };
 
 const SPEC_KEY_TO_PATH = {
   fc27: '/go/fc27/',
   hwidSpoofer: '/go/hwid-spoofer/',
-  ugc: '/go/ugc/',
 };
 
 function checkCheckoutConfig() {

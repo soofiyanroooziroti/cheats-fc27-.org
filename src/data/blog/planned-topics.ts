@@ -20,7 +20,7 @@ export const PLANNED_BLOG_TOPICS = [
     slug: 'fc-27-ban-fix-hwid-spoofer',
     workingTitle: 'Discover What an HWID Spoofer Does for Safety',
     intent:
-      'Target: fc 27 ban fix. Hardware flag vs account appeal. Link /products/fc27-cheats/hwid-spoofer/ and /products/fc27-cheats/ugc/. Separate checkouts.',
+      'Target: fc 27 ban fix. Hardware flag. Link /products/fc27-cheats/hwid-spoofer/. Separate checkout from the loader.',
   },
   {
     slug: 'fc-27-cheats-guide',

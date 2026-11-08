@@ -40,11 +40,11 @@
     },
     {
       "type": "p",
-      "text": "La tarification reste celle indiquée sur la carte du produit : $35 pour 31 jours ou $150 lifetime, sans formule hebdomadaire. La description du trainer ne crée pas de seconde référence produit. Le paiement s'effectue via le module de paiement loader. Le spoofer et la récupération de UGC restent des éléments séparés si vous êtes déjà banni."
+      "text": "La tarification reste celle indiquée sur la carte du produit: $35 pour 31 jours ou $150 lifetime, sans formule hebdomadaire. La description du trainer ne crée pas de seconde référence produit. Le paiement s'effectue via le module de paiement loader."
     },
     {
       "type": "p",
-      "text": "Après une mise à jour de titre, l'interface du mode carrière peut changer de disposition. La note du 27 octobre en est l'exemple parfait. Consultez à nouveau la liste des fonctionnalités du produit avant de supposer qu'un curseur correspond toujours au même écran de carrière. Si la fonctionnalité a disparu, cet article est obsolète et la page du produit fait foi. Vérifiez cette page à nouveau avant votre prochaine session."
+      "text": "Après une mise à jour de titre, l'interface du mode carrière peut changer de disposition. Consultez à nouveau la liste des fonctionnalités du produit avant de supposer qu'un curseur correspond toujours au même écran de carrière. Si la fonctionnalité a disparu, cet article est obsolète et la page du produit fait foi. Vérifiez cette page à nouveau avant votre prochaine session."
     }
   ],
   "takeaways": [

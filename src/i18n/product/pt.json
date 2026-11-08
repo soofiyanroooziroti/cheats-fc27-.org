@@ -171,55 +171,5 @@
       "Fluxo de trabalho passo a passo do portal",
       "Suporte de configuração Discord"
     ]
-  },
-  "ugc": {
-    "slides": [
-      {
-        "alt": "Menu de segurança do EA SPORTS FC 27 loader em Windows PC",
-        "caption": "Recuperação de conta",
-        "captionDesc": "Espaço de trabalho de apelaçãoace compartilhado entre lojas."
-      }
-    ],
-    "overview": {
-      "title": "Espaço de trabalho UGC Account recovery",
-      "paragraphs": [
-        "UGC Account recovery ajuda a organizar apelações de banimento e casos de recuperação com modelos, listas de evidências e lembretes de acompanhamento.",
-        "Entrega digital instantânea após finalização de compra segura, com suporte Discord para dúvidas de configuração."
-      ]
-    },
-    "body": [
-      {
-        "type": "h2",
-        "text": "Fluxos de trabalho de apelação"
-      },
-      {
-        "type": "p",
-        "text": "Crie caminhos de apelação personalizados, automatize etapas de disputa e acompanhe o status do caso quando contas de jogos forem bloqueadas ou restritas."
-      },
-      {
-        "type": "h2",
-        "text": "Planos"
-      },
-      {
-        "type": "p",
-        "text": "Monthly $35 USD (P31D) ou lifetime $150 USD (P99Y)."
-      }
-    ],
-    "goodToKnow": "Reúna o e-mail do pedido, os detalhes da conta e as capturas de tela da restrição antes de abrir um ticket. UGC estrutura apelações — não ignora a análise da plataforma.",
-    "limitations": "UGC não garante a restauração da conta. Os resultados variam de acordo com o tipo de caso e a política da plataforma.",
-    "requirements": [
-      "Windows 10 ou 11 (64 bits).",
-      "Acesso à internet para sincronização de fluxo de trabalho e atualizações.",
-      "Acesso de administrador para instalação."
-    ],
-    "features": [
-      "Fluxos de trabalho de apelação personalizados",
-      "Espaço de trabalho de recuperação multiplataforma ace",
-      "Biblioteca de modelos",
-      "Automação para etapas repetitivas",
-      "Painel de rastreamento de restrições",
-      "Fluxo de trabalho passo a passo no portal",
-      "Suporte de configuração Discord"
-    ]
   }
 }

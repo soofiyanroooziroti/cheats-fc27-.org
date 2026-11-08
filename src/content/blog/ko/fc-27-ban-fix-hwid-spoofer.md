@@ -5,7 +5,7 @@
   "slug": "fc-27-ban-fix-hwid-spoofer",
   "image": "/images/blog/fc27-midfield.webp",
   "imageAlt": "HWID spoofer 가이드의 헤더로 사용된 EA FC 27 미드필드 플레이",
-  "desc": "FC 27 밴 수정은 처벌 유형에 따라 다릅니다. 하드웨어 플래그에는 HWID spoofer이 필요하고, 계정 차단에는 UGC 복구가 필요합니다. 둘 다 loader에 포함되어 있지 않습니다.",
+  "desc": "하드웨어 플래그에는 HWID spoofer가 필요합니다. loader에는 포함되어 있지 않습니다.",
   "date": "2026년 11월 8일",
   "readTime": "5분 읽기",
   "body": [
@@ -16,10 +16,6 @@
     {
       "type": "p",
       "text": "차단이 컴퓨터와 관련된 경우, 관련 제품은 [FC27 HWID Spoofer](/products/fc27-cheats/hwid-spoofer/).)입니다. 별도의 라이선스입니다. $150의 치트 lifetime에는 포함되지 않습니다. 이 스토어의 스푸퍼 가격은 31일에 50달러 또는 $150 lifetime입니다. 주간 플랜은 없습니다."
-    },
-    {
-      "type": "p",
-      "text": "문제의 원인이 계정인 경우, 관련 제품은 [FC27 계정 복구 도구](/products/fc27-cheats/ugc/).)입니다. 해당 작업 공간ace은 이의 제기 및 복구 사례를 정리하기 위한 것입니다. 하드웨어 스푸퍼가 아니며 loader에 포함되어 있지 않습니다. UGC은 31일 기준 $35이거나 개별 결제 시 $150 lifetime입니다."
     },
     {
       "type": "h2",
@@ -41,13 +37,12 @@
       "type": "ul",
       "items": [
         "게임 또는 런처에서 하드웨어 형식의 차단이 보고되거나 새 Windows 설치로 해결되지 않은 경우: HWID spoofer 페이지부터 시작하세요.",
-        "처벌 내용에 EA 계정, 이메일 또는 클럽 아이덴티티가 명시된 경우: 계정 복구 페이지부터 시작하세요.",
         "Ultimate Team, 커리어 또는 프로 클럽에서 메뉴 기능을 원하고 현재 차단되지 않은 경우: 유틸리티가 아니라 loader입니다."
       ]
     },
     {
       "type": "p",
-      "text": "결제는 열려 있는 카드에서 유지됩니다. loader, 스푸퍼 및 복구 도구는 하나의 키를 공유하지 않습니다. 해당 카드의 가격을 확인하세요. 포럼 답변이나 이 기사에서 이를 번들로 묶었다고 가정하지 마세요."
+      "text": "결제는 열려 있는 카드에서 유지됩니다. 해당 카드의 가격을 확인하세요. 포럼 답변이나 이 기사에서 이를 번들로 묶었다고 가정하지 마세요."
     },
     {
       "type": "p",
@@ -56,7 +51,7 @@
   ],
   "takeaways": [
     "하드웨어 플래그는 31일 50달러 또는 $150 lifetime인 /products/fc27-cheats/hwid-spoofer/을 사용합니다.",
-    "계정 이의 제기는 자체 결제 시 /products/fc27-cheats/ugc/을 사용합니다.",
+    "계정 이의 제기는 자체 결제 시 /products/fc27-cheats/을 사용합니다.",
     "loader의 차단 방지 보호는 두 유틸리티를 대체ace하지 않습니다."
   ],
   "dateIso": "2026-11-08"

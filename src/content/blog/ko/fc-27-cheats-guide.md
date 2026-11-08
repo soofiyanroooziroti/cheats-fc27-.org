@@ -15,7 +15,7 @@
     },
     {
       "type": "p",
-      "text": "이 제품은 EA SPORTS FC 27용 Windows loader 하나입니다. 실시간 기능 목록과 결제를 보려면 [loader 페이지](/products/fc27-cheats/loader/)를 여세요. 이용권은 31일 또는 $150 lifetime 동안 $35됩니다. 주간 옵션은 없습니다. HWID spoofer과 계정 복구 도구는 각각 다른 키를 가진 별개의 카드입니다."
+      "text": "이 제품은 EA SPORTS FC 27용 Windows loader 하나입니다. 실시간 기능 목록과 결제를 보려면 [loader 페이지](/products/fc27-cheats/loader/)를 여세요. 이용권은 31일 또는 $150 lifetime 동안 $35됩니다. 주간 옵션은 없습니다."
     },
     {
       "type": "p",
@@ -39,7 +39,7 @@
     },
     {
       "type": "p",
-      "text": "이미 제재를 받았다면 이 가이드로 시작하지 마십시오. 하드웨어 플래그는 [HWID spoofer](/products/fc27-cheats/hwid-spoofer/).를 가리킵니다. 계정 이의 제기는 [UGC 복구](/products/fc27-cheats/ugc/).를 가리킵니다. 두 가지 모두 치트 lifetime 가격에 포함되어 있지 않습니다."
+      "text": "이미 제재를 받았다면 이 가이드로 시작하지 마십시오. 하드웨어 플래그는 [HWID spoofer](/products/fc27-cheats/hwid-spoofer/).를 가리킵니다. 계정 이의 제기는.를 가리킵니다. 두 가지 모두 치트 lifetime 가격에 포함되어 있지 않습니다."
     },
     {
       "type": "p",

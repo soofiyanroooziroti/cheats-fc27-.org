@@ -15,7 +15,7 @@
     },
     {
       "type": "p",
-      "text": "El producto es un Windows loader para EA SPORTS FC 27. Abre la [página [loader](/products/fc27-cheats/loader/) para ver la lista de funciones en directo y finalizar la compra. Los planes están $35 por 31 días o $150 lifetime. No hay opción semanal. El HWID spoofer y la herramienta de recuperación de cuentas son tarjetas diferentes con claves distintas."
+      "text": "El producto es un Windows loader para EA SPORTS FC 27. Abre la [página [loader](/products/fc27-cheats/loader/) para ver la lista de funciones en directo y finalizar la compra. Los planes están $35 por 31 días o $150 lifetime. No hay opción semanal."
     },
     {
       "type": "p",
@@ -39,7 +39,7 @@
     },
     {
       "type": "p",
-      "text": "Si ya estás baneado, no empieces con esta guía. Un indicador de hardware apunta a [HWID spoofer](/products/fc27-cheats/hwid-spoofer/). Una apelación de cuenta apunta a la recuperación de [UGC](/products/fc27-cheats/ugc/). Ninguno de los dos está incluido en el precio del lifetime de trucos."
+      "text": "Si ya estás baneado, no empieces con esta guía. Un indicador de hardware apunta a [HWID spoofer](/products/fc27-cheats/hwid-spoofer/). Ninguno de los dos está incluido en el precio del lifetime de trucos."
     },
     {
       "type": "p",

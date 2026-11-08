@@ -306,6 +306,31 @@
 }
 
 /* Landing products row carousel */
+.products-section__grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1rem;
+  max-width: 56.25rem;
+  margin-inline: auto;
+  align-items: stretch;
+}
+
+@media (min-width: 768px) {
+  .products-section__grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem;
+  }
+}
+
+.products-section__grid > [data-catalog-card] {
+  height: 100%;
+}
+
+.products-section__grid .catalog-card__features {
+  /* Four feature rows plus "+N more" so commerce rows line up across cards */
+  min-height: 9.75rem;
+}
+
 .products-carousel {
   --products-carousel-gap: 1rem;
   position: relative;

@@ -89,7 +89,7 @@ const defaults: ForumUi = {
   next: 'Next',
   sidebarAboutTitle: 'FC 27 community',
   sidebarAboutCopy:
-    'Questions about the cheat, the HWID spoofer, and UGC recovery. Developer replies stay on the thread.',
+    'Questions about the cheat and the HWID spoofer. Developer replies stay on the thread.',
   sidebarTopics: 'topics',
   sidebarExploreGuides: 'Explore all guides',
   sidebarCommunities: 'Communities',

@@ -14,7 +14,6 @@ export const CHECKOUT_SLUGS: Record<CheckoutProduct, string> = {
   fc27: 'fc27',
   dayz: 'dayz',
   hwidSpoofer: 'hwid-spoofer',
-  ugc: 'ugc',
 };
 
 export const CHECKOUT_SLUG_TO_PRODUCT = Object.fromEntries(
@@ -31,9 +30,6 @@ export function checkoutForSlug(slug: string): string {
   switch (slug) {
     case 'hwid-spoofer':
       return checkoutPath('hwidSpoofer');
-    case 'ugc':
-    case 'ugc-account-recovery':
-      return checkoutPath('ugc');
     case 'loader':
     case 'fc27-cheats':
     case 'dayz-cheats':
@@ -67,7 +63,7 @@ export function resolveCheckoutHref(href: string): string {
     return checkoutPath('hwidSpoofer');
   }
   if (href.includes('%2Fproducts%2Fugc') || href.includes('/products/ugc')) {
-    return checkoutPath('ugc');
+    return '/products/fc27-cheats/';
   }
 
   return href;

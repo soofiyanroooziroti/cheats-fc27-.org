@@ -44,7 +44,7 @@
     },
     {
       "type": "p",
-      "text": "Le groupe est inclus dans le cheat, qui est $35 pour 31 jours ou $150 lifetime. Il n'y a pas de forfait hebdomadaire ni de mise à niveau réservée à FUT. Les statistiques Pro Clubs et les curseurs de gameplay constituent d'autres groupes. La protection anti-bannissement est l'option de protection et elle n'arrête pas Javelin. Les lanceurs pris en charge restent l'application EA, Steam et Epic Games Store."
+      "text": "Le groupe est inclus dans le cheat, qui est $35 pour 31 jours ou $150 lifetime. Il n'y a pas de forfait hebdomadaire ni de mise à niveau réservée à FUT. Les statistiques Pro Clubs et les curseurs de gameplay constituent d'autres groupes. Les lanceurs pris en charge restent l'application EA, Steam et Epic Games Store."
     },
     {
       "type": "p",

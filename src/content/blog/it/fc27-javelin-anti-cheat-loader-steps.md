@@ -28,7 +28,7 @@
     },
     {
       "type": "p",
-      "text": "Il checkout si trova sulla [pagina loader](/products/fc27-cheats/loader/). Monthly è $35 per 31 giorni. Lifetime è $150. Non esiste un piano settimanale. Questa chiave non include il [HWID spoofer](/products/fc27-cheats/hwid-spoofer/) o [UGC account recovery](/products/fc27-cheats/ugc/). Queste sono carte separate se sei già bannato."
+      "text": "Il checkout si trova sulla [pagina loader](/products/fc27-cheats/loader/). Monthly è $35 per 31 giorni. Lifetime è $150. Non esiste un piano settimanale. Questa chiave non include il [HWID spoofer](/products/fc27-cheats/hwid-spoofer/) o. Queste sono carte separate se sei già bannato."
     },
     {
       "type": "h2",

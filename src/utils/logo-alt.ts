@@ -14,7 +14,6 @@ export function logoAltForPath(pathname: string): string {
   if (path === '/products/fc27-cheats/') return 'Products – logo';
   if (path === '/products/fc27-cheats/loader/') return 'FC27 Mod Menu – logo';
   if (path === '/products/fc27-cheats/hwid-spoofer/') return 'FC27 HWID Spoofer – logo';
-  if (path === '/products/fc27-cheats/ugc/') return 'FC27 Account Recovery Tool – logo';
   if (path === '/blog/') return 'Guides – logo';
   if (path === '/forum/') return 'Forum – logo';
   if (path === '/faq/') return 'Faq – logo';

@@ -28,7 +28,7 @@
     },
     {
       "type": "p",
-      "text": "تتم عملية الدفع على [صفحة loader](/products/fc27-cheats/loader/). Monthly هي $35 لمدة 31 يوماً. Lifetime هي $150. لا توجد خطة أسبوعية. لا يتضمن هذا المفتاح [HWID spoofer](/products/fc27-cheats/hwid-spoofer/) أو [UGC account recovery](/products/fc27-cheats/ugc/). تلك بطاقات منفصلة إذا كنت محظوراً بالفعل."
+      "text": "تتم عملية الدفع على [صفحة loader](/products/fc27-cheats/loader/). Monthly هي $35 لمدة 31 يوماً. Lifetime هي $150. لا توجد خطة أسبوعية. لا يتضمن هذا المفتاح [HWID spoofer](/products/fc27-cheats/hwid-spoofer/) أو. تلك بطاقات منفصلة إذا كنت محظوراً بالفعل."
     },
     {
       "type": "h2",

@@ -171,55 +171,5 @@
       "Flujo paso a paso en el portal",
       "Soporte de configuración Discord"
     ]
-  },
-  "ugc": {
-    "slides": [
-      {
-        "alt": "Menú de seguridad de EA SPORTS FC 27 loader en Windows PC",
-        "caption": "Recuperación de cuenta",
-        "captionDesc": "Espacio de trabajo para apelacionesace compartido entre tiendas."
-      }
-    ],
-    "overview": {
-      "title": "Espacio de trabajo UGC Account recovery",
-      "paragraphs": [
-        "UGC Account recovery ayuda a organizar apelaciones de suspensiones y casos de recuperación con plantillas, listas de pruebas y recordatorios de seguimiento.",
-        "Entrega digital instantánea tras un pago seguro, con soporte de Discord para preguntas de configuración."
-      ]
-    },
-    "body": [
-      {
-        "type": "h2",
-        "text": "Flujos de trabajo de apelación"
-      },
-      {
-        "type": "p",
-        "text": "Construye rutas de apelación personalizadas, automatiza los pasos de disputa y realiza un seguimiento del estado del caso cuando las cuentas de juego estén bloqueadas o restringidas."
-      },
-      {
-        "type": "h2",
-        "text": "Planes"
-      },
-      {
-        "type": "p",
-        "text": "Monthly $35 USD (P31D) o lifetime $150 USD (P99Y)."
-      }
-    ],
-    "goodToKnow": "Reúne el correo del pedido, los detalles de la cuenta y las capturas de pantalla de la restricción antes de abrir un ticket. UGC estructura las apelaciones, pero no evita la revisión de la plataforma.",
-    "limitations": "UGC no garantiza la restauración de la cuenta. Los resultados varían según el tipo de caso y la política de la plataforma.",
-    "requirements": [
-      "Windows 10 u 11 (64 bits).",
-      "Acceso a Internet para la sincronización del flujo de trabajo y actualizaciones.",
-      "Acceso de administrador para la instalación."
-    ],
-    "features": [
-      "Flujos de trabajo de apelación personalizados",
-      "Espacio de trabajo de recuperación multiplataforma ace",
-      "Biblioteca de plantillas",
-      "Automatización para pasos repetitivos",
-      "Panel de seguimiento de restricciones",
-      "Flujo de trabajo paso a paso del portal",
-      "Soporte de configuración Discord"
-    ]
   }
 }

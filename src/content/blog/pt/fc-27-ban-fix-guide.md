@@ -30,12 +30,12 @@
       "items": [
         "Você quer a chave de segurança dentro da partida: é a Proteção Anti-Banimento no loader. Leia esta página e, em seguida, a lista de recursos.",
         "O bloqueio decorre do PC: este é o [HWID spoofer](/products/fc27-cheats/hwid-spoofer/), um pagamento separado de $50 por 31 dias ou $150 lifetime.",
-        "A penalidade está na conta da EA: esta é a [ferramenta de recuperação de conta](/products/fc27-cheats/ugc/), $35 por 31 dias ou $150 lifetime, também separada."
+        "A penalidade está na conta da EA: esta é a, $35 por 31 dias ou $150 lifetime, também separada."
       ]
     },
     {
       "type": "p",
-      "text": "A chave de cheat do $150 lifetime não inclui o spoofer ou UGC. Não há plano semanal. Comprar o produto da chave e ainda assim ser banido continua sendo um resultado possível. A correção no título deste artigo é um nome que as pessoas pesquisam. O escopo honesto é uma linha de menu mais um aviso."
+      "text": "A chave de cheat do $150 lifetime não inclui o spoofer ou. Não há plano semanal. Comprar o produto da chave e ainda assim ser banido continua sendo um resultado possível. A correção no título deste artigo é um nome que as pessoas pesquisam. O escopo honesto é uma linha de menu mais um aviso."
     },
     {
       "type": "h2",
@@ -52,7 +52,6 @@
   ],
   "takeaways": [
     "A chave não desativa as varreduras de kernel EA Javelin.",
-    "Bloqueios de hardware → HWID spoofer; bloqueios de conta → recuperação UGC.",
     "A Atualização de Título v1.1.0 é a versão a ser correspondida no /status/ antes do lançamento."
   ],
   "dateIso": "2026-11-04"

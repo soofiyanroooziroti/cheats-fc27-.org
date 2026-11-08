@@ -15,7 +15,7 @@
     },
     {
       "type": "p",
-      "text": "Das Produkt ist ein Windows loader für EA SPORTS FC 27. Öffnen Sie die [loader Seite](/products/fc27-cheats/loader/) für die aktuelle Funktionsliste und den Checkout. Die Pläne laufen über 31 Tage oder $150 lifetime. Es gibt keine wöchentliche Option. Die HWID spoofer und das Tool zur Kontowiederherstellung sind verschiedene Karten mit unterschiedlichen Schlüsseln."
+      "text": "Das Produkt ist ein Windows loader für EA SPORTS FC 27. Öffnen Sie die [loader Seite](/products/fc27-cheats/loader/) für die aktuelle Funktionsliste und den Checkout. Die Pläne laufen über 31 Tage oder $150 lifetime. Es gibt keine wöchentliche Option."
     },
     {
       "type": "p",
@@ -39,7 +39,7 @@
     },
     {
       "type": "p",
-      "text": "Wenn Sie bereits gesperrt sind, fangen Sie nicht mit diesem Leitfaden an. Eine Hardware-Markierung verweist auf [HWID spoofer](/products/fc27-cheats/hwid-spoofer/). Ein Kontoeinspruch verweist auf [UGC Wiederherstellung](/products/fc27-cheats/ugc/). Keines davon ist im Preis des Cheat-lifetime enthalten."
+      "text": "Wenn Sie bereits gesperrt sind, fangen Sie nicht mit diesem Leitfaden an. Eine Hardware-Markierung verweist auf [HWID spoofer](/products/fc27-cheats/hwid-spoofer/). Keines davon ist im Preis des Cheat-lifetime enthalten."
     },
     {
       "type": "p",

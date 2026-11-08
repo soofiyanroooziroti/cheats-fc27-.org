@@ -5,12 +5,11 @@
   "slug": "fc-27-ban-fix-guide",
   "image": "/images/blog/fc27-shot-on-goal.webp",
   "imageAlt": "EA FC 27 match attack used as the header for the ban-fix guide",
-  "desc": "Anti-Ban Protection is the only Safety toggle on the FC 27 loader. It is not a ban fix for hardware flags or EA account appeals — those need other products.",
+  "desc": "Anti-Ban Protection is the only Safety toggle on the FC 27 loader. A hardware flag is a different product: the HWID spoofer.",
   "date": "Nov 4, 2026",
   "readTime": "5 min read",
   "takeaways": [
     "The toggle does not disable EA Javelin kernel scans.",
-    "Hardware blocks → HWID spoofer; account blocks → UGC recovery.",
     "Title Update v1.1.0 is the build to match on /status/ before launch."
   ],
   "dateIso": "2026-11-04",
@@ -35,13 +34,12 @@
       "type": "ul",
       "items": [
         "You want the in-match safety switch: it is Anti-Ban Protection on the loader. Read this page, then the feature list.",
-        "The block follows the PC: that is the [HWID spoofer](/products/fc27-cheats/hwid-spoofer/), a separate checkout at $50 for 31 days or $150 lifetime.",
-        "The penalty is on the EA account: that is the [account recovery tool](/products/fc27-cheats/ugc/), $35 for 31 days or $150 lifetime, also separate."
+        "The block follows the PC: that is the [HWID spoofer](/products/fc27-cheats/hwid-spoofer/), a separate checkout at $50 for 31 days or $150 lifetime."
       ]
     },
     {
       "type": "p",
-      "text": "The $150 lifetime cheat key does not include the spoofer or UGC. There is no weekly plan. Buying the toggle’s product and then getting banned is still a possible outcome. The fix in the title of this article is a name people search. The honest scope is one menu line plus a warning."
+      "text": "The $150 lifetime cheat key does not include the spoofer. There is no weekly plan. Buying the toggle’s product and then getting banned is still a possible outcome. The fix in the title of this article is a name people search. The honest scope is one menu line plus a warning."
     },
     {
       "type": "h2",

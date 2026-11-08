@@ -47,7 +47,7 @@ const toc =
 
 const tocCount = tocFromHeadings.length > 0 ? h2Count : toc.length > 0 ? 1 : 0;
 
-const UTILITY_SLUG = 'are-spoofer-and-ugc-necessary';
+const UTILITY_SLUG = 'fc-27-ban-fix-hwid-spoofer';
 const onUtilityPost = post.slug === UTILITY_SLUG;
 const utilityPost = getBlogPost(UTILITY_SLUG, locale);
 const otherReads = ['fc-27-ban-fix-hwid-spoofer', 'fc-27-ban-fix-guide']
@@ -62,7 +62,7 @@ const slotPosts: BlogPostFull[] = onUtilityPost
     : [];
 const slotHeading = onUtilityPost
   ? (side.moreGuides ?? 'More guides')
-  : (side.utilityGuides ?? 'Spoofer and UGC');
+  : (side.utilityGuides ?? 'HWID spoofer');
 ---
 
 <aside

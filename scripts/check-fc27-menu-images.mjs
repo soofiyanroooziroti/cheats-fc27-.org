@@ -94,7 +94,7 @@ assertUniqueAlts('fc27MenuSlides', menuBlock);
 
 const utilityMatch = catalog.match(/utilitySlides = \{([\s\S]*?)\} as const/);
 if (utilityMatch) {
-  for (const name of ['spoofer', 'ugc']) {
+  for (const name of ['spoofer']) {
     const inner = utilityMatch[1];
     const arrMatch = inner.match(new RegExp(`${name}:\\s*\\[([\\s\\S]*?)\\]`));
     if (arrMatch) assertUniqueAlts(`utilitySlides.${name}`, arrMatch[1]);

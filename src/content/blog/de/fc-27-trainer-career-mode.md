@@ -40,7 +40,7 @@
     },
     {
       "type": "p",
-      "text": "Die Preisgestaltung bleibt auf der Cheat-Karte: $35 für 31 Tage oder $150 lifetime, kein wöchentlicher Plan. Der Wortlaut des Trainers erzeugt keine zweite SKU. Der Checkout ist der loader-Checkout. Der Spoofer und die UGC-Wiederherstellung bleiben getrennt, falls du bereits gesperrt wurdest."
+      "text": "Die Preisgestaltung bleibt auf der Cheat-Karte: $35 für 31 Tage oder $150 lifetime, kein wöchentlicher Plan. Der Wortlaut des Trainers erzeugt keine zweite SKU. Der Checkout ist der loader-Checkout."
     },
     {
       "type": "p",

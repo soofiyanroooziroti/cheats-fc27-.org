@@ -27,7 +27,7 @@
     },
     {
       "type": "p",
-      "text": "Le contournement ALT-TAB est l'autre ligne d'utilitaires. Il cible le problème qui survient lorsque vous quittez la fenêtre du jeu sur Windows pour y revenir. Ce n'est pas un paramètre de fenêtre sans bordure dans le menu vidéo propre à FC 27, et ce n'est pas une seconde copie du contournement de désynchronisation. N'effectuez un alt-tab vers un navigateur, un outil de capture ou le portail que si vous acceptez que le match puisse tout de même s'arrêter."
+      "text": "Il cible le problème qui survient lorsque vous quittez la fenêtre du jeu sur Windows pour y revenir. Ce n'est pas un paramètre de fenêtre sans bordure dans le menu vidéo propre à FC 27, et ce n'est pas une seconde copie du contournement de désynchronisation. N'effectuez un alt-tab vers un navigateur, un outil de capture ou le portail que si vous acceptez que le match puisse tout de même s'arrêter."
     },
     {
       "type": "p",

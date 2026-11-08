@@ -8,7 +8,6 @@ import {
   cheatHomeHeroSlides,
   cheatsContent,
   spooferContent,
-  ugcContent,
 } from './product-catalog-en';
 import { localizeBundle, acquisitionCopy, type CatalogKind } from './product-locale';
 import type { ProductAcquisition, ProductPage } from './product-types';
@@ -27,12 +26,11 @@ export type {
 export const productRelatedBlogSlugs: Record<string, string[]> = {
   loader: [],
   'hwid-spoofer': [],
-  ugc: [],
 };
 
 const productBase = PRODUCT_BASE;
 
-export { acquisitionSteps, cheatsContent, spooferContent, ugcContent };
+export { acquisitionSteps, cheatsContent, spooferContent };
 
 function acquisitionFor(productName: string): ProductAcquisition {
   return { title: `How to get ${productName}`, steps: acquisitionSteps };
@@ -94,11 +92,11 @@ function buildTierPages(t: Translations, locale: Locale): ProductPage[] {
 
 function buildUtilityPages(t: Translations, locale: Locale): ProductPage[] {
   return t.products.items
-    .filter((p) => p.href !== productBase)
+    .filter((p) => slugFromHref(p.href) === 'hwid-spoofer')
     .map((product) => {
       const slug = slugFromHref(product.href);
-      const source = slug === 'hwid-spoofer' ? spooferContent : ugcContent;
-      const content = localizedContent(locale, slug === 'hwid-spoofer' ? 'spoofer' : 'ugc', {
+      const source = spooferContent;
+      const content = localizedContent(locale, 'spoofer', {
         images: source.images,
         overview: source.overview,
         body: source.body,

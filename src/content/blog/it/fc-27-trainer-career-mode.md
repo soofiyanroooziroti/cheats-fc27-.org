@@ -40,7 +40,7 @@
     },
     {
       "type": "p",
-      "text": "I prezzi rimangono sulla scheda del cheat: $35 per 31 giorni o $150 lifetime, nessun piano settimanale. La dicitura del trainer non crea un secondo SKU. Il pagamento è quello di loader. Il falsificatore e il recupero di UGC rimangono separati se sei già bannato."
+      "text": "I prezzi rimangono sulla scheda del cheat: $35 per 31 giorni o $150 lifetime, nessun piano settimanale. La dicitura del trainer non crea un secondo SKU. Il pagamento è quello di loader."
     },
     {
       "type": "p",

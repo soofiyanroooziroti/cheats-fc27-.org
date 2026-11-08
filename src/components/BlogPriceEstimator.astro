@@ -14,13 +14,10 @@ const side = (t.blogSidebar ?? {}) as Record<string, string>;
 
 const cheatPlans = getProductPlans('loader');
 const spooferPlans = getProductPlans('hwid-spoofer');
-const ugcPlans = getProductPlans('ugc');
 const mCheat = cheatPlans.find((p) => p.id === 'monthly')!;
 const lCheat = cheatPlans.find((p) => p.id === 'lifetime')!;
 const mSpoofer = spooferPlans.find((p) => p.id === 'monthly')!;
 const lSpoofer = spooferPlans.find((p) => p.id === 'lifetime')!;
-const mUgc = ugcPlans.find((p) => p.id === 'monthly')!;
-const lUgc = ugcPlans.find((p) => p.id === 'lifetime')!;
 
 const productsHref = localizedPath(ROUTES.products, locale);
 
@@ -58,18 +55,6 @@ const life = side.priceEstimatorLifetime ?? 'Life';
         </button>
         <button type="button" data-price={String(lSpoofer.priceUsd)} aria-pressed="false">
           {life} {formatPlanPrice(lSpoofer.priceUsd)}
-        </button>
-      </div>
-    </div>
-    <div class="blog-estimator__line" data-estimator-line>
-      <span class="blog-estimator__label">{side.ugcRecovery ?? 'UGC'}</span>
-      <div class="blog-estimator__choices" role="group" aria-label={side.ugcRecovery ?? 'UGC'}>
-        <button type="button" class="is-on" data-price="0" aria-pressed="true">{off}</button>
-        <button type="button" data-price={String(mUgc.priceUsd)} aria-pressed="false">
-          {days} {formatPlanPrice(mUgc.priceUsd)}
-        </button>
-        <button type="button" data-price={String(lUgc.priceUsd)} aria-pressed="false">
-          {life} {formatPlanPrice(lUgc.priceUsd)}
         </button>
       </div>
     </div>

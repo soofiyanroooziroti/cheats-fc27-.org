@@ -14,8 +14,8 @@
 /products/warzone-cheats/loader/ /products/fc27-cheats/loader/ 301
 /products/warzone-cheats/hwid-spoofer /products/fc27-cheats/hwid-spoofer/ 301
 /products/warzone-cheats/hwid-spoofer/ /products/fc27-cheats/hwid-spoofer/ 301
-/products/warzone-cheats/ugc /products/fc27-cheats/ugc/ 301
-/products/warzone-cheats/ugc/ /products/fc27-cheats/ugc/ 301
+/products/warzone-cheats/ugc /products/fc27-cheats/ 301
+/products/warzone-cheats/ugc/ /products/fc27-cheats/ 301
 /contact /support/ 301
 /contact/ /support/ 301
 /products/delta-force-cheats /products/fc27-cheats/ 301
@@ -28,8 +28,8 @@
 /products/wardogs-cheats/wardogs-cheats/ /products/fc27-cheats/loader/ 301
 /products/fc27-cheats/hwid-spoofer /products/fc27-cheats/hwid-spoofer/ 301
 /products/fc27-cheats/hwid-spoofer/ /products/fc27-cheats/hwid-spoofer/ 301
-/products/fc27-cheats/ugc /products/fc27-cheats/ugc/ 301
-/products/fc27-cheats/ugc/ /products/fc27-cheats/ugc/ 301
+/products/fc27-cheats/ugc /products/fc27-cheats/ 301
+/products/fc27-cheats/ugc/ /products/fc27-cheats/ 301
 /products/dota-2-cheats /products/fc27-cheats/ 301
 /products/dota-2-cheats/ /products/fc27-cheats/ 301
 /go/fc27 https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fea-sports-fc-27 302
@@ -42,8 +42,10 @@
 /go/delta-force/ https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fea-sports-fc-27 302
 /go/hwid-spoofer https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fhwid-spoofer 302
 /go/hwid-spoofer/ https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fhwid-spoofer 302
-/go/ugc https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fugc 302
-/go/ugc/ https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fugc 302
+/go/ugc /products/fc27-cheats/ 301
+/go/ugc/ /products/fc27-cheats/ 301
+/forum/hwid-vs-ugc-pattern /forum/hardware-flag-which-product/ 301
+/forum/hwid-vs-ugc-pattern/ /forum/hardware-flag-which-product/ 301
 /blogs /blog/ 301
 /blogs/ /blog/ 301
 /dayz-cheats /products/fc27-cheats/ 301

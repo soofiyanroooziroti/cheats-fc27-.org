@@ -32,10 +32,6 @@ const extraStrings = {
         title: 'HWID Spoofer',
         desc: 'Hardware profile rotation after a machine flag.',
       },
-      ugc: {
-        title: 'UGC Account Recovery',
-        desc: 'Appeal workspace for locked gaming accounts.',
-      },
       plans: {
         title: 'Plans',
         desc: 'Compare 1 Month $35 and Lifetime $150.',
@@ -127,15 +123,15 @@ const extraStrings = {
     eyebrow: 'Help center',
     title: 'FAQ for cheats, products & guides',
     subtitle:
-      'Plans, aim and ESP options, the HWID spoofer, UGC recovery, and what to check after an ACE update.',
+      'Plans, the loader, the HWID spoofer, and what to check after an EA Javelin update.',
     schemaName: 'FAQ — DayZ Cheats & Products',
     schemaDescription:
-      'Answers about DayZ Cheats, the HWID spoofer, UGC recovery, BattlEye risk, and checkout on dayz-cheats.org.',
+      'Answers about FC27 Cheats, the HWID spoofer, EA Javelin risk, and checkout on cheatsfc27.org.',
   },
   siteFaqSection: {
     allTopicsEyebrow: 'All topics',
     allTopicsTitle: 'Browse by category',
-    allTopicsSubtitle: 'Plans, visuals, the loader, the spoofer, UGC, and setup.',
+    allTopicsSubtitle: 'Plans, visuals, the loader, the spoofer, and setup.',
     contextualEyebrow: 'FAQ',
     contextualTitle: 'Questions about this page',
     contextualSubtitle: 'Answers tied to what you are reading—visit the FAQ page for every topic.',

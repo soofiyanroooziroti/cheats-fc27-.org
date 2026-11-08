@@ -12,7 +12,7 @@ export const PAGE_SEO: Record<string, PageSeoEntry> = {
   '/products/fc27-cheats/': {
     title: 'Products & Pricing | Monthly and Lifetime Plans',
     description:
-      'EA SPORTS FC 27 on Windows PC: cheat and UGC at $35 for 31 days or $150 lifetime; HWID spoofer at $50 for 31 days or $150 lifetime. Separate checkouts.',
+      'EA SPORTS FC 27 on Windows PC: the cheat is $35 for 31 days or $150 lifetime; the HWID spoofer is $50 for 31 days or $150 lifetime. Separate checkouts.',
   },
   '/products/fc27-cheats/loader/': {
     title: 'FC27 Mod Menu | Match & Career Assists',
@@ -24,15 +24,10 @@ export const PAGE_SEO: Record<string, PageSeoEntry> = {
     description:
       'FC27 hwid spoofer for players facing a hardware flag on PC. $50 for 31 days or $150 lifetime. Profile rotation on a PC—not for account-only bans.',
   },
-  '/products/fc27-cheats/ugc/': {
-    title: 'FC27 Account Recovery Tool for PC Appeals',
-    description:
-      'FC27 account recovery tool organizes ban appeals and recovery cases. Separate license from the loader and the HWID spoofer on a PC.',
-  },
   '/products/fc27-cheats/utilities/': {
-    title: 'Compare the HWID Tool and Account Appeal Utility',
+    title: 'FC27 HWID Spoofer Utility',
     description:
-      'See which Windows utility fits a hardware flag and which one fits an account appeal. Both are separate checkouts from the loader.',
+      'The HWID spoofer is a separate Windows checkout from the loader, for a hardware flag on one PC.',
   },
     '/blog/': {
       title: 'Guides – patch-day checks before you launch EA SPORTS FC',
@@ -57,7 +52,7 @@ export const PAGE_SEO: Record<string, PageSeoEntry> = {
     '/about/': {
       title: 'Store – cheatsfc27.org sells EA SPORTS FC 27 on PC',
       description:
-        'Store: What cheatsfc27.org sells for EA SPORTS FC 27 on Windows PC, how portal delivery works, EA Javelin risks, and the loader, spoofer, and UGC.',
+        'Store: What cheatsfc27.org sells for EA SPORTS FC 27 on Windows PC, how portal delivery works, EA Javelin risks, and the loader and spoofer.',
     },
   '/privacy/': {
     title: 'Privacy notes for analytics, cookies, and contact data',

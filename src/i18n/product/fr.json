@@ -171,55 +171,5 @@
       "Flux de travail étape par étape du portail",
       "Support d'installation Discord"
     ]
-  },
-  "ugc": {
-    "slides": [
-      {
-        "alt": "Menu de sécurité EA SPORTS FC 27 loader sur Windows PC",
-        "caption": "Récupération de compte",
-        "captionDesc": "Espace de travail des appels partagé entre les boutiques."
-      }
-    ],
-    "overview": {
-      "title": "Espace de travail UGC Account recovery",
-      "paragraphs": [
-        "UGC Account recovery aide à organiser les recours en cas de bannissement et les dossiers de récupération grâce à des modèles, des listes de preuves et des rappels de suivi.",
-        "Livraison numérique instantanée après un paiement sécurisé, avec un support Discord pour les questions de configuration."
-      ]
-    },
-    "body": [
-      {
-        "type": "h2",
-        "text": "Flux de travail des recours"
-      },
-      {
-        "type": "p",
-        "text": "Créez des parcours de recours personnalisés, automatisez les étapes de litige et suivez l'état des dossiers lorsque les comptes de jeux sont bloqués ou restreints."
-      },
-      {
-        "type": "h2",
-        "text": "Formules"
-      },
-      {
-        "type": "p",
-        "text": "Monthly $35 USD (P31D) ou lifetime $150 USD (P99Y)."
-      }
-    ],
-    "goodToKnow": "R Rassemblez l'e-mail de commande, les détails du compte et les captures d'écran de restriction avant d'ouvrir un ticket. UGC structure les recours—il ne contourne pas l'examen de la plateforme.",
-    "limitations": "UGC ne garantit pas la restauration du compte. Les résultats varient selon le type de dossier et la politique de la plateforme.",
-    "requirements": [
-      "Windows 10 ou 11 (64 bits).",
-      "Accès Internet pour la synchronisation des flux de travail et les mises à jour.",
-      "Accès administrateur pour l'installation."
-    ],
-    "features": [
-      "Flux de recours personnalisés",
-      "Espace de travail de récupération multiplateforme ace",
-      "Bibliothèque de modèles",
-      "Automatisation des étapes répétitives",
-      "Tableau de bord de suivi des restrictions",
-      "Flux de travail étape par étape du portail",
-      "Support d'installation Discord"
-    ]
   }
 }

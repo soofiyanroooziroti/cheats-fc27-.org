@@ -4,20 +4,17 @@ export const PAGE_KEYWORDS: Record<string, string | null> = {
   '/products/fc27-cheats/': null,
   '/products/fc27-cheats/loader/': 'fc27 mod menu',
   '/products/fc27-cheats/hwid-spoofer/': 'fc27 hwid spoofer',
-  '/products/fc27-cheats/ugc/': 'fc27 account recovery tool',
   '/blog/': null,
 };
 
 export const PRODUCT_H1: Record<string, string> = {
   loader: 'FC27 Mod Menu',
   'hwid-spoofer': 'FC27 HWID Spoofer',
-  ugc: 'FC27 Account Recovery Tool',
 };
 
 export const PRODUCT_PAGE_KEYWORDS: Record<string, string> = {
   loader: 'fc27 mod menu',
   'hwid-spoofer': 'fc27 hwid spoofer',
-  ugc: 'fc27 account recovery tool',
 };
 
 /** Reserved for future blog URLs — do not use on core product pages. */

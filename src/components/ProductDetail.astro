@@ -16,7 +16,6 @@ import ProductExperienceSection from './product/ProductExperienceSection.astro';
 import ProductRelatedGuidesSection from './product/ProductRelatedGuidesSection.astro';
 import ProductShopSpecDeck from './product/ProductShopSpecDeck.astro';
 import ProductShopHeroFaq from './product/ProductShopHeroFaq.astro';
-import ProductShopHeroInfo from './product/ProductShopHeroInfo.astro';
 import { getTranslations } from '../i18n';
 
 interface Props {
@@ -29,10 +28,9 @@ const locale = getLocaleFromAstro(Astro);
 const t = getTranslations(locale);
 const { product, breadcrumbs, pageH1 } = Astro.props;
 
-const SHOP_LAYOUT_SLUGS = new Set(['loader', 'hwid-spoofer', 'ugc']);
+const SHOP_LAYOUT_SLUGS = new Set(['loader', 'hwid-spoofer']);
 const isShopLayout = SHOP_LAYOUT_SLUGS.has(product.slug);
 const showHeroFaq = product.slug === 'loader' || product.slug === 'hwid-spoofer';
-const showHeroInfo = product.slug === 'ugc';
 
 const productUi = (t as { productUi?: Record<string, string> }).productUi ?? {};
 const relatedPosts = getRelatedBlogPostsForProduct(product.relatedBlogSlugs, 6, locale);
@@ -71,13 +69,11 @@ const showDescToggle = false;
               <ProductDetailHeader product={product} pageH1={pageH1} variant="shop" />
               <ProductCheckoutPanel product={product} layout="shop" />
               {showHeroFaq && <ProductShopHeroFaq productSlug={product.slug} placement="checkout" />}
-              {showHeroInfo && <ProductShopHeroInfo placement="checkout" />}
             </div>
           </div>
-          {(showHeroFaq || showHeroInfo) && (
+          {showHeroFaq && (
             <div class="product-shop-hero__faq-section hidden lg:block">
               {showHeroFaq && <ProductShopHeroFaq productSlug={product.slug} placement="section" />}
-              {showHeroInfo && <ProductShopHeroInfo placement="section" />}
             </div>
           )}
         </>

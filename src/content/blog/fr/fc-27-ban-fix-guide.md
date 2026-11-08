@@ -30,12 +30,12 @@
       "items": [
         "Vous voulez l'interrupteur de sécurité en jeu : il s'agit de la protection anti-bannissement sur le loader. Lisez cette page, puis la liste des fonctionnalités.",
         "Le blocage concerne le PC : il s'agit du [HWID spoofer](/products/fc27-cheats/hwid-spoofer/), avec un paiement séparé de 50 $ pour 31 jours ou $150 lifetime.",
-        "La sanction touche le compte EA : il s'agit de l'[[outils de récupération de compte](/products/fc27-cheats/ugc/), $35 pour 31 jours ou $150 lifetime, également distinct."
+        "La sanction touche le compte EA: il s'agit de l', $35 pour 31 jours ou $150 lifetime, également distinct."
       ]
     },
     {
       "type": "p",
-      "text": "La clé de triche $150 lifetime n'inclut pas le spoofer ou UGC. Il n'y a pas de formule hebdomadaire. Acheter le produit du commutateur et se faire bannir reste un résultat possible. La solution mentionnée dans le titre de cet article est un terme recherché par les utilisateurs. La portée réelle se limite à une ligne de menu et à un avertissement."
+      "text": "La clé de triche $150 lifetime n'inclut pas le spoofer ou. Il n'y a pas de formule hebdomadaire. Acheter le produit du commutateur et se faire bannir reste un résultat possible. La solution mentionnée dans le titre de cet article est un terme recherché par les utilisateurs. La portée réelle se limite à une ligne de menu et à un avertissement."
     },
     {
       "type": "h2",
@@ -52,7 +52,6 @@
   ],
   "takeaways": [
     "Le commutateur ne désactive pas les analyses du noyau EA Javelin.",
-    "Blocages matériels → HWID spoofer ; blocages de compte → récupération UGC.",
     "La mise à jour v1.1.0 est la version à respecter sur /status/ avant le lancement."
   ],
   "dateIso": "2026-11-04"

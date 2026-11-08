@@ -113,14 +113,6 @@ export const utilitySlides = {
       captionDesc: 'Spoofer workspace used on every store.',
     },
   ],
-  ugc: [
-    {
-      src: FC27_MENU_IMAGES.misc,
-      alt: 'EA SPORTS FC 27 loader safety menu on Windows PC',
-      caption: 'Account recovery',
-      captionDesc: 'Appeal workspace shared across stores.',
-    },
-  ],
 } as const;
 
 export const cheatsContent = {
@@ -202,47 +194,6 @@ export const spooferContent = {
     {
       type: 'p',
       text: 'Monthly $50 USD (P31D) or lifetime $150 USD (P99Y).',
-    },
-  ] as Block[],
-};
-
-export const ugcContent = {
-  images: [...utilitySlides.ugc],
-  goodToKnow:
-    'Gather order email, account details, and restriction screenshots before opening a ticket. UGC structures appeals—it does not bypass platform review.',
-  limitations:
-    'UGC does not guarantee account restoration. Results vary by case type and platform policy.',
-  systemRequirements: [
-    { icon: 'reqWindows', text: 'Windows 10 or 11 (64-bit).' },
-    { icon: 'reqWifi', text: 'Internet access for workflow sync and updates.' },
-    { icon: 'reqSettings', text: 'Administrator access for installation.' },
-  ] as SystemRequirement[],
-  fullFeatures: [
-    'Custom appeal workflows',
-    'Multi-platform recovery workspace',
-    'Template library',
-    'Automation for repetitive steps',
-    'Restriction tracking dashboard',
-    'Portal step-by-step workflow',
-    'Discord setup support',
-  ],
-  overview: {
-    title: 'UGC Account recovery workspace',
-    paragraphs: [
-      'UGC Account recovery helps organize ban appeals and recovery cases with templates, evidence lists, and follow-up reminders.',
-      'Instant digital delivery after secure checkout, with Discord support for setup questions.',
-    ],
-  },
-  body: [
-    { type: 'h2', text: 'Appeal workflows' },
-    {
-      type: 'p',
-      text: 'Build custom appeal paths, automate dispute steps, and track case status when gaming accounts are locked or restricted.',
-    },
-    { type: 'h2', text: 'Plans' },
-    {
-      type: 'p',
-      text: 'Monthly $35 USD (P31D) or lifetime $150 USD (P99Y).',
     },
   ] as Block[],
 };

@@ -4,7 +4,6 @@ import {
   acquisitionSteps,
   cheatsContent,
   spooferContent,
-  ugcContent,
 } from './product-catalog-en';
 
 function slidesFromImages(images: ProductSlide[]): SlideText[] {
@@ -65,6 +64,5 @@ export function buildEnglishProductLocalePack(): ProductLocalePack {
     howToGet: 'How to get {name}',
     cheats: bundleFromCheats(cheatsContent),
     spoofer: bundleFromUtility(spooferContent),
-    ugc: bundleFromUtility(ugcContent),
   };
 }

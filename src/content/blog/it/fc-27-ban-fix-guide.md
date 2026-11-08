@@ -30,12 +30,12 @@
       "items": [
         "Vuoi l'interruttore di protezione in-match: è la protezione Anti-Ban su loader. Leggi questa pagina, poi l'elenco delle funzioni.",
         "Il blocco riguarda l'hardware (PC): si tratta del [HWID spoofer](/products/fc27-cheats/hwid-spoofer/),, un acquisto separato a 50$ per 31 giorni o $150 lifetime.",
-        "La sanzione è sull'account EA: si tratta dello [strumento di recupero account](/products/fc27-cheats/ugc/), $35 per 31 giorni o $150 lifetime, anch'esso separato."
+        "La sanzione è sull'account EA: si tratta dello, $35 per 31 giorni o $150 lifetime, anch'esso separato."
       ]
     },
     {
       "type": "p",
-      "text": "La chiave cheat $150 lifetime non include lo spoofer o UGC. Non esiste un piano settimanale. Acquistare il prodotto dell'interruttore e venire comunque bannati è un risultato ancora possibile. La soluzione nel titolo di questo articolo è un termine che le persone cercano. L'ambito reale è una riga di menu più un avviso."
+      "text": "La chiave cheat $150 lifetime non include lo spoofer o. Non esiste un piano settimanale. Acquistare il prodotto dell'interruttore e venire comunque bannati è un risultato ancora possibile. La soluzione nel titolo di questo articolo è un termine che le persone cercano. L'ambito reale è una riga di menu più un avviso."
     },
     {
       "type": "h2",
@@ -52,7 +52,7 @@
   ],
   "takeaways": [
     "L'interruttore non disabilita le scansioni del kernel EA Javelin.",
-    "Blocchi hardware → HWID spoofer; blocchi account → recupero UGC.",
+    "Blocchi hardware → HWID spoofer; blocchi account → recupero.",
     "La patch v1.1.0 è la build da verificare su /status/ prima dell'avvio."
   ],
   "dateIso": "2026-11-04"

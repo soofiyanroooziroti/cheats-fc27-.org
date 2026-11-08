@@ -10,7 +10,7 @@
     },
     "/products/fc27-cheats/": {
       "title": "제품 및 가격 | Monthly 및 Lifetime 플랜",
-      "description": "Windows PC의 EA SPORTS FC 27: 31일 $35 또는 $150 lifetime의 치트 및 UGC; 31일 $50 또는 $150 lifetime의 HWID spoofer. 개별 결제."
+      "description": "31일 $50 또는 $150 lifetime의 HWID spoofer. 개별 결제."
     },
     "/products/fc27-cheats/loader/": {
       "title": "FC27 모드 메뉴 | 경기 및 커리어 어시스트",
@@ -19,10 +19,6 @@
     "/products/fc27-cheats/hwid-spoofer/": {
       "title": "FC27 HWID Spoofer (Windows 하드웨어 플래그용)",
       "description": "PC에서 하드웨어 플래그가 발생한 플레이어를 위한 FC27 hwid spoofer. 31일 $50 또는 $150 lifetime. PC의 프로필 로테이션 방식(계정 전용 제재 제외)."
-    },
-    "/products/fc27-cheats/ugc/": {
-      "title": "FC27 계정 복구 도구 (PC 이의 제기용)",
-      "description": "정지 이의 제기와 복구 사례를 정리하는 FC27 계정 복구 도구입니다. PC 환경에서 loader 및 HWID spoofer과는 별도의 라이선스입니다."
     },
     "/products/fc27-cheats/utilities/": {
       "title": "HWID 도구와 계정 이의 제기 유틸리티 비교",
@@ -46,7 +42,7 @@
     },
     "/about/": {
       "title": "스토어 소개: 포털 배송, 가격 및 위험",
-      "description": "cheatsfc27.org이(가) Windows PC의 EA SPORTS FC 27용으로 판매하는 상품, 포털 배송 작동 방식, EA Javelin 위험, loader, 스푸퍼 및 UGC 도구에 포함된 내용."
+      "description": "Cheatsfc27.org이(가) Windows PC의 EA SPORTS FC 27용으로 판매하는 상품, 포털 배송 작동 방식, EA Javelin 위험, loader, 스푸퍼 및 도구에 포함된 내용."
     },
     "/privacy/": {
       "title": "분석, 쿠키 및 연락처 데이터에 대한 개인정보 보호 참고사항",

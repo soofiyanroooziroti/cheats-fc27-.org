@@ -35,7 +35,7 @@
     },
     {
       "type": "p",
-      "text": "Checkout is on the [loader page](/products/fc27-cheats/loader/). Monthly is $35 for 31 days. Lifetime is $150. There is no weekly plan. That key does not include the [HWID spoofer](/products/fc27-cheats/hwid-spoofer/) or [UGC account recovery](/products/fc27-cheats/ugc/). Those are separate cards if you are already banned."
+      "text": "Checkout is on the [loader page](/products/fc27-cheats/loader/). Monthly is $35 for 31 days. Lifetime is $150. There is no weekly plan. That key does not include the [HWID spoofer](/products/fc27-cheats/hwid-spoofer/). That card is separate if you are already hardware-flagged."
     },
     {
       "type": "h2",

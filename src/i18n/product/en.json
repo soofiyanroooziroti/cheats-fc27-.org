@@ -171,55 +171,5 @@
       "Portal step-by-step workflow",
       "Discord setup support"
     ]
-  },
-  "ugc": {
-    "slides": [
-      {
-        "alt": "EA SPORTS FC 27 loader safety menu on Windows PC",
-        "caption": "Account recovery",
-        "captionDesc": "Appeal workspace shared across stores."
-      }
-    ],
-    "overview": {
-      "title": "UGC Account recovery workspace",
-      "paragraphs": [
-        "UGC Account recovery helps organize ban appeals and recovery cases with templates, evidence lists, and follow-up reminders.",
-        "Instant digital delivery after secure checkout, with Discord support for setup questions."
-      ]
-    },
-    "body": [
-      {
-        "type": "h2",
-        "text": "Appeal workflows"
-      },
-      {
-        "type": "p",
-        "text": "Build custom appeal paths, automate dispute steps, and track case status when gaming accounts are locked or restricted."
-      },
-      {
-        "type": "h2",
-        "text": "Plans"
-      },
-      {
-        "type": "p",
-        "text": "Monthly $35 USD (P31D) or lifetime $150 USD (P99Y)."
-      }
-    ],
-    "goodToKnow": "Gather order email, account details, and restriction screenshots before opening a ticket. UGC structures appeals—it does not bypass platform review.",
-    "limitations": "UGC does not guarantee account restoration. Results vary by case type and platform policy.",
-    "requirements": [
-      "Windows 10 or 11 (64-bit).",
-      "Internet access for workflow sync and updates.",
-      "Administrator access for installation."
-    ],
-    "features": [
-      "Custom appeal workflows",
-      "Multi-platform recovery workspace",
-      "Template library",
-      "Automation for repetitive steps",
-      "Restriction tracking dashboard",
-      "Portal step-by-step workflow",
-      "Discord setup support"
-    ]
   }
 }

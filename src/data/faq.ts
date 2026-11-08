@@ -51,8 +51,8 @@ export const siteFaqs: SiteFaqItem[] = [
     topic: 'plans',
     icon: 'faqComparePlans',
     q: 'Does the $150 lifetime plan include the spoofer?',
-    a: 'No. Lifetime on FC27 Cheats is that product only. The HWID spoofer is $50 for 31 days or $150 lifetime on its own card. UGC recovery is a third checkout.',
-    scopes: ['loader', 'hwid-spoofer', 'ugc'],
+    a: 'No. Lifetime on FC27 Cheats is that product only. The HWID spoofer is $50 for 31 days or $150 lifetime on its own card.',
+    scopes: ['loader', 'hwid-spoofer'],
   },
   {
     id: 'patch-speed',

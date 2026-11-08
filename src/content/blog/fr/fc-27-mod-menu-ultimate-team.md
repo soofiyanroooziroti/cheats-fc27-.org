@@ -5,7 +5,7 @@
   "slug": "fc-27-mod-menu-ultimate-team",
   "image": "/images/blog/fc27-free-kick.webp",
   "imageAlt": "Coup franc EA FC 27 Ultimate Team avec tactiques sur écran",
-  "desc": "Le menu de triche FC27 pour Ultimate Team est l'onglet FUT du loader que vous avez déjà acheté. Les spoofers et les raccourcis de packs s'y trouvent, ce ne sont pas des téléchargements séparés.",
+  "desc": "Les spoofers et les raccourcis de packs s'y trouvent, ce ne sont pas des téléchargements séparés.",
   "date": "16 Oct 2026",
   "readTime": "4 min de lecture",
   "body": [

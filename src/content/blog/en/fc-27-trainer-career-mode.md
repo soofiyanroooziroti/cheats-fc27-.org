@@ -46,7 +46,7 @@
     },
     {
       "type": "p",
-      "text": "Pricing stays on the cheat card: $35 for 31 days or $150 lifetime, no weekly plan. The trainer wording does not create a second SKU. Checkout is the loader checkout. The spoofer and UGC recovery stay separate if you are already banned."
+      "text": "Pricing stays on the cheat card: $35 for 31 days or $150 lifetime, no weekly plan. The trainer wording does not create a second SKU. Checkout is the loader checkout. The HWID spoofer stays a separate checkout."
     },
     {
       "type": "p",

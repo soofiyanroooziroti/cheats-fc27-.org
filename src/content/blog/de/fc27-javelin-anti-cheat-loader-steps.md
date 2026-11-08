@@ -28,7 +28,7 @@
     },
     {
       "type": "p",
-      "text": "Die Kasse befindet sich auf der [loader Seite](/products/fc27-cheats/loader/).. Monthly kostet $35 für 31 Tage. Lifetime kostet $150. Es gibt keinen wöchentlichen Plan. Dieser Schlüssel beinhaltet nicht das [HWID spoofer](/products/fc27-cheats/hwid-spoofer/) oder [UGC account recovery](/products/fc27-cheats/ugc/).. Dies sind separate Karten, falls du bereits gesperrt bist."
+      "text": "Die Kasse befindet sich auf der [loader Seite](/products/fc27-cheats/loader/).. Monthly kostet $35 für 31 Tage. Lifetime kostet $150. Es gibt keinen wöchentlichen Plan. Dieser Schlüssel beinhaltet nicht das [HWID spoofer](/products/fc27-cheats/hwid-spoofer/) oder.. Dies sind separate Karten, falls du bereits gesperrt bist."
     },
     {
       "type": "h2",

@@ -128,7 +128,7 @@
   "whyUs": {
     "eyebrow": "選ばれる理由",
     "title": "キャリアおよびアルティメットチームのシーズン：口先だけの約束ではなく、確実なパッチ対応",
-    "subtitle": "1つのチート製品、1つのHWID spoofer、そして1つのUGCリカバリーワークスace。チートとUGCは31日間$35または$150 lifetime、スプーファーは31日間$50または$150 lifetimeとなります。EA Javelinのもとでは依然としてBANのリスクがあります。",
+    "subtitle": "チートは31日間$35または$150 lifetime。HWID spooferは31日間$50または$150 lifetime。EA JavelinのもとではBANの可能性があります。",
     "usLabel": "FC27 チート",
     "otherLabel": "一般的なプロバイダー",
     "rows": [
@@ -137,7 +137,7 @@
         "desc": "FC 27またはEA Javelinのアップデート後は、loaderを開く前にcheatsfc27.orgをご確認ください。"
       },
       {
-        "title": "個別のエイムスライダー",
+        "title": "個別のプレイヤー・相手スライダー",
         "desc": "プレイヤーと対戦相手のスライダー、スキルムーブ、スタミナは、ゲームプレイオプション内で個別に切り替え可能です。1つずつ変更してから、[Misc]タブで保存してください。"
       },
       {
@@ -146,7 +146,7 @@
       },
       {
         "title": "製品ごとの個別の決済",
-        "desc": "チート、HWID spoofer、UGCリカバリーの決済はそれぞれ個別です。チートを購入してもLifetimeでスプーファーが追加されることはありません。"
+        "desc": "チート、HWID spoofer、リカバリーの決済はそれぞれ個別です。チートを購入してもLifetimeでスプーファーが追加されることはありません。"
       },
       {
         "title": "保存済み設定",
@@ -154,7 +154,7 @@
       },
       {
         "title": "HWIDは独立した製品です",
-        "desc": "新規アカウントで失敗する端末の場合はスプーファーの対象となります。アカウントのみの制限はUGCの対象となります。どちらもチートキーには含まれません。"
+        "desc": "新規アカウントで失敗する端末の場合はスプーファーの対象となります。アカウントのみの制限はの対象となります。どちらもチートキーには含まれません。"
       }
     ],
     "metrics": [
@@ -166,12 +166,12 @@
       {
         "value": "2",
         "title": "すべてのカードで利用可能なプラン",
-        "desc": "チートとUGCのmonthlyは31日間$35です。スプーファーのmonthlyは$50です。Lifetimeは製品ごとに$150です。週単位のプランはありません。"
+        "desc": "チートとのmonthlyは31日間$35です。スプーファーのmonthlyは$50です。Lifetimeは製品ごとに$150です。週単位のプランはありません。"
       },
       {
         "value": "3",
         "title": "独立した製品群",
-        "desc": "FC27チート、HWID spoofer、そしてUGCリカバリー。それぞれが個別のキーとなります。"
+        "desc": "FC27チート、HWID spoofer、そしてリカバリー。それぞれが個別のキーとなります。"
       }
     ]
   },
@@ -265,7 +265,7 @@
   "products": {
     "eyebrow": "プロダクト",
     "title": "製品と価格",
-    "subtitle": "FC27 チートおよびUGC：$35/moまたは$150 lifetime。HWID spoofer：$50/moまたは$150 lifetime。",
+    "subtitle": "FC27 チートおよび：$35/moまたは$150 lifetime。HWID spoofer：$50/moまたは$150 lifetime。",
     "viewAll": "詳細を見る",
     "get": "今すぐ購入",
     "explore": "探索する",
@@ -284,21 +284,6 @@
         ],
         "more": 4,
         "href": "/products/fc27-cheats/hwid-spoofer/"
-      },
-      {
-        "badge": "稼働中",
-        "category": "UGC Account recovery",
-        "title": "UGC Account recovery",
-        "subtitle": "異議申し立てと復旧",
-        "desc": "UGC Account recoveryワークスace - カスタム異議申し立てワークフロー、テンプレート、制限追跡機能。",
-        "features": [
-          "カスタム異議申し立てワークフロー",
-          "マルチプラットフォームプロフィール",
-          "テンプレートライブラリ",
-          "ステータスダッシュボード"
-        ],
-        "more": 4,
-        "href": "/products/fc27-cheats/ugc/"
       }
     ]
   },
@@ -393,7 +378,7 @@
         "num": "02",
         "phase": "決済",
         "title": "製品を選択",
-        "desc": "FC27 CheatsまたはUGC: 31日間$35または$150 lifetime。HWID Spoofer: 31日間$50または$150 lifetime。キーはそれぞれ別個です。"
+        "desc": "FC27 Cheatsまたは: 31日間$35または$150 lifetime。HWID Spoofer: 31日間$50または$150 lifetime。キーはそれぞれ別個です。"
       },
       {
         "num": "03",
@@ -426,7 +411,7 @@
       {
         "num": "03",
         "title": "個別の製品",
-        "desc": "チート、HWID spoofer、UGCリカバリーはそれぞれ別の決済が必要です。どれか1つ購入しても、他のものはアンロックされません。"
+        "desc": "チート、HWID spoofer、リカバリーはそれぞれ別の決済が必要です。どれか1つ購入しても、他のものはアンロックされません。"
       }
     ]
   },
@@ -438,14 +423,14 @@
       {
         "icon": "users",
         "title": "購入前のチャット",
-        "desc": "決済前に、チート、スプーファー、または UGC についてご質問ください。",
+        "desc": "決済前に、チート、スプーファー、または についてご質問ください。",
         "linkLabel": "決済へ進む",
         "href": "https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fea-sports-fc-27"
       },
       {
         "icon": "messageCircle",
         "title": "コミュニティフォーラム",
-        "desc": "セットアップ、エイム、オーバーレイ、プランに関する質問（開発者の返信マーク付き）。",
+        "desc": "セットアップ、メニュー、オーバーレイ、プランに関する質問（開発者の返信マーク付き）。",
         "linkLabel": "フォーラムを開く",
         "href": "/forum/"
       },
@@ -512,11 +497,10 @@
         "topic": "plans",
         "icon": "faqComparePlans",
         "q": "$150 lifetimeプランにはスプーファーが含まれていますか？",
-        "a": "いいえ。FC27チートのLifetimeは単体製品です。HWID spooferは31日間で50ドル、または個別購入の場合は$150 lifetimeとなります。UGCの復旧は3つ目のチェックアウトになります。",
+        "a": "いいえ。FC27チートのLifetimeは単体製品です。HWID spooferは31日間で50ドル、または個別購入の場合は$150 lifetimeとなります。の復旧は3つ目のチェックアウトになります。",
         "scopes": [
           "loader",
-          "hwid-spoofer",
-          "ugc"
+          "hwid-spoofer"
         ]
       },
       {
@@ -559,7 +543,7 @@
     }
   },
   "footer": {
-    "tagline": "Windows PC向けFC27チート、HWID spoofer、UGCリカバリー。cheatsfc27.org",
+    "tagline": "Windows PC向けFC27チート、HWID spoofer、リカバリー。cheatsfc27.org",
     "explore": "探索",
     "exploreLinks": [
       {
@@ -612,20 +596,18 @@
   "legalPages": {
     "about": {
       "title": "FC 27 ストアについて",
-      "description": "cheatsfc27.orgでは、FC27向けのチートツール（HWID spooferおよびUGC account recovery)をWindows PC向けに販売しており、セットアップの手順や BAN リスクについても正直に記載しています。",
+      "description": "Cheatsfc27.orgでは、FC27向けのチートツール（HWID spooferおよび account recovery)をWindows PC向けに販売しており、セットアップの手順や BAN リスクについても正直に記載しています。",
       "sections": [
         {
           "heading": "運営者情報",
           "paragraphs": [
-            "cheatsfc27.orgは、FC27チート、HWID spoofer、UGC account recoveryを取り扱うWindows PCストアです。本チートは、FUT、ゲームプレイ、プロクラブ、便利機能、保護タブが一体となったloaderプロダクトです。対応ビルドでフル機能を利用するには、クラウドDMAが必須となります。ライト、プロ、エリートといった段階的なプランはありません。",
-            "FC27チートおよびUGCは、$35にて31日間または$150 lifetimeでご購入いただけます。HWID spooferの価格は31日間で50ドル、または$150 lifetimeとなります。チートのlifetimeキーには、スプーファーやリカバリー作業スペースaceは含まれていません。月途中の購入であっても、lifetimeへの日割りクレジット等は適用されません。",
             "当サイト上の製品名は取り扱い内容を示すためのものであり、ゲームのパブリッシャーが本ソフトウェアを推奨していることを意味するものではありません。納品はWindows 10または11向けのポータルダウンロードとなります。HVCI、コア分離、TPM、secure bootを有効にした状態を維持し、サイト上のバージョンが現行クライアントと一致している場合のみloaderを起動してください。"
           ]
         },
         {
           "heading": "掲載コンテンツについて",
           "paragraphs": [
-            "[FC27チート](/products/fc27-cheats/loader/))のページには、メニュー名とシステム要件（HVCI、コア分離、TPM、secure bootが有効であること、WINDOWS 10および11の両方に対応、フル機能にはクラウドDMAが必要）が記載されています。[製品ページ](/products/fc27-cheats/))では、チート、[HWID Spoofer](/products/fc27-cheats/hwid-spoofer/),)、[UGC Account recovery](/products/fc27-cheats/ugc/).)を比較できます。",
+            "[FC27チート](/products/fc27-cheats/loader/))のページには、メニュー名とシステム要件（HVCI、コア分離、TPM、secure bootが有効であること、WINDOWS 10および11の両方に対応、フル機能にはクラウドDMAが必要）が記載されています。[製品ページ](/products/fc27-cheats/))では、チート、[HWID Spoofer](/products/fc27-cheats/hwid-spoofer/),)、.)を比較できます。",
             "[ブログ](/blog/))のガイドでは、loaderタブの解説、ハードウェアフラッグがアカウントのペナルティ異議申し立てとは異なる理由、パッチ後に確認すべきポイントを説明しています。[フォーラム](/forum/))は同様の疑問を共有する場であり、開発者からの返信にはスレッド内でマークが付けられます。購入前に[利用規約](/terms/))をお読みください。BANを含め、一度購入された商品の返品・返金はできません。",
             "EA Javelinは引き続きアカウントに対して検出措置を講じる可能性があります。次回のパッチ適用後もセッションが完全に保護されるという保証はありません。クライアントのアップデート後は、loaderを起動する前に必ずこのサイトをご確認ください。現在のビルドに対応していない場合は、ソフトウェアを起動しないでください。",
             "ホームページ上のステータス情報は、公開中のビルドが現行クライアントと一致しているかどうかを示しています。これは、EA Javelinがソフトウェアを検知しないことを保証するものではありません。不明な点がある場合は、loaderを起動せず、マッチメイキングを行う前にブログの該当ガイドをお読みください。"
@@ -681,10 +663,7 @@
         },
         {
           "heading": "購入内容",
-          "paragraphs": [
-            "FC27用チート（HWID spooferおよびUGC account recovery）を販売しています。チートとUGCは31日間または$150 lifetimeの$35です。スプーファーは31日間または$150 lifetimeで50ドルです。各商品は、Windows PC上のポータルを通じた独自のライセンスとなります。",
-            "各商品ページの機能一覧には、購入時点での内容が記載されています。FC 27やEA Javelinのアップデートに伴い、モジュールは変更される場合があります。lifetimeのチートキーには、スプーファーやUGCは含まれません。"
-          ]
+          "paragraphs": []
         },
         {
           "heading": "決済と配信",
@@ -730,19 +709,18 @@
     },
     "support": {
       "title": "FC 27 サポート",
-      "description": "cheatsfc27.orgにおけるLoader、HWID spoofer、UGC、およびチェックアウトに関するヘルプです。"
+      "description": "Cheatsfc27.orgにおけるLoader、HWID spoofer、、およびチェックアウトに関するヘルプです。"
     }
   },
   "productCatalog": {
     "searchHeading": "製品とプランを見る",
     "utilityCategory": "ユーティリティ",
     "buyLoader": "loaderを購入",
-    "buyHwidSpoofer": "HWID spooferを購入",
-    "buyUgcRecovery": "UGCリカバリーを購入"
+    "buyHwidSpoofer": "HWID spooferを購入"
   },
   "utilitiesPage": {
     "title": "ユーティリティを比較",
-    "subtitle": "HWID SpooferとUGC Account recoveryはそれぞれ異なる課題を解決します。購入前に、PCまたはアカウントに最適なツールを選択してください。",
+    "subtitle": "HWID Spooferと Account recoveryはそれぞれ異なる課題を解決します。購入前に、PCまたはアカウントに最適なツールを選択してください。",
     "breadcrumb": "ユーティリティを比較",
     "tableAria": "ユーティリティの比較",
     "columnUtility": "ユーティリティ",
@@ -754,8 +732,7 @@
     "viewDetailsFallback": "詳細",
     "schemaName": "FC 27 ユーティリティの比較",
     "useCases": {
-      "hwid-spoofer": "BAN後の新しいPCやハードウェアフラグに対応。新規アカウント作成前にマシンの識別情報をリセットします。",
-      "ugc": "アクセス制限時の構造化された異議申し立てとアカウント復旧ワークフロー。"
+      "hwid-spoofer": "BAN後の新しいPCやハードウェアフラグに対応。新規アカウント作成前にマシンの識別情報をリセットします。"
     }
   },
   "sectionSearch": {
@@ -820,10 +797,6 @@
         "title": "HWID Spoofer",
         "desc": "ハードウェアBAN後のハードウェアプロファイルローテーション。"
       },
-      "ugc": {
-        "title": "UGC Account Recovery",
-        "desc": "ロックされたゲームアカウントの異議申し立てワークスace。"
-      },
       "plans": {
         "title": "プラン",
         "desc": "各製品カードでmonthlyとlifetimeを比較。"
@@ -846,7 +819,7 @@
       },
       "blog": {
         "title": "ブログ",
-        "desc": "エイム、オーバーレイ、パッチ当日のガイド。"
+        "desc": "モッドメニュー、安全性、パッチ当日のガイド。"
       },
       "forum": {
         "title": "フォーラム",
@@ -966,7 +939,7 @@
     "previous": "前へ",
     "next": "次へ",
     "sidebarAboutTitle": "フォーラム：FC 27 コミュニティ",
-    "sidebarAboutCopy": "チート、HWID spoofer、およびUGCの復旧に関する質問。開発者の返信はスレッドに残ります。",
+    "sidebarAboutCopy": "チート、HWID spoofer、およびの復旧に関する質問。開発者の返信はスレッドに残ります。",
     "sidebarTopics": "トピック",
     "sidebarExploreGuides": "すべてのガイドを見る",
     "sidebarCommunities": "コミュニティ",
@@ -1017,7 +990,7 @@
     "title": "よくある質問：プラン、設定、購入前のEA Javelinリスク — チート＆ガイド",
     "subtitle": "プラン、EA Javelin、ランチャー、システム要件、サポートへの連絡方法について。",
     "schemaName": "よくある質問 — FC27 チート＆製品",
-    "schemaDescription": "FC27チート、HWID spoofer、UGCの復旧、EA Javelinのリスク、cheatsfc27.orgでの決済に関する回答。"
+    "schemaDescription": "FC27チート、HWID spoofer、の復旧、EA Javelinのリスク、cheatsfc27.orgでの決済に関する回答。"
   },
   "siteFaqSection": {
     "allTopicsEyebrow": "すべてのトピック",
@@ -1127,32 +1100,6 @@
         }
       ]
     },
-    "shopHeroInfoUgc": {
-      "eyebrow": "概要",
-      "title": "UGC Account recovery",
-      "blocks": [
-        {
-          "title": "UGC account recoveryとは何ですか？",
-          "body": "ユーザー生成コンテンツの制限やBANの影響を受けたアカウントに対し、ワークフロー、テンプレート、プラットフォームプロファイルを1つのaceにまとめて異議申し立ての準備と提出をサポートします。"
-        },
-        {
-          "title": "どのような人向けですか？",
-          "body": "ゼロから文章を作成するのではなく、明確で整理された異議申し立てプロセスを進めたいプレイヤー向けです。"
-        },
-        {
-          "title": "仕組み",
-          "body": "1. プランを選択して購入します。2. アカウント内でガイドとテンプレートを開きます。3. プラットフォームの手順に従って異議申し立てを送信します。"
-        },
-        {
-          "title": "内容物",
-          "body": "カスタム異議申し立てワークフロー、マルチプラットフォームプロファイル、テンプレートライブラリ、ステップバイステップのガイド。"
-        },
-        {
-          "title": "配信とサポート",
-          "body": "即時配信。チケットチャンネルによるサポート。結果はプラットフォーム側の個別の審査によって異なります。"
-        }
-      ]
-    },
     "shopHeroFaq": {
       "eyebrow": "よくある質問",
       "title": "よくある質問",
@@ -1224,7 +1171,6 @@
     "productCheats": "FC27 チート",
     "allProducts": "すべての製品",
     "hwidSpoofer": "HWID Spoofer",
-    "ugcRecovery": "UGC Account recovery",
     "tocAria": "目次",
     "tocFallbackLabel": "記事の開始",
     "quickFactsTitle": "クイックファクト",
@@ -1242,7 +1188,7 @@
     "priceEstimatorTotal": "概算合計",
     "priceEstimatorProducts": "製品",
     "priceEstimatorNote": "見積もり額です。各製品はそれぞれのカードからご購入ください。",
-    "utilityGuides": "SpooferとUGC",
+    "utilityGuides": "Spooferと",
     "moreGuides": "その他のガイド"
   }
 }

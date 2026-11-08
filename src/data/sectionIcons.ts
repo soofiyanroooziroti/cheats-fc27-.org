@@ -10,7 +10,6 @@ export const featureIcons: Record<string, IconName> = {
   'Ultimate Team Options': 'compareRuneTimer',
   'Gameplay Options': 'gamepad2',
   'Pro Clubs Options': 'users',
-  'HWID and UGC': 'whyShield',
   'Windows requirements': 'compatWindows',
   'Supported clients': 'compatSteam',
   Config: 'compareCloudBackup',

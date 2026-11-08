@@ -40,7 +40,7 @@
     },
     {
       "type": "p",
-      "text": "Los precios se mantienen en la tarjeta de trucos: $35 por 31 días o $150 lifetime, sin plan semanal. La redacción del trainer no crea una segunda versión. El pago se realiza mediante el proceso de loader. El falseador y la recuperación de UGC permanecen separados si ya estás sancionado."
+      "text": "Los precios se mantienen en la tarjeta de trucos: $35 por 31 días o $150 lifetime, sin plan semanal. La redacción del trainer no crea una segunda versión. El pago se realiza mediante el proceso de loader."
     },
     {
       "type": "p",

@@ -15,7 +15,7 @@
     },
     {
       "type": "p",
-      "text": "المنتج هو حل واحد Windows loader لـ EA SPORTS FC 27. افتح [صفحة [loader](/products/fc27-cheats/loader/) للحصول على قائمة الميزات المباشرة والدفع. الخطط هي $35 لمدة 31 يومًا أو $150 lifetime. لا يوجد خيار أسبوعي. أداة HWID spoofer وأداة استعادة الحساب هما بطاقتان مختلفتان بمفاتيح مختلفة."
+      "text": "المنتج هو حل واحد Windows loader لـ EA SPORTS FC 27. افتح [صفحة [loader](/products/fc27-cheats/loader/) للحصول على قائمة الميزات المباشرة والدفع. الخطط هي $35 لمدة 31 يومًا أو $150 lifetime. لا يوجد خيار أسبوعي."
     },
     {
       "type": "p",
@@ -39,7 +39,7 @@
     },
     {
       "type": "p",
-      "text": "إذا تم حظرك بالفعل، فلا تبدأ بهذا الدليل. يشير علم الأجهزة إلى [HWID spoofer](/products/fc27-cheats/hwid-spoofer/). ويشير استئناف الحساب إلى [استعادة [UGC](/products/fc27-cheats/ugc/). لا يتم تضمين أي منهما في سعر lifetime للشفرة."
+      "text": "إذا تم حظرك بالفعل، فلا تبدأ بهذا الدليل. يشير علم الأجهزة إلى [HWID spoofer](/products/fc27-cheats/hwid-spoofer/). ويشير استئناف الحساب إلى. لا يتم تضمين أي منهما في سعر lifetime للشفرة."
     },
     {
       "type": "p",

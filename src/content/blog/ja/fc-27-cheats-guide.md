@@ -15,10 +15,6 @@
     },
     {
       "type": "p",
-      "text": "この製品はEA SPORTS FC 27向けの1つのWindows loaderです。ライブ機能リストとチェックアウトについては、[loaderのページ](/products/fc27-cheats/loader/))を開いてください。プランは31日間または$150 lifetimeです。週間プランはありません。HWID spooferとアカウント回復ツールは、それぞれ異なるキーを持つ別のカードです。"
-    },
-    {
-      "type": "p",
       "text": "サイトに掲載されているクライアントは、EAアプリ、Steam、Epic Gamesストアです。loaderパネルに記載されている要件は、HVCIオン、コア分離オン、TPMオン、Secure Bootオン、およびSecure BootとWindowsの10と11の両方のサポートです。インジェストの失敗をメニューのせいにする前に、あなたのPCがそのパネルに一致しているか確認してください。"
     },
     {
@@ -39,7 +35,7 @@
     },
     {
       "type": "p",
-      "text": "すでにBANされている場合は、このガイドから始めないでください。ハードウェアフラグは[HWID spoofer](/products/fc27-cheats/hwid-spoofer/).)を示しています。アカウントの異議申し立ては[UGCの回復](/products/fc27-cheats/ugc/).)を示しています。どちらもチートのlifetimeの価格には含まれていません。"
+      "text": "すでにBANされている場合は、このガイドから始めないでください。ハードウェアフラグは[HWID spoofer](/products/fc27-cheats/hwid-spoofer/).)を示しています。アカウントの異議申し立ては.)を示しています。どちらもチートのlifetimeの価格には含まれていません。"
     },
     {
       "type": "p",

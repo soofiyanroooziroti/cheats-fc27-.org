@@ -16,7 +16,7 @@
     },
     {
       "type": "p",
-      "text": "Existe um único produto de cheat. Os planos são $35 por 31 dias ou $150 lifetime. Não há plano semanal. Lifetime no cheat não inclui o HWID spoofer ou o espaço de trabalho de recuperação de contaace. Esses são checkouts separados. A [página [loader]](/products/fc27-cheats/loader/)) é onde ficam a lista de recursos e o botão de compra. Este artigo foca em recursos, preço e risco."
+      "text": "Existe um único produto de cheat. Os planos são $35 por 31 dias ou $150 lifetime. Não há plano semanal. Esses são checkouts separados. A [página [loader]](/products/fc27-cheats/loader/)) é onde ficam a lista de recursos e o botão de compra. Este artigo foca em recursos, preço e risco."
     },
     {
       "type": "p",
@@ -28,7 +28,7 @@
     },
     {
       "type": "p",
-      "text": "Os clientes também buscam por hacks para FC 27. Neste site, isso significa o mesmo loader, e não um segundo produto. Nada aqui é rotulado como imperceptível. A Proteção Anti-Ban é um interruptor no menu. Ela não impede o EA Javelin e não torna um banimento de hardware ou de conta reversível. Se um banimento anterior foi uma marcação de hardware, essa é a conversa do [HWID spoofer](/products/fc27-cheats/hwid-spoofer/)). Se foi uma apelação de conta, essa é a [ferramenta de recuperação de conta](/products/fc27-cheats/ugc/).). Não trate essas páginas como incluídas na chave de cheat do $150."
+      "text": "Os clientes também buscam por hacks para FC 27. Neste site, isso significa o mesmo loader, e não um segundo produto. Nada aqui é rotulado como imperceptível. A Proteção Anti-Ban é um interruptor no menu. Ela não impede o EA Javelin e não torna um banimento de hardware ou de conta reversível. Se um banimento anterior foi uma marcação de hardware, essa é a conversa do [HWID spoofer](/products/fc27-cheats/hwid-spoofer/)). Não trate essas páginas como incluídas na chave de cheat do $150."
     },
     {
       "type": "h2",
@@ -36,7 +36,7 @@
     },
     {
       "type": "p",
-      "text": "O acesso Monthly é de 31 dias por $35. Lifetime é $150 nesse mesmo cartão. Começar por um mês não garante crédito para lifetime. O spoofer custa $50 por 31 dias ou $150 lifetime em seu próprio cartão. A recuperação UGC usa a mesma divisão de $35 ou $150 do cheat, novamente em seu próprio checkout. Compare esses números nos cartões de produtos, e não em uma escala de níveis. Não há versão Lite, Pro ou Elite."
+      "text": "O acesso Monthly é de 31 dias por $35. Lifetime é $150 nesse mesmo cartão. Começar por um mês não garante crédito para lifetime. O spoofer custa $50 por 31 dias ou $150 lifetime em seu próprio cartão. Compare esses números nos cartões de produtos, e não em uma escala de níveis. Não há versão Lite, Pro ou Elite."
     },
     {
       "type": "p",
@@ -57,7 +57,6 @@
   ],
   "takeaways": [
     "Um produto de cheat por $35 por 31 dias ou $150 lifetime — sem plano semanal.",
-    "A recuperação de HWID spoofer e UGC são checkouts $150 separados.",
     "O banimento ainda é possível após a Atualização de Título v1.1.0; leia /status/ antes de iniciar."
   ],
   "dateIso": "2026-10-31"

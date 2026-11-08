@@ -128,7 +128,7 @@
   "whyUs": {
     "eyebrow": "Warum wir",
     "title": "Karriere- und Ultimate-Team-Saison — Updates statt Versprechen",
-    "subtitle": "Ein Cheat-Produkt, ein HWID spoofer und ein UGC Recovery-Workspace. Cheat und UGC sind $35 für 31 Tage oder $150 lifetime; der Spoofer kostet $50 für 31 Tage oder $150 lifetime. Unter EA Javelin ist eine Sperre weiterhin möglich.",
+    "subtitle": "Ein Cheat-Produkt, ein HWID spoofer und ein Recovery-Workspace. Cheat und sind $35 für 31 Tage oder $150 lifetime; der Spoofer kostet $50 für 31 Tage oder $150 lifetime. Unter EA Javelin ist eine Sperre weiterhin möglich.",
     "usLabel": "FC27 Cheats",
     "otherLabel": "Typischer Anbieter",
     "rows": [
@@ -146,7 +146,7 @@
       },
       {
         "title": "Getrennte Produkt-Checkouts",
-        "desc": "Der Cheat, das HWID spoofer und die UGC Recovery bleiben separate Checkouts. Lifetime beim Cheat fügt nicht automatisch den Spoofer hinzu."
+        "desc": "Lifetime beim Cheat fügt nicht automatisch den Spoofer hinzu."
       },
       {
         "title": "Gespeicherte Konfigs",
@@ -154,7 +154,7 @@
       },
       {
         "title": "HWID ist ein eigenständiges Produkt",
-        "desc": "Ein PC, bei dem neue Accounts gesperrt werden, ist ein Fall für den Spoofer. Eine reine Account-Einschränkung ist der UGC-Fall. Keines davon ist im Cheat-Key enthalten."
+        "desc": "Ein PC, bei dem neue Accounts gesperrt werden, ist ein Fall für den Spoofer. Keines davon ist im Cheat-Key enthalten."
       }
     ],
     "metrics": [
@@ -166,12 +166,12 @@
       {
         "value": "2",
         "title": "Pläne auf jeder Karte",
-        "desc": "Cheat und UGC monthly gilt $35 für 31 Tage. Spoofer monthly kostet $50. Lifetime ist $150 pro Produkt. Es gibt keinen Wochenplan."
+        "desc": "Spoofer monthly kostet $50. Lifetime ist $150 pro Produkt. Es gibt keinen Wochenplan."
       },
       {
         "value": "3",
         "title": "Getrennte Produkte",
-        "desc": "FC27 Cheats, der HWID spoofer und UGC Recovery. Jedes davon ist ein eigener Key."
+        "desc": "Jedes davon ist ein eigener Key."
       }
     ]
   },
@@ -265,7 +265,7 @@
   "products": {
     "eyebrow": "Produkte",
     "title": "Produkte & Preise",
-    "subtitle": "FC27 Cheats und UGC: $35/mo oder $150 lifetime. HWID spoofer: $50/mo oder $150 lifetime.",
+    "subtitle": "HWID spoofer: $50/mo oder $150 lifetime.",
     "viewAll": "Details ansehen",
     "get": "Jetzt kaufen",
     "explore": "Entdecken",
@@ -284,21 +284,6 @@
         ],
         "more": 4,
         "href": "/products/fc27-cheats/hwid-spoofer/"
-      },
-      {
-        "badge": "Aktiv",
-        "category": "UGC Account recovery",
-        "title": "UGC Account recovery",
-        "subtitle": "Einprüche & Wiederherstellung",
-        "desc": "UGC Account recovery workspace – benutzerdefinierte Einspruchs-Workflows, Vorlagen und Einschränkungsverfolgung.",
-        "features": [
-          "Benutzerdefinierte Einspruchs-Workflows",
-          "Plattformübergreifende Profile",
-          "Vorlagenbibliothek",
-          "Status-Dashboard"
-        ],
-        "more": 4,
-        "href": "/products/fc27-cheats/ugc/"
       }
     ]
   },
@@ -393,7 +378,7 @@
         "num": "02",
         "phase": "Zur Kasse",
         "title": "Produkt auswählen",
-        "desc": "FC27 Cheats oder UGC: $35 für 31 Tage oder $150 lifetime. HWID Spoofer: $50 für 31 Tage oder $150 lifetime. Separate Keys."
+        "desc": "HWID Spoofer: $50 für 31 Tage oder $150 lifetime. Separate Keys."
       },
       {
         "num": "03",
@@ -426,7 +411,7 @@
       {
         "num": "03",
         "title": "Separate Produkte",
-        "desc": "Der Cheat, HWID spoofer und die UGC Wiederherstellung erfordern jeweils einen eigenen Kauf. Lifetime bei einem schaltet die anderen nicht frei."
+        "desc": "Lifetime bei einem schaltet die anderen nicht frei."
       }
     ]
   },
@@ -438,14 +423,14 @@
       {
         "icon": "users",
         "title": "Chat vor dem Kauf",
-        "desc": "Frage vor der Bezahlung nach dem Cheat, dem Spoofer oder UGC.",
+        "desc": "Frage vor der Bezahlung nach dem Cheat, dem Spoofer oder.",
         "linkLabel": "Zur Kasse",
         "href": "https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fea-sports-fc-27"
       },
       {
         "icon": "messageCircle",
         "title": "Community-Forum",
-        "desc": "Einrichtung, Aim, Overlays und Fragen zu Plänen mit markierten Entwicklerantworten.",
+        "desc": "Einrichtung, Menü, Overlays und Fragen zu Plänen mit markierten Entwicklerantworten.",
         "linkLabel": "Forum öffnen",
         "href": "/forum/"
       },
@@ -512,11 +497,10 @@
         "topic": "plans",
         "icon": "faqComparePlans",
         "q": "Enthält der $150 lifetime Plan den Spoofer?",
-        "a": "Nein. Lifetime für FC27 Cheats gilt nur für dieses Produkt. Der HWID spoofer kostet 50 USD für 31 Tage oder ist $150 lifetime auf einer eigenen Karte erhältlich. Die UGC Wiederherstellung ist ein separater dritter Checkout.",
+        "a": "Nein. Lifetime für FC27 Cheats gilt nur für dieses Produkt. Der HWID spoofer kostet 50 USD für 31 Tage oder ist $150 lifetime auf einer eigenen Karte erhältlich.",
         "scopes": [
           "loader",
-          "hwid-spoofer",
-          "ugc"
+          "hwid-spoofer"
         ]
       },
       {
@@ -559,7 +543,7 @@
     }
   },
   "footer": {
-    "tagline": "FC27 Cheats, HWID spoofer und UGC Recovery für Windows PC. cheatsfc27.org",
+    "tagline": "FC27 Cheats, HWID spoofer und Recovery für Windows PC. cheatsfc27.org",
     "explore": "Entdecken",
     "exploreLinks": [
       {
@@ -612,20 +596,20 @@
   "legalPages": {
     "about": {
       "title": "Über diesen FC 27 Store",
-      "description": "cheatsfc27.org verkauft FC27 Cheats, ein HWID spoofer und UGC account recovery für Windows PC, mit Installationshinweisen und ehrlichem Bannrisiko.",
+      "description": "Cheatsfc27.org verkauft FC27 Cheats, ein HWID spoofer und account recovery für Windows PC, mit Installationshinweisen und ehrlichem Bannrisiko.",
       "sections": [
         {
           "heading": "Wer wir sind",
           "paragraphs": [
-            "cheatsfc27.org ist ein Windows PC Store für FC27 Cheats, ein HWID spoofer und UGC account recovery. Der Cheat ist ein einziges loader Produkt mit Tabs für FUT, Gameplay, Pro Clubs, Utilities und Schutz. Cloud DMA ist für die volle Funktionalität auf unterstützten Builds erforderlich. Es handelt sich hierbei nicht um eine Staffelung aus Lite-, Pro- und Elite-Stufen.",
-            "FC27 Cheats und UGC können an der Kasse unter $35 für 31 Tage oder $150 lifetime erworben werden. Der HWID spoofer kostet $50 für 31 Tage oder $150 lifetime. Ein lifetime Key für den Cheat beinhaltet weder den Spoofer noch die Wiederherstellungsarbeit ace. Der Start in einen Monat garantiert keine Gutschrift für lifetime.",
+            "Der Cheat ist ein einziges loader Produkt mit Tabs für FUT, Gameplay, Pro Clubs, Utilities und Schutz. Cloud DMA ist für die volle Funktionalität auf unterstützten Builds erforderlich. Es handelt sich hierbei nicht um eine Staffelung aus Lite-, Pro- und Elite-Stufen.",
+            "Der HWID spoofer kostet $50 für 31 Tage oder $150 lifetime. Ein lifetime Key für den Cheat beinhaltet weder den Spoofer noch die Wiederherstellungsarbeit ace. Der Start in einen Monat garantiert keine Gutschrift für lifetime.",
             "Produktnamen auf dieser Website kennzeichnen, was wir verkaufen. Sie stellen keine Zusicherung dar, dass der Spielepublisher die Software billigt. Die Auslieferung erfolgt als Portal-Download für Windows 10 oder 11. Sie lassen HVCI, Core Isolation, TPM und secure boot eingeschaltet und öffnen den loader nur dann, wenn die Website noch mit dem aktuellen Client übereinstimmt."
           ]
         },
         {
           "heading": "Was wir veröffentlichen",
           "paragraphs": [
-            "Die [FC27 Cheats](/products/fc27-cheats/loader/) Seite listet die Menünamen und Systemanforderungen auf: HVCI, Core Isolation, TPM und secure boot eingeschaltet; WINDOWS 10 und 11 werden beide unterstützt; Cloud DMA ist für die volle Funktionalität erforderlich. Auf der [Produktseite](/products/fc27-cheats/) können Sie den Cheat, das [HWID Spoofer](/products/fc27-cheats/hwid-spoofer/), und [UGC Account recovery](/products/fc27-cheats/ugc/). miteinander vergleichen.",
+            "Die [FC27 Cheats](/products/fc27-cheats/loader/) Seite listet die Menünamen und Systemanforderungen auf: HVCI, Core Isolation, TPM und secure boot eingeschaltet; WINDOWS 10 und 11 werden beide unterstützt; Cloud DMA ist für die volle Funktionalität erforderlich. Auf der [Produktseite](/products/fc27-cheats/) können Sie den Cheat, das [HWID Spoofer](/products/fc27-cheats/hwid-spoofer/), und. miteinander vergleichen.",
             "Anleitungen im [Blog](/blog/) erklären die loader Tabs, warum ein Hardware-Flag ein anderer Kauf ist als ein Account-Einspruch und worauf nach einem Patch zu achten ist. Das [Forum](/forum/) ist für genau diese Fragen gedacht, wobei Entwicklerantworten direkt im Thread markiert sind. Lesen Sie die [AGB](/terms/) vor dem Kauf. Verkäufe sind endgültig, einschließlich Banns.",
             "EA Javelin kann weiterhin gegen einen Account vorgehen. Nichts davon ist eine Garantie dafür, dass eine Sitzung nach dem nächsten Patch unauffällig bleibt. Überprüfen Sie diese Website nach einem Client-Update, bevor Sie den loader öffnen. Wenn die Seite für diesen Build nicht aktuell ist, lassen Sie die Software geschlossen.",
             "Statusnotizen auf der Startseite beschreiben, ob der veröffentlichte Build noch zum Client passt. Sie sind kein Versprechen, dass EA Javelin die Software ignoriert. Wenn Sie unsicher sind, lassen Sie den loader geschlossen und lesen Sie die passende Anleitung im Blog, bevor Sie sich erneut in eine Warteschlange einreihen."
@@ -682,8 +666,8 @@
         {
           "heading": "Was du kaufst",
           "paragraphs": [
-            "Wir verkaufen FC27 Cheats, ein HWID spoofer und UGC account recovery. Cheat und UGC sind $35 für 31 Tage oder $150 lifetime; der Spoofer kostet $50 für 31 Tage oder $150 lifetime. Jedes Produkt stellt eine eigene Lizenz über das Portal auf Windows PC dar.",
-            "Funktionslisten auf jeder Produktseite beschreiben, was zum Zeitpunkt des Kaufs enthalten ist. Module können sich ändern, wenn FC 27 oder EA Javelin aktualisiert wird. Ein lifetime Cheat-Key beinhaltet nicht den Spoofer oder UGC."
+            "Wir verkaufen FC27 Cheats, ein HWID spoofer und account recovery. Cheat und sind $35 für 31 Tage oder $150 lifetime; der Spoofer kostet $50 für 31 Tage oder $150 lifetime. Jedes Produkt stellt eine eigene Lizenz über das Portal auf Windows PC dar.",
+            "Funktionslisten auf jeder Produktseite beschreiben, was zum Zeitpunkt des Kaufs enthalten ist. Module können sich ändern, wenn FC 27 oder EA Javelin aktualisiert wird."
           ]
         },
         {
@@ -730,19 +714,18 @@
     },
     "support": {
       "title": "FC 27 Support",
-      "description": "Loader, HWID spoofer, UGC und Hilfe beim Bezahlvorgang für cheatsfc27.org."
+      "description": "Loader, HWID spoofer und Hilfe beim Bezahlvorgang für cheatsfc27.org."
     }
   },
   "productCatalog": {
     "searchHeading": "Produkte und Tarife durchsuchen",
     "utilityCategory": "Hilfsprogramme",
     "buyLoader": "loader kaufen",
-    "buyHwidSpoofer": "HWID spoofer kaufen",
-    "buyUgcRecovery": "UGC-Wiederherstellung kaufen"
+    "buyHwidSpoofer": "HWID spoofer kaufen"
   },
   "utilitiesPage": {
     "title": "Hilfsprogramme vergleichen",
-    "subtitle": "HWID Spoofer und UGC Account recovery lösen unterschiedliche Probleme. Wähle das passende Tool für deine PC oder deinen Account vor dem Kauf.",
+    "subtitle": "Wähle das passende Tool für deine PC oder deinen Account vor dem Kauf.",
     "breadcrumb": "Hilfsprogramme vergleichen",
     "tableAria": "Hilfsprogramm-Vergleich",
     "columnUtility": "Hilfsprogramm",
@@ -754,8 +737,7 @@
     "viewDetailsFallback": "Details",
     "schemaName": "FC 27 Hilfsprogramme vergleichen",
     "useCases": {
-      "hwid-spoofer": "Neue PC oder Hardwaresperre nach einem Bann – passe die Kennungen deines PCs vor der Erstellung eines neuen Accounts an.",
-      "ugc": "Strukturierte Abläufe für Einsprüche und Account-Wiederherstellung bei eingeschränktem Zugriff."
+      "hwid-spoofer": "Neue PC oder Hardwaresperre nach einem Bann – passe die Kennungen deines PCs vor der Erstellung eines neuen Accounts an."
     }
   },
   "sectionSearch": {
@@ -820,10 +802,6 @@
         "title": "HWID Spoofer",
         "desc": "Hardware-Profil-Rotation nach einer Gerätesperre."
       },
-      "ugc": {
-        "title": "UGC Account Recovery",
-        "desc": "Einspruch-Arbeitsbereich ace für gesperrte Gaming-Konten."
-      },
       "plans": {
         "title": "Tarife",
         "desc": "Vergleiche monthly und lifetime auf jeder Produktkarte."
@@ -846,7 +824,7 @@
       },
       "blog": {
         "title": "Blog",
-        "desc": "Zielhilfen, Overlays und Anleitungen für Patch-Tage."
+        "desc": "Mod-Menü, Sicherheit und Anleitungen für Patch-Tage."
       },
       "forum": {
         "title": "Forum",
@@ -966,7 +944,7 @@
     "previous": "Zurück",
     "next": "Weiter",
     "sidebarAboutTitle": "Forum: FC 27 Community",
-    "sidebarAboutCopy": "Fragen zum Cheat, zur HWID spoofer und zur UGC-Wiederherstellung. Entwicklerantworten bleiben im Thread.",
+    "sidebarAboutCopy": "Entwicklerantworten bleiben im Thread.",
     "sidebarTopics": "Themen",
     "sidebarExploreGuides": "Alle Leitfäden ansehen",
     "sidebarCommunities": "Communities",
@@ -1017,7 +995,7 @@
     "title": "FAQ: Pläne, Einrichtung, EA-Javelin-Risiko vor dem Checkout – Cheats & Guides",
     "subtitle": "Pläne, EA Javelin, Launcher, Systemanforderungen und Kontaktaufnahme zum Support.",
     "schemaName": "FAQ — FC27 Cheats & Produkte",
-    "schemaDescription": "Antworten zu FC27 Cheats, dem HWID spoofer, der UGC-Wiederherstellung, dem EA-Javelin-Risiko und dem Checkout auf cheatsfc27.org."
+    "schemaDescription": "Antworten zu FC27 Cheats, dem HWID spoofer, der -Wiederherstellung, dem EA-Javelin-Risiko und dem Checkout auf cheatsfc27.org."
   },
   "siteFaqSection": {
     "allTopicsEyebrow": "Alle Themen",
@@ -1127,32 +1105,6 @@
         }
       ]
     },
-    "shopHeroInfoUgc": {
-      "eyebrow": "Übersicht",
-      "title": "UGC Account recovery",
-      "blocks": [
-        {
-          "title": "Was ist UGC account recovery?",
-          "body": "Unterstützt dich beim Vorbereiten und Einreichen von Einsprüchen gegen Konten, die von Einschränkungen oder Sperren für nutzergenerierte Inhalte betroffen sind – mit Arbeitsabläufen, Vorlagen und Plattformprofilen an einem Ort."
-        },
-        {
-          "title": "Für wen ist das gedacht?",
-          "body": "Spieler, die einen klaren, strukturierten Einspruchsprozess bevorzugen, anstatt alles von Grund auf neu zu schreiben."
-        },
-        {
-          "title": "Wie es funktioniert",
-          "body": "1. Tarif auswählen und bezahlen. 2. Anleitung und Vorlagen in deinem Konto öffnen. 3. Die Schritte für deine Plattform befolgen und den Einspruch absenden."
-        },
-        {
-          "title": "Was ist enthalten?",
-          "body": "Individuelle Einspruchs-Workflows, plattformübergreifende Profile, Vorlagenbibliothek, Schritt-für-Schritt-Anleitung."
-        },
-        {
-          "title": "Lieferung und Support",
-          "body": "Sofortige Bereitstellung. Support über deinen Ticket-Channel. Die Ergebnisse hängen davon ab, wie die Plattform den jeweiligen Fall prüft."
-        }
-      ]
-    },
     "shopHeroFaq": {
       "eyebrow": "FAQ",
       "title": "FAQ",
@@ -1224,7 +1176,6 @@
     "productCheats": "FC27 Cheats",
     "allProducts": "Alle Produkte",
     "hwidSpoofer": "HWID Spoofer",
-    "ugcRecovery": "UGC Account recovery",
     "tocAria": "Inhaltsverzeichnis",
     "tocFallbackLabel": "Artikelbeginn",
     "quickFactsTitle": "Schnelle Fakten",
@@ -1242,7 +1193,7 @@
     "priceEstimatorTotal": "Gesamtschätzung",
     "priceEstimatorProducts": "Produkte",
     "priceEstimatorNote": "Nur eine Schätzung. Kaufe jedes Produkt auf seiner eigenen Karte.",
-    "utilityGuides": "Spoofer und UGC",
+    "utilityGuides": "Spoofer und",
     "moreGuides": "Weitere Anleitungen"
   }
 }

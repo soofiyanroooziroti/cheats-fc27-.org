@@ -7,7 +7,6 @@ export const CHECKOUT_URLS = {
   fc27: FC27_CHEAT_AFFILIATE_URL,
   dayz: FC27_CHEAT_AFFILIATE_URL,
   hwidSpoofer: 'https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fhwid-spoofer',
-  ugc: 'https://zadeyo.com/go/SOOFIYAN?to=%2Fproducts%2Fugc',
 };
 
 export const DISCORD_INVITE_URL = 'https://discord.com/invite/2gMnnaPWq';
@@ -23,8 +22,6 @@ export const CHECKOUT_PATH_REDIRECTS = new Map([
   ['/go/delta-force/', CHECKOUT_URLS.fc27],
   ['/go/hwid-spoofer', CHECKOUT_URLS.hwidSpoofer],
   ['/go/hwid-spoofer/', CHECKOUT_URLS.hwidSpoofer],
-  ['/go/ugc', CHECKOUT_URLS.ugc],
-  ['/go/ugc/', CHECKOUT_URLS.ugc],
 ]);
 
 export function resolveCheckoutPathRedirect(pathname) {

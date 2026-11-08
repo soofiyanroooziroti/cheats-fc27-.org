@@ -48,7 +48,6 @@ export function buildEnBundle(): Translations {
           desc: 'Match, Career, and Ultimate Team assists, colors, key binds, and config.',
         },
         spoofer: { title: 'HWID Spoofer', desc: 'Hardware profile rotation after a machine flag.' },
-        ugc: { title: 'UGC Account Recovery', desc: 'Appeal workspace for locked gaming accounts.' },
         plans: { title: 'Plans', desc: 'Compare monthly and lifetime on each product card.' },
         features: { title: 'Features', desc: 'The loader menu on the FC27 Cheats page.' },
         status: { title: 'Status', desc: 'Patch notes and EA Javelin update reminders.' },
@@ -138,7 +137,7 @@ export function buildEnBundle(): Translations {
       next: 'Next',
       sidebarAboutTitle: 'Forum: FC 27 community',
       sidebarAboutCopy:
-        'Questions about the cheat, the HWID spoofer, and UGC recovery. Developer replies stay on the thread.',
+        'Questions about the cheat and the HWID spoofer. Developer replies stay on the thread.',
       sidebarTopics: 'topics',
       sidebarExploreGuides: 'Explore all guides',
       sidebarCommunities: 'Communities',
@@ -184,15 +183,15 @@ export function buildEnBundle(): Translations {
       eyebrow: 'Help center',
       title: 'FAQ: plans, setup, EA Javelin risk before checkout — cheats & guides',
       subtitle:
-        'Plans, gameplay assist options, the HWID spoofer, UGC recovery, and what to check after an EA Javelin update.',
+        'Plans, gameplay assist options, the HWID spoofer, and what to check after an EA Javelin update.',
       schemaName: 'FAQ — FC27 Cheats & Products',
       schemaDescription:
-        'Answers about FC27 Cheats, the HWID spoofer, UGC recovery, EA Javelin risk, and checkout on cheatsfc27.org.',
+        'Answers about FC27 Cheats, the HWID spoofer, EA Javelin risk, and checkout on cheatsfc27.org.',
     },
     siteFaqSection: {
       allTopicsEyebrow: 'All topics',
       allTopicsTitle: 'Browse by category',
-      allTopicsSubtitle: 'Plans, visuals, the loader, the spoofer, UGC, and setup.',
+      allTopicsSubtitle: 'Plans, visuals, the loader, the spoofer, and setup.',
       contextualEyebrow: 'FAQ',
       contextualTitle: 'Questions about this page',
       contextualSubtitle: 'Answers tied to what you are reading—visit the FAQ page for every topic.',
@@ -291,7 +290,6 @@ export function buildEnBundle(): Translations {
       productCheats: 'FC27 Cheats',
       allProducts: 'All products',
       hwidSpoofer: 'HWID Spoofer',
-      ugcRecovery: 'UGC Account recovery',
       tocAria: 'Table of contents',
       tocFallbackLabel: 'Start of article',
       quickFactsTitle: 'Quick facts',
@@ -309,7 +307,7 @@ export function buildEnBundle(): Translations {
       priceEstimatorTotal: 'Est. total',
       priceEstimatorProducts: 'Products',
       priceEstimatorNote: 'Estimate only. Buy each product on its own card.',
-      utilityGuides: 'Spoofer and UGC',
+      utilityGuides: 'HWID spoofer',
       moreGuides: 'More guides',
     },
     blog: {

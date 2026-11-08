@@ -8,29 +8,35 @@ import { cheatTierIcons, productCategoryIcons } from '../data/sectionIcons';
 import SectionHeader from './SectionHeader.astro';
 import CatalogCard from './CatalogCard.astro';
 import { productPath } from '../utils/path';
-import {
-  Carousel,
-  CarouselContent,
-  CarouselItem,
-  CarouselNext,
-  CarouselPrevious,
-} from '@/components/starwind/carousel';
 
 const productPages = getProductPages(locale);
 const s = t.products;
+const pc = (t as { productCatalog?: Record<string, string> }).productCatalog ?? {};
 
-function cardIcon(product: (typeof productPages)[number]) {
+const HOME_PRODUCT_SLUGS = ['loader', 'hwid-spoofer'] as const;
+const FEATURE_PREVIEW_COUNT = 4;
+
+const homeProducts = HOME_PRODUCT_SLUGS.map((slug) => productPages.find((p) => p.slug === slug)).filter(
+  (p): p is NonNullable<typeof p> => Boolean(p),
+);
+
+function cardIcon(product: (typeof homeProducts)[number]) {
   if (product.kind === 'tier') {
     return cheatTierIcons[product.name] ?? 'gamepad2';
   }
   return productCategoryIcons[product.category ?? ''] ?? 'package';
 }
 
-function cardLabel(product: (typeof productPages)[number]) {
+function cardLabel(product: (typeof homeProducts)[number]) {
   if (product.kind === 'tier') {
     return product.tier ?? product.name;
   }
   return product.category ?? 'Utility';
+}
+
+function buyLabelFor(slug: string) {
+  if (slug === 'hwid-spoofer') return pc.buyHwidSpoofer ?? 'Buy the HWID spoofer';
+  return pc.buyLoader ?? 'Buy the loader';
 }
 ---
 
@@ -38,43 +44,27 @@ function cardLabel(product: (typeof productPages)[number]) {
   <div class="mx-auto max-w-6xl px-5">
     <SectionHeader eyebrow={s.eyebrow} title={s.title} desc={s.subtitle} titleId="products-title" />
 
-    <div class="products-carousel" data-products-carousel>
-      <Carousel
-        autoInit
-        opts={{ align: 'start', containScroll: 'trimSnaps', dragFree: false }}
-        class="products-carousel__root"
-      >
-        <div class="products-carousel__stage">
-          <CarouselPrevious class="products-carousel__arrow products-carousel__arrow--prev" hidden />
-          <CarouselNext class="products-carousel__arrow products-carousel__arrow--next is-visible" />
-          <div class="products-carousel__viewport">
-            <CarouselContent class="products-carousel__track">
-              {
-                productPages.map((product) => (
-                  <CarouselItem class="products-carousel__slide">
-                    <CatalogCard
-                      class="catalog-card--carousel"
-                      label={cardLabel(product)}
-                      title={product.title}
-                      href={productPath(product.slug, locale)}
-                      buyUrl={product.buyUrl}
-                      productSlug={product.slug}
-                      features={product.features}
-                      more={product.more}
-                      icon={cardIcon(product)}
-                      badge={product.badge}
-                      variant={product.variant}
-                      featured={product.slug === 'loader'}
-                      buyLabel={product.slug === 'hwid-spoofer' ? 'Buy the HWID spoofer' : product.slug === 'ugc' ? 'Buy UGC recovery' : 'Buy the loader'}
-                      maxFeatures={3}
-                    />
-                  </CarouselItem>
-                ))
-              }
-            </CarouselContent>
-          </div>
-        </div>
-      </Carousel>
+    <div class="products-section__grid">
+      {
+        homeProducts.map((product) => (
+          <CatalogCard
+            class="catalog-card--carousel h-full"
+            label={cardLabel(product)}
+            title={product.title}
+            href={productPath(product.slug, locale)}
+            buyUrl={product.buyUrl}
+            productSlug={product.slug}
+            features={product.features}
+            more={product.more}
+            icon={cardIcon(product)}
+            badge={product.badge}
+            variant={product.variant}
+            featured={product.slug === 'loader'}
+            buyLabel={buyLabelFor(product.slug)}
+            maxFeatures={FEATURE_PREVIEW_COUNT}
+          />
+        ))
+      }
     </div>
   </div>
 </section>

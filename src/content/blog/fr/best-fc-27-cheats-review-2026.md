@@ -16,7 +16,7 @@
     },
     {
       "type": "p",
-      "text": "Il n'y a qu'un seul produit de triche. Les abonnements sont de $35 pour 31 jours ou de $150 lifetime. Il n'y a pas d'abonnement hebdomadaire. Lifetime sur le code de triche n'inclut pas le HWID spoofer ou l'espace de récupération de compte ace. Ce sont des paiements séparés. La [page [loader](/products/fc27-cheats/loader/)) héberge la liste des fonctionnalités et le bouton d'achat. Cet article se concentre sur les fonctionnalités, le prix et les risques."
+      "text": "Il n'y a qu'un seul produit de triche. Les abonnements sont de $35 pour 31 jours ou de $150 lifetime. Il n'y a pas d'abonnement hebdomadaire. Ce sont des paiements séparés. La [page [loader](/products/fc27-cheats/loader/)) héberge la liste des fonctionnalités et le bouton d'achat. Cet article se concentre sur les fonctionnalités, le prix et les risques."
     },
     {
       "type": "p",
@@ -28,7 +28,7 @@
     },
     {
       "type": "p",
-      "text": "Les acheteurs tapent également hacks FC 27. Sur ce site, cela désigne le même loader, et non un second produit. Rien ici n'est qualifié d'intectable. La Protection Anti-Bannissement est un interrupteur dans le menu. Elle n'arrête pas EA Javelin et ne rend pas réversible un bannissement matériel ou de compte. Si un bannissement antérieur était un signalement matériel, c'est le sujet de [HWID spoofer](/products/fc27-cheats/hwid-spoofer/)). S'il s'agissait d'un appel concernant le compte, c'est l'outil de récupération de compte [account recovery tool](/products/fc27-cheats/ugc/).). Ne considérez pas ces pages comme incluses dans la clé de triche $150."
+      "text": "Les acheteurs tapent également hacks FC 27. Sur ce site, cela désigne le même loader, et non un second produit. Rien ici n'est qualifié d'intectable. La Protection Anti-Bannissement est un interrupteur dans le menu. Elle n'arrête pas EA Javelin et ne rend pas réversible un bannissement matériel ou de compte. Si un bannissement antérieur était un signalement matériel, c'est le sujet de [HWID spoofer](/products/fc27-cheats/hwid-spoofer/)). Ne considérez pas ces pages comme incluses dans la clé de triche $150."
     },
     {
       "type": "h2",
@@ -36,7 +36,7 @@
     },
     {
       "type": "p",
-      "text": "L'accès Monthly est de 31 jours à $35. Lifetime est à $150 sur cette même carte. Commencer par un mois ne garantit pas un avoir pour lifetime. Le spoofer coûte 50 $ pour 31 jours ou $150 lifetime seul. La récupération UGC utilise la même répartition $35 ou $150 que le code de triche, de nouveau lors d'un paiement séparé. Comparez ces chiffres sur les fiches produits, et non dans une hiérarchie de paliers. Il n'y a pas de version Lite, Pro ou Elite."
+      "text": "L'accès Monthly est de 31 jours à $35. Lifetime est à $150 sur cette même carte. Commencer par un mois ne garantit pas un avoir pour lifetime. Le spoofer coûte 50 $ pour 31 jours ou $150 lifetime seul. Comparez ces chiffres sur les fiches produits, et non dans une hiérarchie de paliers. Il n'y a pas de version Lite, Pro ou Elite."
     },
     {
       "type": "p",
@@ -57,7 +57,6 @@
   ],
   "takeaways": [
     "Un produit de triche à $35 pour 31 jours ou $150 lifetime — pas d'abonnement hebdomadaire.",
-    "La récupération HWID spoofer et UGC se fait via des paiements $150 séparés.",
     "Un bannissement reste possible après la mise à jour v1.1.0 ; lisez /status/ avant le lancement."
   ],
   "dateIso": "2026-10-31"

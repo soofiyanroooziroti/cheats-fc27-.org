@@ -139,9 +139,9 @@ const rawPosts: Array<Omit<ForumPost, 'commentsCount'>> = [
     category: 'General',
     categoryTone: 'purple',
     title: 'Does the $150 lifetime cheat key include the HWID spoofer?',
-    excerpt: 'Three cards at checkout. I want to be sure lifetime on one is not all three.',
+    excerpt: 'Two cards at checkout. I want to be sure lifetime on one is not both.',
     description:
-      'Cheat and UGC are $35 for 31 days or $150 lifetime; HWID spoofer is $50 for 31 days or $150 lifetime. Separate keys.',
+      'The cheat is $35 for 31 days or $150 lifetime; the HWID spoofer is $50 for 31 days or $150 lifetime. Separate keys.',
     author: 'PlanMath',
     age: '3d ago',
     date: 'Nov 4, 2026',
@@ -158,20 +158,20 @@ const rawPosts: Array<Omit<ForumPost, 'commentsCount'>> = [
         age: '3d ago',
         score: 40,
         developer: true,
-        body: 'No. Lifetime on FC27 Cheats is only that product. HWID Spoofer and UGC Account recovery are separate checkouts with their own keys. Monthly pricing differs ($35 vs $50); lifetime is $150 per product when offered on the card.',
+        body: 'No. Lifetime on FC27 Cheats is only that product. The HWID spoofer is a separate checkout with its own key. Monthly pricing differs ($35 vs $50); lifetime is $150 per product when offered on the card.',
       },
     ],
     sourceTitle: 'Pricing FAQ',
     sourcePath: '/blog/best-fc-27-cheats-review-2026/',
   },
   {
-    slug: 'hwid-vs-ugc-pattern',
+    slug: 'hardware-flag-which-product',
     category: 'Community',
     categoryTone: 'green',
     title: 'New account fails on this PC but works on a laptop — which product?',
     excerpt: 'Desktop blocks new profiles; laptop does not. I already have the cheat month.',
     description:
-      'Hardware-flag pattern matches HWID spoofer. Account-only restriction is UGC. Cheat key does not include either.',
+      'A hardware-flag pattern matches the HWID spoofer. The cheat key does not include it.',
     author: 'SecondRig',
     age: '4d ago',
     date: 'Nov 3, 2026',
@@ -179,7 +179,7 @@ const rawPosts: Array<Omit<ForumPost, 'commentsCount'>> = [
     flair: '❓ Question',
     body: [
       'Same region, same Battle.net. Fresh accounts die on the desktop and play fine on the laptop.',
-      'Do I buy the spoofer, or start an appeal in UGC?',
+      'Do I buy the spoofer?',
     ],
     comments: [
       {
@@ -187,7 +187,7 @@ const rawPosts: Array<Omit<ForumPost, 'commentsCount'>> = [
         age: '4d ago',
         score: 33,
         developer: true,
-        body: 'When a new profile fails on one machine and works on another, that is the hardware-ID pattern the spoofer addresses. UGC is for structuring an account appeal—it does not spoof hardware, and the cheat key does not bundle either utility.',
+        body: 'When a new profile fails on one machine and works on another, that is the hardware-ID pattern the spoofer addresses. The cheat key does not include the spoofer.',
       },
     ],
     sourceTitle: 'What an HWID spoofer is',

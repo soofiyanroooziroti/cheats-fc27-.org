@@ -40,7 +40,7 @@
     },
     {
       "type": "p",
-      "text": "Os preços continuam os mesmos no cartão do cheat: $35 por 31 dias ou $150 lifetime, sem plano semanal. O texto do trainer não cria um segundo SKU. O checkout é o checkout de loader. O spoofer e a recuperação de UGC continuam separados se você já estiver banido."
+      "text": "Os preços continuam os mesmos no cartão do cheat: $35 por 31 dias ou $150 lifetime, sem plano semanal. O texto do trainer não cria um segundo SKU. O checkout é o checkout de loader."
     },
     {
       "type": "p",

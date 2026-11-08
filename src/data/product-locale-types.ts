@@ -3,7 +3,7 @@ import type { ProductOverview } from './products';
 export type SlideText = { alt: string; caption: string; captionDesc: string };
 export type Block = { type: 'h2' | 'p'; text: string };
 
-export type CatalogKind = 'cheats' | 'spoofer' | 'ugc';
+export type CatalogKind = 'cheats' | 'spoofer';
 
 export type ProductLocaleBundle = {
   groupNames?: string[];
@@ -22,5 +22,4 @@ export type ProductLocalePack = {
   howToGet: string;
   cheats: ProductLocaleBundle;
   spoofer: ProductLocaleBundle;
-  ugc: ProductLocaleBundle;
 };

@@ -28,7 +28,7 @@
     },
     {
       "type": "p",
-      "text": "결제는 [loader 페이지](/products/fc27-cheats/loader/).에서 진행됩니다. Monthly은(는) 31일 기준 $35입니다. Lifetime은(는) $150입니다. 주간 플랜은 없습니다. 해당 키에는 [HWID spoofer](/products/fc27-cheats/hwid-spoofer/) 또는 [UGC account recovery](/products/fc27-cheats/ugc/).이(가) 포함되지 않습니다. 이미 제재를 받은 경우 별도의 상품 카드입니다."
+      "text": "결제는 [loader 페이지](/products/fc27-cheats/loader/).에서 진행됩니다. Monthly은(는) 31일 기준 $35입니다. Lifetime은(는) $150입니다. 주간 플랜은 없습니다. 해당 키에는 [HWID spoofer](/products/fc27-cheats/hwid-spoofer/) 또는.이(가) 포함되지 않습니다. 이미 제재를 받은 경우 별도의 상품 카드입니다."
     },
     {
       "type": "h2",

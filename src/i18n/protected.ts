@@ -10,16 +10,12 @@ export const PROTECTED_SITE_NAMES = [
   'cheatsfc27.org',
   'dayz-cheats.org',
   'HWID Spoofer',
-  'UGC Account Recovery',
-  'UGC Account recovery',
   'Zadeyo',
 ] as const;
 
 export const PROTECTED_PRODUCT_NAMES = [
   'FC27 Cheats',
   'HWID Spoofer',
-  'UGC Account recovery',
-  'UGC Account Recovery',
 ] as const;
 
 export const PROTECTED_CHEAT_TERMS = [
