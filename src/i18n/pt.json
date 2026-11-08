@@ -331,10 +331,8 @@
       "Install": "Instalação",
       "Safety": "Confiabilidade",
       "Plans": "Planos",
-      "Loot": "Itens",
-      "Visuals": "Visuais",
-      "Camera": "Câmara",
-      "Guide": "Guia"
+      "Guide": "Guia",
+      "Features": "Recursos"
     }
   },
   "toolkit": {
@@ -447,7 +445,7 @@
       {
         "icon": "messageCircle",
         "title": "Fórum da comunidade",
-        "desc": "Configuração, mira, overlays e dúvidas sobre planos com respostas marcadas dos desenvolvedores.",
+        "desc": "Configuração, menu, overlays e dúvidas sobre planos com respostas marcadas dos desenvolvedores.",
         "linkLabel": "Abrir fórum",
         "href": "/forum/"
       },
@@ -848,7 +846,7 @@
       },
       "blog": {
         "title": "Blog",
-        "desc": "Guias de mira, sobreposições e dias de atualização."
+        "desc": "Guias do menu, sobreposições e dias de atualização."
       },
       "forum": {
         "title": "Fórum",

@@ -331,10 +331,8 @@
       "Install": "설치",
       "Safety": "보안",
       "Plans": "요금제",
-      "Loot": "아이템",
-      "Visuals": "비주얼",
-      "Camera": "카메라",
-      "Guide": "가이드"
+      "Guide": "가이드",
+      "Features": "기능"
     }
   },
   "toolkit": {

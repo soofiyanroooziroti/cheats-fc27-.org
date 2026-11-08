@@ -331,10 +331,8 @@
       "Install": "Installazione",
       "Safety": "Tutela",
       "Plans": "Piani",
-      "Loot": "Oggetti",
-      "Visuals": "Grafica",
-      "Camera": "Telecamera",
-      "Guide": "Guida"
+      "Guide": "Guida",
+      "Features": "Funzioni"
     }
   },
   "toolkit": {
@@ -848,7 +846,7 @@
       },
       "blog": {
         "title": "Blog",
-        "desc": "Guide su mira, overlay e giorni di patch."
+        "desc": "Guide su menu, overlay e giorni di patch."
       },
       "forum": {
         "title": "Forum",

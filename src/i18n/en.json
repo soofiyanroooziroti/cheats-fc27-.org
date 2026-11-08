@@ -331,10 +331,8 @@
       "Install": "Install",
       "Safety": "Safety",
       "Plans": "Plans",
-      "Loot": "Loot",
-      "Visuals": "Visuals",
-      "Camera": "Camera",
-      "Guide": "Guide"
+      "Guide": "Guide",
+      "Features": "Features"
     }
   },
   "toolkit": {
@@ -555,8 +553,6 @@
     "filterTopics": {
       "all": "All",
       "plans": "Plans",
-      "esp": "Menu / overlays",
-      "scripts": "Scripts",
       "safety": "Safety",
       "products": "Products",
       "blog": "Blog",

@@ -331,10 +331,8 @@
       "Install": "インストール",
       "Safety": "セキュリティ",
       "Plans": "プラン",
-      "Loot": "アイテム",
-      "Visuals": "ビジュアル",
-      "Camera": "カメラ",
-      "Guide": "ガイド"
+      "Guide": "ガイド",
+      "Features": "機能"
     }
   },
   "toolkit": {

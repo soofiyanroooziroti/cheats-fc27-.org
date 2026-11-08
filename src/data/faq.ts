@@ -4,8 +4,6 @@ import { normalizeInternalPath } from '../utils/path-core';
 export type FaqTopic =
   | 'all'
   | 'plans'
-  | 'esp'
-  | 'scripts'
   | 'safety'
   | 'products'
   | 'blog'

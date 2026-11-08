@@ -331,10 +331,8 @@
       "Install": "تثبيت",
       "Safety": "الحماية",
       "Plans": "الخطط",
-      "Loot": "العناصر",
-      "Visuals": "المرئيات",
-      "Camera": "الكاميرا",
-      "Guide": "دليل"
+      "Guide": "دليل",
+      "Features": "ميزات"
     }
   },
   "toolkit": {

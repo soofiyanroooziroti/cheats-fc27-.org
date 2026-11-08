@@ -760,6 +760,32 @@ checkBlogIndexPlaceholder();
 checkSecurityHeaders();
 checkInlineCriticalMedia();
 checkContentFlags();
+checkNoShooterFeatureTerms();
+
+function checkNoShooterFeatureTerms() {
+  const patterns = [
+    /\baimbot\b/i,
+    /\bwallhack\b/i,
+    /\bwall hack\b/i,
+    /\bplayer esp\b/i,
+    /\bloot esp\b/i,
+    /\bvehicle esp\b/i,
+    /\bchams\b/i,
+    /\b2d radar\b/i,
+    /\bno recoil\b/i,
+    /\bno spread\b/i,
+    /\bsnaplines?\b/i,
+    /\bskeleton esp\b/i,
+    /\bbattleye\b/i,
+  ];
+  for (const file of htmlFiles) {
+    const html = fs.readFileSync(file, 'utf8');
+  const from = relFromDist(file);
+    for (const re of patterns) {
+      if (re.test(html)) fail(`${from}: forbidden shooter feature term (${re})`);
+    }
+  }
+}
 
 if (reports.length) {
   console.log('Content flags (report only):');

@@ -1,47 +1,26 @@
 import type { IconName } from '../components/icons/types';
 
+/** Icons for home feature cards and product anchors — FC 27 loader tabs only. */
 export const featureIcons: Record<string, IconName> = {
-  Aimbot: 'featureAimbot',
-  'Aimbot Options': 'featureAimbot',
-  'Player ESP': 'featureEsp',
-  'Player ESP Features': 'featureEsp',
-  'Bots ESP': 'skeletonEsp',
-  'Bots ESP Features': 'skeletonEsp',
-  'Items ESP': 'lootEsp',
-  'Items ESP Options': 'lootEsp',
-  Colors: 'layers',
-  'Color Options': 'layers',
-  'Key Binds': 'settings',
-  'Custom Key Binds': 'settings',
-  Config: 'compareCloudBackup',
-  'Config Options': 'compareCloudBackup',
-  'Player visuals': 'featureEsp',
-  Loot: 'lootEsp',
-  Chams: 'skeletonEsp',
-  Camera: 'compareZoomHack',
-  Plans: 'featureUtilitySuite',
-  'HWID and UGC': 'whyShield',
-  'Windows requirements': 'compatWindows',
   'Ultimate Team': 'compareRuneTimer',
-  Utilities: 'featureUtilitySuite',
   Gameplay: 'gamepad2',
   'Pro Clubs': 'users',
+  Utilities: 'featureUtilitySuite',
   Safety: 'shieldCheck',
+  'Ultimate Team Options': 'compareRuneTimer',
+  'Gameplay Options': 'gamepad2',
+  'Pro Clubs Options': 'users',
+  'HWID and UGC': 'whyShield',
+  'Windows requirements': 'compatWindows',
   'Supported clients': 'compatSteam',
+  Config: 'compareCloudBackup',
+  'Key Binds': 'settings',
+  Plans: 'featureUtilitySuite',
 };
 
 export const whyUsIcons: IconName[] = ['whyShield', 'whyUsers', 'whyMonitor', 'whyHeadphones'];
 
 export const setupStepIcons: IconName[] = ['acqPackage', 'acqSettings', 'acqCheck'];
-
-export const toolkitIcons: Record<string, IconName> = {
-  Combat: 'toolkitCombat',
-  Vision: 'toolkitVision',
-  Radar: 'toolkitRadar',
-  Weapons: 'toolkitWeapons',
-  Movement: 'toolkitMovement',
-  Profiles: 'toolkitProfiles',
-};
 
 export const workflowIcons: IconName[] = [
   'workflowAlert',
@@ -57,8 +36,6 @@ export const blogTagIcons: Record<string, IconName> = {
   Install: 'settings',
   Safety: 'shield',
   Plans: 'tag',
-  Aim: 'crosshair',
-  ESP: 'espActive',
   Guide: 'navBlog',
   Guides: 'navBlog',
   Setup: 'settings',

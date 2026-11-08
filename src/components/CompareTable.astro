@@ -37,7 +37,7 @@ const catalog = (t as { catalog?: Record<string, string> }).catalog ?? {};
 const tiers = cheatPages.map((c) => ({
   slug: c.slug,
   name: c.name,
-  icon: cheatTierIcons[c.name] ?? 'crosshair',
+  icon: cheatTierIcons[c.name] ?? 'gamepad2',
   href: productPath(c.slug, locale),
 }));
 

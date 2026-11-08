@@ -331,10 +331,8 @@
       "Install": "Installation",
       "Safety": "Schutz",
       "Plans": "Tarife",
-      "Loot": "Gegenstände",
-      "Visuals": "Grafik",
-      "Camera": "Kamera",
-      "Guide": "Leitfaden"
+      "Guide": "Leitfaden",
+      "Features": "Features"
     }
   },
   "toolkit": {

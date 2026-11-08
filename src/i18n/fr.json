@@ -331,10 +331,8 @@
       "Install": "Installation",
       "Safety": "Sécurité",
       "Plans": "Abonnements",
-      "Loot": "Objets",
-      "Visuals": "Visuels",
-      "Camera": "Caméra",
-      "Guide": "Guide"
+      "Guide": "Guide",
+      "Features": "Fonctions"
     }
   },
   "toolkit": {

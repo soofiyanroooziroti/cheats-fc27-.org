@@ -10,8 +10,6 @@ import type { Translations } from './types';
 const faqFilterTopics = {
   all: 'All',
   plans: 'Plans',
-  esp: 'Menu / overlays',
-  scripts: 'Scripts',
   safety: 'Safety',
   products: 'Products',
   blog: 'Blog',
@@ -27,12 +25,8 @@ const blogExtras = {
     Install: 'Install',
     Safety: 'Safety',
     Plans: 'Plans',
-    Aim: 'Match play',
-    ESP: 'Overlays',
-    Loot: 'Loot',
-    Visuals: 'Visuals',
-    Camera: 'Camera',
     Guide: 'Guide',
+    Features: 'Features',
   },
 };
 

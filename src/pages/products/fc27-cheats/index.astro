@@ -20,7 +20,7 @@ const breadcrumbs = [
 
 function cardIcon(product: (typeof productPages)[number]) {
   if (product.kind === 'tier') {
-    return cheatTierIcons[product.name] ?? 'crosshair';
+    return cheatTierIcons[product.name] ?? 'gamepad2';
   }
   return productCategoryIcons[product.category ?? ''] ?? 'package';
 }
