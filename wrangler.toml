@@ -1,0 +1,12 @@
+# Static Astro site — do not auto-add @astrojs/cloudflare (keeps output in dist/).
+name = "cheats-fc27--org"
+compatibility_date = "2025-10-11"
+
+# Runs before `wrangler deploy` (including Cloudflare's default `npx wrangler deploy`).
+[build]
+command = "npm run build:i18n-test"
+
+[assets]
+directory = "./dist"
+not_found_handling = "404-page"
+html_handling = "auto-trailing-slash"

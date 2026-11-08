@@ -28,7 +28,9 @@
     "check:links": "node scripts/check-i18n-links.mjs",
     "verify": "node scripts/verify-site.mjs",
     "qa": "npm run build:i18n-test && npm run check:seo && npm run verify",
-    "deploy:check": "node scripts/print-deploy-check.mjs"
+    "deploy:check": "node scripts/print-deploy-check.mjs",
+    "deploy": "npm run build:i18n-test && wrangler deploy",
+    "cf:deploy": "npm run build:i18n-test && wrangler deploy"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",
@@ -52,6 +54,7 @@
     "dotenv": "^18.0.8",
     "png-to-ico": "^3.0.2",
     "tsx": "^4.23.15",
-    "typescript": "^5.9.2"
+    "typescript": "^5.9.2",
+    "wrangler": "^4.158.0"
   }
 }
