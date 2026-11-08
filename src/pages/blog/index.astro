@@ -17,6 +17,10 @@ import { Button } from '@/components/starwind/button';
 import { ROUTES, blogPostPath } from '../../utils/path';
 
 const seo = resolvePageSeo('/blog/');
+const blogH1 =
+  locale === 'en'
+    ? 'Guides: FC 27 menu, safety, and patch-day notes'
+    : t.blog.latestTitle;
 const breadcrumbs = [
   { name: t.breadcrumbs.home, path: '/' },
   { name: t.breadcrumbs.blog, path: '/blog/' },
@@ -63,7 +67,7 @@ const tagIcon = (tag: string): IconName => blogTagIcons[tag] ?? 'tag';
     <div class="mx-auto max-w-6xl px-5">
       <header class="section-header max-w-2xl">
         <p class="section-header__eyebrow">{t.blog.eyebrow}</p>
-        <h1 id="blog-latest-title" class="section-header__title">{t.blog.latestTitle}</h1>
+        <h1 id="blog-latest-title" class="section-header__title">{blogH1}</h1>
         <p class="section-header__subtitle">{t.blog.latestSubtitle}</p>
         <h2 class="mt-4 text-xl font-semibold">{t.sectionSearch!.blogHeading}</h2>
       </header>

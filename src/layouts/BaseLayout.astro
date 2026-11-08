@@ -59,13 +59,14 @@ const {
   blogLocales,
 } = Astro.props;
 
-const canonical = canonicalUrl(Astro.url.pathname);
-const ogImageUrl = absoluteAssetUrl(ogImage);
+const requestOrigin = Astro.url.origin;
+const canonical = canonicalUrl(Astro.url.pathname, requestOrigin);
+const ogImageUrl = absoluteAssetUrl(ogImage, requestOrigin);
 const robotsContent = noindex
   ? 'noindex, nofollow'
   : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1';
 
-const alternates = getAlternateLanguages(Astro.url.pathname, SITE_ORIGIN, {
+const alternates = getAlternateLanguages(Astro.url.pathname, requestOrigin, {
   blogSlug,
   blogLocales,
 });
@@ -136,7 +137,7 @@ const xDefaultHref = alternates.find((a) => a.locale === 'en')?.href ?? canonica
       title={`${t.site.name} Blog RSS`}
       href={localePath(RSS_FEED_PATH, locale)}
     />
-    <link rel="sitemap" type="application/xml" title="Sitemap" href={`${SITE_ORIGIN}/sitemap.xml`} />
+    <link rel="sitemap" type="application/xml" title="Sitemap" href={`${requestOrigin}/sitemap.xml`} />
     <link rel="manifest" href="/site.webmanifest" />
     <link rel="icon" href="/favicon.ico" sizes="48x48" />
     <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png" />

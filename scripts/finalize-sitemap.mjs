@@ -44,6 +44,7 @@ function canonicalizeHosts(xml) {
   let out = xml.replace(/https?:\/\/(?:www\.)?cheatsfordeltaforce\.com/g, CANONICAL_ORIGIN);
   out = out.replace(/https:\/\/getwarzonecheats\.org(?=\/|$)/g, CANONICAL_ORIGIN);
   out = out.replace(/https:\/\/dayz-cheats\.org(?=\/|$)/g, CANONICAL_ORIGIN);
+  out = out.replace(/https:\/\/cheatsfc27\.com(?=\/|$)/g, CANONICAL_ORIGIN);
   return out;
 }
 
@@ -86,6 +87,7 @@ const robotsPath = path.join(dist, 'robots.txt');
 if (fs.existsSync(robotsPath)) {
   let robotsText = fs.readFileSync(robotsPath, 'utf8');
   robotsText = robotsText.replace(/^Sitemap:\s*.*$/m, `Sitemap: ${CANONICAL_ORIGIN}/sitemap.xml`);
+  robotsText = robotsText.replace(/https:\/\/dayz-cheats\.org/g, CANONICAL_ORIGIN);
   fs.writeFileSync(robotsPath, robotsText, 'utf8');
 }
 

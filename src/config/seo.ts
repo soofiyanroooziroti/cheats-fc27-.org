@@ -24,17 +24,19 @@ export function getOrganizationSameAs(): string[] {
 
 export const INDEXNOW_KEY = import.meta.env.INDEXNOW_KEY as string | undefined;
 
-export function canonicalUrl(pathname: string): string {
+export function canonicalUrl(pathname: string, origin: string = SITE_ORIGIN): string {
   let path = pathname || '/';
   if (!path.startsWith('/')) path = `/${path}`;
   if (path !== '/' && !path.endsWith('/')) path = `${path}/`;
-  return `${SITE_ORIGIN}${path}`;
+  const base = origin.replace(/\/$/, '');
+  return `${base}${path}`;
 }
 
-export function absoluteAssetUrl(path: string): string {
+export function absoluteAssetUrl(path: string, origin: string = SITE_ORIGIN): string {
   if (path.startsWith('http://') || path.startsWith('https://')) return path;
   const normalized = path.startsWith('/') ? path : `/${path}`;
-  return `${SITE_ORIGIN}${normalized}`;
+  const base = origin.replace(/\/$/, '');
+  return `${base}${normalized}`;
 }
 
 export function resolvePageSeo(pathname: string, locale?: Locale | null): { title: string; description: string } {

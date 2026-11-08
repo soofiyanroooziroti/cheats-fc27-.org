@@ -5,4 +5,4 @@ Disallow: /go/
 Disallow: /cheats/
 Disallow: /contact/
 
-Sitemap: https://dayz-cheats.org/sitemap.xml
+Sitemap: https://cheatsfc27.com/sitemap.xml

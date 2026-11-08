@@ -2,7 +2,8 @@
 {
   "tag": "Install",
   "title": "FC27 Javelin Anti-Cheat: Download the Loader, Then Open the Menu",
-  "seoTitle": "FC27 Javelin Anti-Cheat: First Loader Steps",
+  "seoTitle": "FC27 Javelin Anti Cheat – First Loader Steps Guide",
+  "h1Title": "FC27 Javelin Anti-Cheat: First Loader Steps",
   "slug": "fc27-javelin-anti-cheat-loader-steps",
   "image": "/images/blog/fc27-build-up.webp",
   "imageAlt": "EA FC 27 build-up play with the ball moved out of the defensive third",

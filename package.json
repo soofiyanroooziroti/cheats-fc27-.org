@@ -9,6 +9,7 @@
     "dev": "astro dev",
     "build": "node scripts/optimize-images.mjs && astro build && node scripts/prune-dist-images.mjs && node scripts/finalize-sitemap.mjs && node scripts/indexnow.mjs",
     "build:i18n-test": "node scripts/optimize-images.mjs && astro build && node scripts/prune-dist-images.mjs && node scripts/finalize-sitemap.mjs",
+    "build:workers": "node scripts/build-workers.mjs",
     "preview": "astro preview --host 0.0.0.0",
     "start": "node scripts/serve.mjs",
     "astro": "astro",
@@ -29,8 +30,8 @@
     "verify": "node scripts/verify-site.mjs",
     "qa": "npm run build:i18n-test && npm run check:seo && npm run verify",
     "deploy:check": "node scripts/print-deploy-check.mjs",
-    "deploy": "npm run build:i18n-test && wrangler deploy",
-    "cf:deploy": "npm run build:i18n-test && wrangler deploy"
+    "deploy": "npm run build:workers && wrangler deploy",
+    "cf:deploy": "npm run build:workers && wrangler deploy"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.3",

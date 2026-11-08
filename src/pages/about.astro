@@ -10,6 +10,10 @@ import LegalPage from '../components/LegalPage.astro';
 import { breadcrumbSchema, organizationSchema, webPageSchema } from '../utils/schema';
 
 const content = t.legalPages.about;
+const aboutH1 =
+  locale === 'en'
+    ? 'About this store: portal delivery, pricing, and risk'
+    : content.title;
 ---
 
 <BaseLayout
@@ -18,8 +22,8 @@ const content = t.legalPages.about;
   jsonLd={[
     organizationSchema(),
     webPageSchema({
-      name: content.title,
-      description: content.description,
+      name: aboutH1,
+      description: seo.description,
       url: '/about/',
     }),
     breadcrumbSchema([
@@ -29,7 +33,7 @@ const content = t.legalPages.about;
   ]}
 >
   <LegalPage
-    title={content.title}
+    title={aboutH1}
     description={content.description}
     breadcrumbLabel={t.footer.about}
     sections={content.sections}

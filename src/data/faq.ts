@@ -31,8 +31,8 @@ export const siteFaqs: SiteFaqItem[] = [
     topic: 'safety',
     icon: 'faqBanRisk',
     q: 'Does the FC27 cheat work with EA Javelin?',
-    a: 'The loader is for EA SPORTS FC 27 on Windows PC while EA Javelin is running. It does not stop enforcement, and it is not an undetected claim. Read the status page after each client or EA Javelin update before you launch.',
-    aHtml: `The loader is for EA SPORTS FC 27 on Windows PC while EA Javelin is running. It does not stop enforcement, and it is not an undetected claim. Read the ${link('status page', '/status/')} after each client or EA Javelin update before you launch.`,
+    a: 'The loader is for EA SPORTS FC 27 on Windows PC while EA Javelin is running. It does not stop enforcement, and it is not an undetected claim. Read the status page after each client update before you launch.',
+    aHtml: `The loader is for EA SPORTS FC 27 on Windows PC while EA Javelin is running. It does not stop enforcement, and it is not an undetected claim. Read the ${link('status page', '/status/')} after each client update before you launch.`,
   },
   {
     id: 'ultimate-team',
@@ -61,8 +61,8 @@ export const siteFaqs: SiteFaqItem[] = [
     topic: 'setup',
     icon: 'faqStatus',
     q: 'How fast are updates after a patch?',
-    a: 'There is no fixed hour count. Check the status page after an FC 27 or EA Javelin update. Leave the loader closed until that note matches the build you installed.',
-    aHtml: `There is no fixed hour count. Check the ${link('status page', '/status/')} after an FC 27 or EA Javelin update. Leave the loader closed until that note matches the build you installed.`,
+    a: 'There is no fixed hour count. Check the status page after an FC 27 client update. Leave the loader closed until that note matches the build you installed.',
+    aHtml: `There is no fixed hour count. Check the ${link('status page', '/status/')} after an FC 27 client update. Leave the loader closed until that note matches the build you installed.`,
   },
   {
     id: 'launchers',
@@ -160,8 +160,8 @@ const relatedBlogFaqs: Record<string, SiteFaqItem[]> = {
       'rel-ut-2',
       'faqBanRisk',
       'Does Ultimate Team use still carry ban risk?',
-      'Yes. EA Javelin still applies in Ultimate Team. These options do not make the account undetected. Check status after a Title Update before you launch.',
-      `Yes. EA Javelin still applies in Ultimate Team. These options do not make the account undetected. Check ${link('status', '/status/')} after a Title Update before you launch.`,
+      'Yes. Anti-cheat enforcement still applies in Ultimate Team. These options do not make the account undetected. Check status after a Title Update before you launch.',
+      `Yes. Anti-cheat enforcement still applies in Ultimate Team. These options do not make the account undetected. Check ${link('status', '/status/')} after a Title Update before you launch.`,
     ),
     blogFaq(
       'rel-ut-3',
@@ -181,7 +181,7 @@ const relatedBlogFaqs: Record<string, SiteFaqItem[]> = {
       'rel-gp-2',
       'faqBanRisk',
       'Is AI auto play safe to leave running?',
-      'No. It is a labeled assist with the same EA Javelin risk as other match injectors. It is not an unattended win script.',
+      'No. It is a labeled assist with the same ban risk as other match injectors. It is not an unattended win script.',
     ),
     blogFaq(
       'rel-gp-3',
@@ -201,7 +201,7 @@ const relatedBlogFaqs: Record<string, SiteFaqItem[]> = {
       'rel-pc-2',
       'faqBanRisk',
       'Can 99 stats still get the club flagged?',
-      'Yes. Clubs still run under EA Javelin. A high attribute line is visible to the match and is not an undetected claim.',
+      'Yes. Clubs still run under the same anti-cheat rules. A high attribute line is visible to the match and is not an undetected claim.',
     ),
     blogFaq(
       'rel-pc-3',
@@ -220,7 +220,7 @@ const relatedBlogFaqs: Record<string, SiteFaqItem[]> = {
     blogFaq(
       'rel-cm-2',
       'faqBanRisk',
-      'Does offline Career remove EA Javelin risk?',
+      'Does offline Career remove online ban risk?',
       'Launching the client still loads Javelin on PC. Offline play lowers exposure compared with Ultimate Team, and it is not a promise of no enforcement.',
     ),
     blogFaq(
@@ -248,8 +248,8 @@ const relatedBlogFaqs: Record<string, SiteFaqItem[]> = {
       'rel-mm-3',
       'faqBanRisk',
       'Is a mod menu undetected in Ultimate Team?',
-      'No. The menu does not stop EA Javelin. Read status after each client update and treat online use as ban risk.',
-      `No. The menu does not stop EA Javelin. Read ${link('status', '/status/')} after each client update and treat online use as ban risk.`,
+      'No. The menu does not stop enforcement. Read status after each client update and treat online use as ban risk.',
+      `No. The menu does not stop enforcement. Read ${link('status', '/status/')} after each client update and treat online use as ban risk.`,
     ),
   ],
   'fc-27-desync-bypass': [
@@ -303,7 +303,7 @@ const relatedBlogFaqs: Record<string, SiteFaqItem[]> = {
     blogFaq(
       'rel-cg-2',
       'faqBanRisk',
-      'Can any setting remove EA Javelin risk?',
+      'Can any setting remove anti-cheat risk?',
       'No. Anti-Ban Protection and the rest of the menu do not make play undetected. Online modes carry more exposure than a local session.',
     ),
     blogFaq(
@@ -351,7 +351,7 @@ const relatedBlogFaqs: Record<string, SiteFaqItem[]> = {
     blogFaq(
       'rel-jv-3',
       'faqBanRisk',
-      'Does this order stop EA Javelin?',
+      'Does this order stop enforcement?',
       'No. FC27 Javelin anti-cheat still applies. Anti-Ban Protection is a menu toggle. It is not an undetected claim. Read status before you launch.',
       `No. FC27 Javelin anti-cheat still applies. Anti-Ban Protection is a menu toggle. It is not an undetected claim. Read ${link('status', '/status/')} before you launch.`,
     ),
@@ -367,7 +367,7 @@ const relatedBlogFaqs: Record<string, SiteFaqItem[]> = {
       'rel-rv-2',
       'faqBanRisk',
       'Does “best” mean undetected?',
-      'No. This review compares menu coverage and price. EA Javelin can still act on the account. There is no undetected promise.',
+      'No. This review compares menu coverage and price. Enforcement can still act on the account. There is no undetected promise.',
     ),
     blogFaq(
       'rel-rv-3',
